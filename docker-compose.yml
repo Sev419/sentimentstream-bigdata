@@ -1,0 +1,69 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: sentimentstream-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+    volumes:
+      - mongo_data:/data/db
+      - ./database/init:/docker-entrypoint-initdb.d:ro
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/api/Dockerfile
+    container_name: sentimentstream-api
+    restart: unless-stopped
+    env_file:
+      - .env.example
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      MONGO_ENABLED: "true"
+      API_HOST: 0.0.0.0
+      API_PORT: "8000"
+    ports:
+      - "8000:8000"
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+  spark-job:
+    build:
+      context: .
+      dockerfile: docker/spark/Dockerfile
+    container_name: sentimentstream-spark-job
+    profiles:
+      - processing
+    env_file:
+      - .env.example
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      MONGO_ENABLED: "true"
+      MONGO_DB_NAME: sentimentstream_db
+      MONGO_COLLECTION: predictions
+      SPARK_MASTER: local[1]
+      SPARK_SHUFFLE_PARTITIONS: "1"
+      SPARK_DEFAULT_PARALLELISM: "1"
+      SPARK_UI_ENABLED: "false"
+      SPARK_DRIVER_BIND_ADDRESS: 127.0.0.1
+      SPARK_DRIVER_HOST: 127.0.0.1
+    working_dir: /app
+    volumes:
+      - ./:/app
+    depends_on:
+      mongo:
+        condition: service_healthy
+    command: >
+      sh -c "python spark_processing/jobs/smoke_spark_session.py --timeout 120 &&
+             python spark_processing/streaming/simulate_micro_batches.py &&
+             python spark_processing/jobs/process_microbatch_sentiments.py --process-only --input data/streaming/input/microbatch_001.csv"
+
+volumes:
+  mongo_data:
