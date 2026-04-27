@@ -294,3 +294,4 @@ Estas metricas son bajas porque el dataset sin duplicados conserva solo 30 texto
 - PySpark en Windows puede dejar procesos colgados si `SparkSession` no arranca.
 - MongoDB debe estar activo antes de usar `MONGO_ENABLED=true`.
 - Power BI queda pendiente hasta estabilizar Spark -> Mongo -> Flask.
+## Proyecto finalizado completamente
