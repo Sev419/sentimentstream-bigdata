@@ -1,0 +1,50 @@
+pipeline {
+    agent any
+
+    options {
+        timestamps()
+    }
+
+    stages {
+        stage('Setup') {
+            steps {
+                sh 'docker version'
+            }
+        }
+
+        stage('Levantar Mongo') {
+            steps {
+                sh 'docker compose up -d mongo'
+            }
+        }
+
+        stage('Ejecutar Spark job') {
+            steps {
+                sh 'docker compose --profile processing run --rm spark-job python spark_processing/jobs/process_microbatch_sentiments.py --process-only --input data/streaming/input/microbatch_001.csv'
+            }
+        }
+
+        stage('Validar Mongo') {
+            steps {
+                sh '''
+                    docker compose exec -T mongo mongosh --quiet --eval "const count = db.getSiblingDB('sentimentstream_db').predictions.countDocuments({}); print(count); if (count <= 0) { quit(1); }"
+                '''
+            }
+        }
+
+        stage('Validar API') {
+            steps {
+                sh '''
+                    docker compose up -d api
+                    curl --fail --silent --show-error http://127.0.0.1:8000/stats
+                '''
+            }
+        }
+    }
+
+    post {
+        always {
+            sh 'docker compose ps'
+        }
+    }
+}

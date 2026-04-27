@@ -1,0 +1,26 @@
+id,texto,texto_preprocesado,sentimiento,microbatch_id,event_time
+1,Amazing experience with the service,amazing experience with the service,positivo,1,2026-04-20T03:17:53.629828+00:00
+2,I would not recommend it,i would not recommend it,negativo,1,2026-04-20T03:17:53.629828+00:00
+3,The file was uploaded successfully,the file was uploaded successfully,neutral,1,2026-04-20T03:17:53.629828+00:00
+4,Highly recommend this tool,highly recommend this tool,positivo,1,2026-04-20T03:17:53.629828+00:00
+5,Poor customer service,poor customer service,negativo,1,2026-04-20T03:17:53.629828+00:00
+6,Documentation has been updated,documentation has been updated,neutral,1,2026-04-20T03:17:53.629828+00:00
+7,Highly recommend this tool,highly recommend this tool,positivo,1,2026-04-20T03:17:53.629828+00:00
+8,Terrible experience,terrible experience,negativo,1,2026-04-20T03:17:53.629828+00:00
+9,System maintenance will occur tonight,system maintenance will occur tonight,neutral,1,2026-04-20T03:17:53.629828+00:00
+10,Great support from the team,great support from the team,positivo,1,2026-04-20T03:17:53.629828+00:00
+11,Too many bugs and errors,too many bugs and errors,negativo,1,2026-04-20T03:17:53.629828+00:00
+12,Version 2.1 is now available,version 2.1 is now available,neutral,1,2026-04-20T03:17:53.629828+00:00
+13,I love this product,i love this product,positivo,1,2026-04-20T03:17:53.629828+00:00
+14,It made my work harder,it made my work harder,negativo,1,2026-04-20T03:17:53.629828+00:00
+15,The project deadline is next Monday,the project deadline is next monday,neutral,1,2026-04-20T03:17:53.629828+00:00
+16,Amazing experience with the service,amazing experience with the service,positivo,1,2026-04-20T03:17:53.629828+00:00
+17,Very disappointed with the performance,very disappointed with the performance,negativo,1,2026-04-20T03:17:53.629828+00:00
+18,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral,1,2026-04-20T03:17:53.629828+00:00
+19,Truly a game changer,truly a game changer,positivo,1,2026-04-20T03:17:53.629828+00:00
+20,Extremely slow and unresponsive,extremely slow and unresponsive,negativo,1,2026-04-20T03:17:53.629828+00:00
+21,Documentation has been updated,documentation has been updated,neutral,1,2026-04-20T03:17:53.629828+00:00
+22,Everything works perfectly,everything works perfectly,positivo,1,2026-04-20T03:17:53.629828+00:00
+23,Extremely slow and unresponsive,extremely slow and unresponsive,negativo,1,2026-04-20T03:17:53.629828+00:00
+24,System maintenance will occur tonight,system maintenance will occur tonight,neutral,1,2026-04-20T03:17:53.629828+00:00
+25,Highly recommend this tool,highly recommend this tool,positivo,1,2026-04-20T03:17:53.629828+00:00

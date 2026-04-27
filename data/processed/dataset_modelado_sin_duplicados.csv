@@ -1,0 +1,31 @@
+id,texto,texto_preprocesado,sentimiento
+1,Amazing experience with the service,amazing experience with the service,positivo
+2,I would not recommend it,i would not recommend it,negativo
+3,The file was uploaded successfully,the file was uploaded successfully,neutral
+4,Highly recommend this tool,highly recommend this tool,positivo
+5,Poor customer service,poor customer service,negativo
+6,Documentation has been updated,documentation has been updated,neutral
+8,Terrible experience,terrible experience,negativo
+9,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+10,Great support from the team,great support from the team,positivo
+11,Too many bugs and errors,too many bugs and errors,negativo
+12,Version 2.1 is now available,version 2.1 is now available,neutral
+13,I love this product,i love this product,positivo
+14,It made my work harder,it made my work harder,negativo
+15,The project deadline is next Monday,the project deadline is next monday,neutral
+17,Very disappointed with the performance,very disappointed with the performance,negativo
+18,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+19,Truly a game changer,truly a game changer,positivo
+20,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+22,Everything works perfectly,everything works perfectly,positivo
+26,This is the worst tool I've used,this is the worst tool i've used,negativo
+28,Very satisfied with the quality,very satisfied with the quality,positivo
+30,User logged in from a new device,user logged in from a new device,neutral
+32,Keeps crashing every time,keeps crashing every time,negativo
+34,The performance is outstanding,the performance is outstanding,positivo
+39,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+40,Excellent usability and speed,excellent usability and speed,positivo
+42,This update includes bug fixes,this update includes bug fixes,neutral
+47,Not user friendly at all,not user friendly at all,negativo
+48,No major changes were introduced,no major changes were introduced,neutral
+106,This platform helped me grow,this platform helped me grow,positivo

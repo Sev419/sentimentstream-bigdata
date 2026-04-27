@@ -1,0 +1,15 @@
+{
+  "item": {
+    "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+    "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+    "id": 1,
+    "microbatch_id": 1,
+    "microbatch_source_file": "microbatch_001.csv",
+    "predicted_label": "positivo",
+    "prediction": 2.0,
+    "sentimiento": "positivo",
+    "source": "spark_processing",
+    "texto": "Amazing experience with the service",
+    "texto_preprocesado": "amazing experience with the service"
+  }
+}

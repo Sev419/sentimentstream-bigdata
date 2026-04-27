@@ -1,0 +1,35 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Python Version') {
+            steps {
+                bat 'python --version'
+            }
+        }
+
+        stage('Install Dependencies') {
+            steps {
+                bat 'python -m pip install -r requirements.txt'
+            }
+        }
+
+        stage('Static Syntax Check') {
+            steps {
+                bat 'python -m py_compile spark_processing\\streaming\\simulate_micro_batches.py spark_processing\\jobs\\process_microbatch_sentiments.py api_flask\\app.py database\\mongo_repository.py'
+            }
+        }
+
+        stage('Unit Tests') {
+            steps {
+                bat 'python -m pytest tests'
+            }
+        }
+
+        stage('Docker Compose Validation') {
+            steps {
+                bat 'docker compose config'
+            }
+        }
+    }
+}

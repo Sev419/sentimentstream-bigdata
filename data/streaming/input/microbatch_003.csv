@@ -1,0 +1,26 @@
+id,texto,texto_preprocesado,sentimiento,microbatch_id,event_time
+51,No major changes were introduced,no major changes were introduced,neutral,3,2026-04-20T03:17:53.652529+00:00
+52,Great support from the team,great support from the team,positivo,3,2026-04-20T03:17:53.652529+00:00
+53,Too many bugs and errors,too many bugs and errors,negativo,3,2026-04-20T03:17:53.652529+00:00
+54,Version 2.1 is now available,version 2.1 is now available,neutral,3,2026-04-20T03:17:53.652529+00:00
+55,Amazing experience with the service,amazing experience with the service,positivo,3,2026-04-20T03:17:53.652529+00:00
+56,Not user friendly at all,not user friendly at all,negativo,3,2026-04-20T03:17:53.652529+00:00
+57,Documentation has been updated,documentation has been updated,neutral,3,2026-04-20T03:17:53.652529+00:00
+58,Highly recommend this tool,highly recommend this tool,positivo,3,2026-04-20T03:17:53.652529+00:00
+59,Terrible experience,terrible experience,negativo,3,2026-04-20T03:17:53.652529+00:00
+60,Version 2.1 is now available,version 2.1 is now available,neutral,3,2026-04-20T03:17:53.652529+00:00
+61,Very satisfied with the quality,very satisfied with the quality,positivo,3,2026-04-20T03:17:53.652529+00:00
+62,Extremely slow and unresponsive,extremely slow and unresponsive,negativo,3,2026-04-20T03:17:53.652529+00:00
+63,No major changes were introduced,no major changes were introduced,neutral,3,2026-04-20T03:17:53.652529+00:00
+64,Very satisfied with the quality,very satisfied with the quality,positivo,3,2026-04-20T03:17:53.652529+00:00
+65,It made my work harder,it made my work harder,negativo,3,2026-04-20T03:17:53.652529+00:00
+66,The project deadline is next Monday,the project deadline is next monday,neutral,3,2026-04-20T03:17:53.652529+00:00
+67,I love this product,i love this product,positivo,3,2026-04-20T03:17:53.652529+00:00
+68,Extremely slow and unresponsive,extremely slow and unresponsive,negativo,3,2026-04-20T03:17:53.652529+00:00
+69,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral,3,2026-04-20T03:17:53.652529+00:00
+70,Amazing experience with the service,amazing experience with the service,positivo,3,2026-04-20T03:17:53.652529+00:00
+71,Very disappointed with the performance,very disappointed with the performance,negativo,3,2026-04-20T03:17:53.652529+00:00
+72,Version 2.1 is now available,version 2.1 is now available,neutral,3,2026-04-20T03:17:53.652529+00:00
+73,Truly a game changer,truly a game changer,positivo,3,2026-04-20T03:17:53.652529+00:00
+74,I would not recommend it,i would not recommend it,negativo,3,2026-04-20T03:17:53.652529+00:00
+75,Documentation has been updated,documentation has been updated,neutral,3,2026-04-20T03:17:53.652529+00:00

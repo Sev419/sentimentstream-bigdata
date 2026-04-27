@@ -1,0 +1,26 @@
+id,texto,texto_preprocesado,sentimiento,microbatch_id,event_time
+26,This is the worst tool I've used,this is the worst tool i've used,negativo,2,2026-04-20T03:17:53.635850+00:00
+27,The file was uploaded successfully,the file was uploaded successfully,neutral,2,2026-04-20T03:17:53.635850+00:00
+28,Very satisfied with the quality,very satisfied with the quality,positivo,2,2026-04-20T03:17:53.635850+00:00
+29,I would not recommend it,i would not recommend it,negativo,2,2026-04-20T03:17:53.635850+00:00
+30,User logged in from a new device,user logged in from a new device,neutral,2,2026-04-20T03:17:53.635850+00:00
+31,Truly a game changer,truly a game changer,positivo,2,2026-04-20T03:17:53.635850+00:00
+32,Keeps crashing every time,keeps crashing every time,negativo,2,2026-04-20T03:17:53.635850+00:00
+33,System maintenance will occur tonight,system maintenance will occur tonight,neutral,2,2026-04-20T03:17:53.635850+00:00
+34,The performance is outstanding,the performance is outstanding,positivo,2,2026-04-20T03:17:53.635850+00:00
+35,It made my work harder,it made my work harder,negativo,2,2026-04-20T03:17:53.635850+00:00
+36,Documentation has been updated,documentation has been updated,neutral,2,2026-04-20T03:17:53.635850+00:00
+37,The performance is outstanding,the performance is outstanding,positivo,2,2026-04-20T03:17:53.635850+00:00
+38,Too many bugs and errors,too many bugs and errors,negativo,2,2026-04-20T03:17:53.635850+00:00
+39,The server uptime is 99.9%,the server uptime is 99.9%,neutral,2,2026-04-20T03:17:53.635850+00:00
+40,Excellent usability and speed,excellent usability and speed,positivo,2,2026-04-20T03:17:53.635850+00:00
+41,Extremely slow and unresponsive,extremely slow and unresponsive,negativo,2,2026-04-20T03:17:53.635850+00:00
+42,This update includes bug fixes,this update includes bug fixes,neutral,2,2026-04-20T03:17:53.635850+00:00
+43,Everything works perfectly,everything works perfectly,positivo,2,2026-04-20T03:17:53.635850+00:00
+44,Very disappointed with the performance,very disappointed with the performance,negativo,2,2026-04-20T03:17:53.635850+00:00
+45,The file was uploaded successfully,the file was uploaded successfully,neutral,2,2026-04-20T03:17:53.635850+00:00
+46,Highly recommend this tool,highly recommend this tool,positivo,2,2026-04-20T03:17:53.635850+00:00
+47,Not user friendly at all,not user friendly at all,negativo,2,2026-04-20T03:17:53.635850+00:00
+48,No major changes were introduced,no major changes were introduced,neutral,2,2026-04-20T03:17:53.635850+00:00
+49,Everything works perfectly,everything works perfectly,positivo,2,2026-04-20T03:17:53.635850+00:00
+50,This is the worst tool I've used,this is the worst tool i've used,negativo,2,2026-04-20T03:17:53.635850+00:00

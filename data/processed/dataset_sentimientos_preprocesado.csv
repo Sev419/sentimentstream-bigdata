@@ -1,0 +1,503 @@
+id,texto,texto_preprocesado,sentimiento
+1,Amazing experience with the service,amazing experience with the service,positivo
+2,I would not recommend it,i would not recommend it,negativo
+3,The file was uploaded successfully,the file was uploaded successfully,neutral
+4,Highly recommend this tool,highly recommend this tool,positivo
+5,Poor customer service,poor customer service,negativo
+6,Documentation has been updated,documentation has been updated,neutral
+7,Highly recommend this tool,highly recommend this tool,positivo
+8,Terrible experience,terrible experience,negativo
+9,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+10,Great support from the team,great support from the team,positivo
+11,Too many bugs and errors,too many bugs and errors,negativo
+12,Version 2.1 is now available,version 2.1 is now available,neutral
+13,I love this product,i love this product,positivo
+14,It made my work harder,it made my work harder,negativo
+15,The project deadline is next Monday,the project deadline is next monday,neutral
+16,Amazing experience with the service,amazing experience with the service,positivo
+17,Very disappointed with the performance,very disappointed with the performance,negativo
+18,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+19,Truly a game changer,truly a game changer,positivo
+20,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+21,Documentation has been updated,documentation has been updated,neutral
+22,Everything works perfectly,everything works perfectly,positivo
+23,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+24,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+25,Highly recommend this tool,highly recommend this tool,positivo
+26,This is the worst tool I've used,this is the worst tool i've used,negativo
+27,The file was uploaded successfully,the file was uploaded successfully,neutral
+28,Very satisfied with the quality,very satisfied with the quality,positivo
+29,I would not recommend it,i would not recommend it,negativo
+30,User logged in from a new device,user logged in from a new device,neutral
+31,Truly a game changer,truly a game changer,positivo
+32,Keeps crashing every time,keeps crashing every time,negativo
+33,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+34,The performance is outstanding,the performance is outstanding,positivo
+35,It made my work harder,it made my work harder,negativo
+36,Documentation has been updated,documentation has been updated,neutral
+37,The performance is outstanding,the performance is outstanding,positivo
+38,Too many bugs and errors,too many bugs and errors,negativo
+39,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+40,Excellent usability and speed,excellent usability and speed,positivo
+41,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+42,This update includes bug fixes,this update includes bug fixes,neutral
+43,Everything works perfectly,everything works perfectly,positivo
+44,Very disappointed with the performance,very disappointed with the performance,negativo
+45,The file was uploaded successfully,the file was uploaded successfully,neutral
+46,Highly recommend this tool,highly recommend this tool,positivo
+47,Not user friendly at all,not user friendly at all,negativo
+48,No major changes were introduced,no major changes were introduced,neutral
+49,Everything works perfectly,everything works perfectly,positivo
+50,This is the worst tool I've used,this is the worst tool i've used,negativo
+51,No major changes were introduced,no major changes were introduced,neutral
+52,Great support from the team,great support from the team,positivo
+53,Too many bugs and errors,too many bugs and errors,negativo
+54,Version 2.1 is now available,version 2.1 is now available,neutral
+55,Amazing experience with the service,amazing experience with the service,positivo
+56,Not user friendly at all,not user friendly at all,negativo
+57,Documentation has been updated,documentation has been updated,neutral
+58,Highly recommend this tool,highly recommend this tool,positivo
+59,Terrible experience,terrible experience,negativo
+60,Version 2.1 is now available,version 2.1 is now available,neutral
+61,Very satisfied with the quality,very satisfied with the quality,positivo
+62,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+63,No major changes were introduced,no major changes were introduced,neutral
+64,Very satisfied with the quality,very satisfied with the quality,positivo
+65,It made my work harder,it made my work harder,negativo
+66,The project deadline is next Monday,the project deadline is next monday,neutral
+67,I love this product,i love this product,positivo
+68,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+69,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+70,Amazing experience with the service,amazing experience with the service,positivo
+71,Very disappointed with the performance,very disappointed with the performance,negativo
+72,Version 2.1 is now available,version 2.1 is now available,neutral
+73,Truly a game changer,truly a game changer,positivo
+74,I would not recommend it,i would not recommend it,negativo
+75,Documentation has been updated,documentation has been updated,neutral
+76,Great support from the team,great support from the team,positivo
+77,This is the worst tool I've used,this is the worst tool i've used,negativo
+78,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+79,Everything works perfectly,everything works perfectly,positivo
+80,Not user friendly at all,not user friendly at all,negativo
+81,The file was uploaded successfully,the file was uploaded successfully,neutral
+82,Truly a game changer,truly a game changer,positivo
+83,It made my work harder,it made my work harder,negativo
+84,No major changes were introduced,no major changes were introduced,neutral
+85,The performance is outstanding,the performance is outstanding,positivo
+86,It made my work harder,it made my work harder,negativo
+87,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+88,Very satisfied with the quality,very satisfied with the quality,positivo
+89,Not user friendly at all,not user friendly at all,negativo
+90,This update includes bug fixes,this update includes bug fixes,neutral
+91,Highly recommend this tool,highly recommend this tool,positivo
+92,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+93,This update includes bug fixes,this update includes bug fixes,neutral
+94,Truly a game changer,truly a game changer,positivo
+95,I would not recommend it,i would not recommend it,negativo
+96,This update includes bug fixes,this update includes bug fixes,neutral
+97,Highly recommend this tool,highly recommend this tool,positivo
+98,It made my work harder,it made my work harder,negativo
+99,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+100,Very satisfied with the quality,very satisfied with the quality,positivo
+101,Not user friendly at all,not user friendly at all,negativo
+102,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+103,Truly a game changer,truly a game changer,positivo
+104,Very disappointed with the performance,very disappointed with the performance,negativo
+105,Documentation has been updated,documentation has been updated,neutral
+106,This platform helped me grow,this platform helped me grow,positivo
+107,It made my work harder,it made my work harder,negativo
+108,This update includes bug fixes,this update includes bug fixes,neutral
+109,Amazing experience with the service,amazing experience with the service,positivo
+110,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+111,Documentation has been updated,documentation has been updated,neutral
+112,Amazing experience with the service,amazing experience with the service,positivo
+113,I would not recommend it,i would not recommend it,negativo
+114,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+115,Excellent usability and speed,excellent usability and speed,positivo
+116,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+117,User logged in from a new device,user logged in from a new device,neutral
+118,Truly a game changer,truly a game changer,positivo
+119,This is the worst tool I've used,this is the worst tool i've used,negativo
+120,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+121,Truly a game changer,truly a game changer,positivo
+122,Terrible experience,terrible experience,negativo
+123,Documentation has been updated,documentation has been updated,neutral
+124,The performance is outstanding,the performance is outstanding,positivo
+125,It made my work harder,it made my work harder,negativo
+126,Version 2.1 is now available,version 2.1 is now available,neutral
+127,I love this product,i love this product,positivo
+128,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+129,Version 2.1 is now available,version 2.1 is now available,neutral
+130,Excellent usability and speed,excellent usability and speed,positivo
+131,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+132,Version 2.1 is now available,version 2.1 is now available,neutral
+133,Everything works perfectly,everything works perfectly,positivo
+134,Poor customer service,poor customer service,negativo
+135,User logged in from a new device,user logged in from a new device,neutral
+136,Highly recommend this tool,highly recommend this tool,positivo
+137,I would not recommend it,i would not recommend it,negativo
+138,The file was uploaded successfully,the file was uploaded successfully,neutral
+139,Everything works perfectly,everything works perfectly,positivo
+140,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+141,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+142,Truly a game changer,truly a game changer,positivo
+143,Terrible experience,terrible experience,negativo
+144,This update includes bug fixes,this update includes bug fixes,neutral
+145,Excellent usability and speed,excellent usability and speed,positivo
+146,This is the worst tool I've used,this is the worst tool i've used,negativo
+147,The file was uploaded successfully,the file was uploaded successfully,neutral
+148,The performance is outstanding,the performance is outstanding,positivo
+149,It made my work harder,it made my work harder,negativo
+150,User logged in from a new device,user logged in from a new device,neutral
+151,I love this product,i love this product,positivo
+152,Poor customer service,poor customer service,negativo
+153,No major changes were introduced,no major changes were introduced,neutral
+154,Truly a game changer,truly a game changer,positivo
+155,Poor customer service,poor customer service,negativo
+156,The project deadline is next Monday,the project deadline is next monday,neutral
+157,The performance is outstanding,the performance is outstanding,positivo
+158,Poor customer service,poor customer service,negativo
+159,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+160,The performance is outstanding,the performance is outstanding,positivo
+161,Very disappointed with the performance,very disappointed with the performance,negativo
+162,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+163,I love this product,i love this product,positivo
+164,It made my work harder,it made my work harder,negativo
+165,No major changes were introduced,no major changes were introduced,neutral
+166,This platform helped me grow,this platform helped me grow,positivo
+167,Not user friendly at all,not user friendly at all,negativo
+168,User logged in from a new device,user logged in from a new device,neutral
+169,The performance is outstanding,the performance is outstanding,positivo
+170,Very disappointed with the performance,very disappointed with the performance,negativo
+171,The project deadline is next Monday,the project deadline is next monday,neutral
+172,Highly recommend this tool,highly recommend this tool,positivo
+173,Keeps crashing every time,keeps crashing every time,negativo
+174,Version 2.1 is now available,version 2.1 is now available,neutral
+175,Great support from the team,great support from the team,positivo
+176,Very disappointed with the performance,very disappointed with the performance,negativo
+177,Version 2.1 is now available,version 2.1 is now available,neutral
+178,The performance is outstanding,the performance is outstanding,positivo
+179,Very disappointed with the performance,very disappointed with the performance,negativo
+180,The file was uploaded successfully,the file was uploaded successfully,neutral
+181,Excellent usability and speed,excellent usability and speed,positivo
+182,Very disappointed with the performance,very disappointed with the performance,negativo
+183,User logged in from a new device,user logged in from a new device,neutral
+184,This platform helped me grow,this platform helped me grow,positivo
+185,I would not recommend it,i would not recommend it,negativo
+186,No major changes were introduced,no major changes were introduced,neutral
+187,Everything works perfectly,everything works perfectly,positivo
+188,It made my work harder,it made my work harder,negativo
+189,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+190,Truly a game changer,truly a game changer,positivo
+191,This is the worst tool I've used,this is the worst tool i've used,negativo
+192,Documentation has been updated,documentation has been updated,neutral
+193,Very satisfied with the quality,very satisfied with the quality,positivo
+194,Terrible experience,terrible experience,negativo
+195,Version 2.1 is now available,version 2.1 is now available,neutral
+196,Everything works perfectly,everything works perfectly,positivo
+197,Not user friendly at all,not user friendly at all,negativo
+198,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+199,Great support from the team,great support from the team,positivo
+200,Very disappointed with the performance,very disappointed with the performance,negativo
+201,The project deadline is next Monday,the project deadline is next monday,neutral
+202,Great support from the team,great support from the team,positivo
+203,It made my work harder,it made my work harder,negativo
+204,No major changes were introduced,no major changes were introduced,neutral
+205,The performance is outstanding,the performance is outstanding,positivo
+206,It made my work harder,it made my work harder,negativo
+207,The project deadline is next Monday,the project deadline is next monday,neutral
+208,Highly recommend this tool,highly recommend this tool,positivo
+209,Poor customer service,poor customer service,negativo
+210,No major changes were introduced,no major changes were introduced,neutral
+211,This platform helped me grow,this platform helped me grow,positivo
+212,Not user friendly at all,not user friendly at all,negativo
+213,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+214,Highly recommend this tool,highly recommend this tool,positivo
+215,This is the worst tool I've used,this is the worst tool i've used,negativo
+216,This update includes bug fixes,this update includes bug fixes,neutral
+217,Highly recommend this tool,highly recommend this tool,positivo
+218,Keeps crashing every time,keeps crashing every time,negativo
+219,Documentation has been updated,documentation has been updated,neutral
+220,Great support from the team,great support from the team,positivo
+221,Too many bugs and errors,too many bugs and errors,negativo
+222,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+223,Everything works perfectly,everything works perfectly,positivo
+224,It made my work harder,it made my work harder,negativo
+225,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+226,This platform helped me grow,this platform helped me grow,positivo
+227,Poor customer service,poor customer service,negativo
+228,This update includes bug fixes,this update includes bug fixes,neutral
+229,Excellent usability and speed,excellent usability and speed,positivo
+230,Not user friendly at all,not user friendly at all,negativo
+231,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+232,Very satisfied with the quality,very satisfied with the quality,positivo
+233,Too many bugs and errors,too many bugs and errors,negativo
+234,The file was uploaded successfully,the file was uploaded successfully,neutral
+235,The performance is outstanding,the performance is outstanding,positivo
+236,I would not recommend it,i would not recommend it,negativo
+237,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+238,Highly recommend this tool,highly recommend this tool,positivo
+239,I would not recommend it,i would not recommend it,negativo
+240,The project deadline is next Monday,the project deadline is next monday,neutral
+241,Amazing experience with the service,amazing experience with the service,positivo
+242,Not user friendly at all,not user friendly at all,negativo
+243,User logged in from a new device,user logged in from a new device,neutral
+244,This platform helped me grow,this platform helped me grow,positivo
+245,Not user friendly at all,not user friendly at all,negativo
+246,The file was uploaded successfully,the file was uploaded successfully,neutral
+247,Everything works perfectly,everything works perfectly,positivo
+248,Not user friendly at all,not user friendly at all,negativo
+249,Documentation has been updated,documentation has been updated,neutral
+250,Amazing experience with the service,amazing experience with the service,positivo
+251,Too many bugs and errors,too many bugs and errors,negativo
+252,Documentation has been updated,documentation has been updated,neutral
+253,This platform helped me grow,this platform helped me grow,positivo
+254,This is the worst tool I've used,this is the worst tool i've used,negativo
+255,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+256,The performance is outstanding,the performance is outstanding,positivo
+257,Poor customer service,poor customer service,negativo
+258,No major changes were introduced,no major changes were introduced,neutral
+259,Truly a game changer,truly a game changer,positivo
+260,Keeps crashing every time,keeps crashing every time,negativo
+261,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+262,Amazing experience with the service,amazing experience with the service,positivo
+263,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+264,No major changes were introduced,no major changes were introduced,neutral
+265,Excellent usability and speed,excellent usability and speed,positivo
+266,Too many bugs and errors,too many bugs and errors,negativo
+267,The project deadline is next Monday,the project deadline is next monday,neutral
+268,Very satisfied with the quality,very satisfied with the quality,positivo
+269,Too many bugs and errors,too many bugs and errors,negativo
+270,No major changes were introduced,no major changes were introduced,neutral
+271,Amazing experience with the service,amazing experience with the service,positivo
+272,Keeps crashing every time,keeps crashing every time,negativo
+273,No major changes were introduced,no major changes were introduced,neutral
+274,I love this product,i love this product,positivo
+275,Not user friendly at all,not user friendly at all,negativo
+276,The file was uploaded successfully,the file was uploaded successfully,neutral
+277,Everything works perfectly,everything works perfectly,positivo
+278,Terrible experience,terrible experience,negativo
+279,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+280,Amazing experience with the service,amazing experience with the service,positivo
+281,Keeps crashing every time,keeps crashing every time,negativo
+282,User logged in from a new device,user logged in from a new device,neutral
+283,Great support from the team,great support from the team,positivo
+284,Terrible experience,terrible experience,negativo
+285,Documentation has been updated,documentation has been updated,neutral
+286,The performance is outstanding,the performance is outstanding,positivo
+287,Keeps crashing every time,keeps crashing every time,negativo
+288,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+289,Highly recommend this tool,highly recommend this tool,positivo
+290,It made my work harder,it made my work harder,negativo
+291,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+292,Great support from the team,great support from the team,positivo
+293,Keeps crashing every time,keeps crashing every time,negativo
+294,Version 2.1 is now available,version 2.1 is now available,neutral
+295,This platform helped me grow,this platform helped me grow,positivo
+296,Very disappointed with the performance,very disappointed with the performance,negativo
+297,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+298,The performance is outstanding,the performance is outstanding,positivo
+299,Not user friendly at all,not user friendly at all,negativo
+300,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+301,Amazing experience with the service,amazing experience with the service,positivo
+302,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+303,User logged in from a new device,user logged in from a new device,neutral
+304,I love this product,i love this product,positivo
+305,Poor customer service,poor customer service,negativo
+306,The project deadline is next Monday,the project deadline is next monday,neutral
+307,I love this product,i love this product,positivo
+308,This is the worst tool I've used,this is the worst tool i've used,negativo
+309,User logged in from a new device,user logged in from a new device,neutral
+310,Truly a game changer,truly a game changer,positivo
+311,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+312,Documentation has been updated,documentation has been updated,neutral
+313,Highly recommend this tool,highly recommend this tool,positivo
+314,I would not recommend it,i would not recommend it,negativo
+315,This update includes bug fixes,this update includes bug fixes,neutral
+316,Truly a game changer,truly a game changer,positivo
+317,Keeps crashing every time,keeps crashing every time,negativo
+318,User logged in from a new device,user logged in from a new device,neutral
+319,I love this product,i love this product,positivo
+320,Poor customer service,poor customer service,negativo
+321,The project deadline is next Monday,the project deadline is next monday,neutral
+322,Amazing experience with the service,amazing experience with the service,positivo
+323,Too many bugs and errors,too many bugs and errors,negativo
+324,Version 2.1 is now available,version 2.1 is now available,neutral
+325,Great support from the team,great support from the team,positivo
+326,Too many bugs and errors,too many bugs and errors,negativo
+327,This update includes bug fixes,this update includes bug fixes,neutral
+328,Excellent usability and speed,excellent usability and speed,positivo
+329,This is the worst tool I've used,this is the worst tool i've used,negativo
+330,The file was uploaded successfully,the file was uploaded successfully,neutral
+331,Highly recommend this tool,highly recommend this tool,positivo
+332,It made my work harder,it made my work harder,negativo
+333,The project deadline is next Monday,the project deadline is next monday,neutral
+334,I love this product,i love this product,positivo
+335,Very disappointed with the performance,very disappointed with the performance,negativo
+336,This update includes bug fixes,this update includes bug fixes,neutral
+337,Everything works perfectly,everything works perfectly,positivo
+338,Keeps crashing every time,keeps crashing every time,negativo
+339,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+340,Excellent usability and speed,excellent usability and speed,positivo
+341,It made my work harder,it made my work harder,negativo
+342,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+343,Amazing experience with the service,amazing experience with the service,positivo
+344,Terrible experience,terrible experience,negativo
+345,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+346,The performance is outstanding,the performance is outstanding,positivo
+347,Not user friendly at all,not user friendly at all,negativo
+348,The file was uploaded successfully,the file was uploaded successfully,neutral
+349,Highly recommend this tool,highly recommend this tool,positivo
+350,Poor customer service,poor customer service,negativo
+351,The file was uploaded successfully,the file was uploaded successfully,neutral
+352,I love this product,i love this product,positivo
+353,Too many bugs and errors,too many bugs and errors,negativo
+354,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+355,Excellent usability and speed,excellent usability and speed,positivo
+356,Very disappointed with the performance,very disappointed with the performance,negativo
+357,User logged in from a new device,user logged in from a new device,neutral
+358,Highly recommend this tool,highly recommend this tool,positivo
+359,Terrible experience,terrible experience,negativo
+360,User logged in from a new device,user logged in from a new device,neutral
+361,This platform helped me grow,this platform helped me grow,positivo
+362,Keeps crashing every time,keeps crashing every time,negativo
+363,Version 2.1 is now available,version 2.1 is now available,neutral
+364,I love this product,i love this product,positivo
+365,Very disappointed with the performance,very disappointed with the performance,negativo
+366,Documentation has been updated,documentation has been updated,neutral
+367,Highly recommend this tool,highly recommend this tool,positivo
+368,Very disappointed with the performance,very disappointed with the performance,negativo
+369,The project deadline is next Monday,the project deadline is next monday,neutral
+370,I love this product,i love this product,positivo
+371,Very disappointed with the performance,very disappointed with the performance,negativo
+372,Documentation has been updated,documentation has been updated,neutral
+373,Great support from the team,great support from the team,positivo
+374,Not user friendly at all,not user friendly at all,negativo
+375,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+376,Amazing experience with the service,amazing experience with the service,positivo
+377,Very disappointed with the performance,very disappointed with the performance,negativo
+378,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+379,This platform helped me grow,this platform helped me grow,positivo
+380,I would not recommend it,i would not recommend it,negativo
+381,Documentation has been updated,documentation has been updated,neutral
+382,Amazing experience with the service,amazing experience with the service,positivo
+383,Too many bugs and errors,too many bugs and errors,negativo
+384,Version 2.1 is now available,version 2.1 is now available,neutral
+385,Excellent usability and speed,excellent usability and speed,positivo
+386,I would not recommend it,i would not recommend it,negativo
+387,Version 2.1 is now available,version 2.1 is now available,neutral
+388,Very satisfied with the quality,very satisfied with the quality,positivo
+389,I would not recommend it,i would not recommend it,negativo
+390,Documentation has been updated,documentation has been updated,neutral
+391,Everything works perfectly,everything works perfectly,positivo
+392,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+393,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+394,Amazing experience with the service,amazing experience with the service,positivo
+395,Terrible experience,terrible experience,negativo
+396,The file was uploaded successfully,the file was uploaded successfully,neutral
+397,Highly recommend this tool,highly recommend this tool,positivo
+398,Terrible experience,terrible experience,negativo
+399,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+400,I love this product,i love this product,positivo
+401,Keeps crashing every time,keeps crashing every time,negativo
+402,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+403,This platform helped me grow,this platform helped me grow,positivo
+404,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+405,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+406,The performance is outstanding,the performance is outstanding,positivo
+407,I would not recommend it,i would not recommend it,negativo
+408,This update includes bug fixes,this update includes bug fixes,neutral
+409,Highly recommend this tool,highly recommend this tool,positivo
+410,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+411,Documentation has been updated,documentation has been updated,neutral
+412,Great support from the team,great support from the team,positivo
+413,I would not recommend it,i would not recommend it,negativo
+414,Documentation has been updated,documentation has been updated,neutral
+415,Amazing experience with the service,amazing experience with the service,positivo
+416,Keeps crashing every time,keeps crashing every time,negativo
+417,The file was uploaded successfully,the file was uploaded successfully,neutral
+418,This platform helped me grow,this platform helped me grow,positivo
+419,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+420,No major changes were introduced,no major changes were introduced,neutral
+421,This platform helped me grow,this platform helped me grow,positivo
+422,It made my work harder,it made my work harder,negativo
+423,No major changes were introduced,no major changes were introduced,neutral
+424,Great support from the team,great support from the team,positivo
+425,I would not recommend it,i would not recommend it,negativo
+426,This update includes bug fixes,this update includes bug fixes,neutral
+427,Very satisfied with the quality,very satisfied with the quality,positivo
+428,Too many bugs and errors,too many bugs and errors,negativo
+429,The file was uploaded successfully,the file was uploaded successfully,neutral
+430,I love this product,i love this product,positivo
+431,Very disappointed with the performance,very disappointed with the performance,negativo
+432,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+433,Great support from the team,great support from the team,positivo
+434,Too many bugs and errors,too many bugs and errors,negativo
+435,Documentation has been updated,documentation has been updated,neutral
+436,Truly a game changer,truly a game changer,positivo
+437,It made my work harder,it made my work harder,negativo
+438,This update includes bug fixes,this update includes bug fixes,neutral
+439,Everything works perfectly,everything works perfectly,positivo
+440,Very disappointed with the performance,very disappointed with the performance,negativo
+441,The project deadline is next Monday,the project deadline is next monday,neutral
+442,Very satisfied with the quality,very satisfied with the quality,positivo
+443,Poor customer service,poor customer service,negativo
+444,User logged in from a new device,user logged in from a new device,neutral
+445,Everything works perfectly,everything works perfectly,positivo
+446,Terrible experience,terrible experience,negativo
+447,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+448,Very satisfied with the quality,very satisfied with the quality,positivo
+449,I would not recommend it,i would not recommend it,negativo
+450,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+451,Highly recommend this tool,highly recommend this tool,positivo
+452,Too many bugs and errors,too many bugs and errors,negativo
+453,Documentation has been updated,documentation has been updated,neutral
+454,Very satisfied with the quality,very satisfied with the quality,positivo
+455,Not user friendly at all,not user friendly at all,negativo
+456,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+457,Great support from the team,great support from the team,positivo
+458,I would not recommend it,i would not recommend it,negativo
+459,Documentation has been updated,documentation has been updated,neutral
+460,Great support from the team,great support from the team,positivo
+461,Too many bugs and errors,too many bugs and errors,negativo
+462,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+463,Excellent usability and speed,excellent usability and speed,positivo
+464,Very disappointed with the performance,very disappointed with the performance,negativo
+465,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+466,I love this product,i love this product,positivo
+467,I would not recommend it,i would not recommend it,negativo
+468,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+469,Excellent usability and speed,excellent usability and speed,positivo
+470,Too many bugs and errors,too many bugs and errors,negativo
+471,The server uptime is 99.9%,the server uptime is 99.9%,neutral
+472,Everything works perfectly,everything works perfectly,positivo
+473,Too many bugs and errors,too many bugs and errors,negativo
+474,This update includes bug fixes,this update includes bug fixes,neutral
+475,This platform helped me grow,this platform helped me grow,positivo
+476,Poor customer service,poor customer service,negativo
+477,User logged in from a new device,user logged in from a new device,neutral
+478,This platform helped me grow,this platform helped me grow,positivo
+479,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+480,Version 2.1 is now available,version 2.1 is now available,neutral
+481,I love this product,i love this product,positivo
+482,I would not recommend it,i would not recommend it,negativo
+483,The file was uploaded successfully,the file was uploaded successfully,neutral
+484,I love this product,i love this product,positivo
+485,Poor customer service,poor customer service,negativo
+486,The meeting is scheduled for 10 AM,the meeting is scheduled for 10 am,neutral
+487,Very satisfied with the quality,very satisfied with the quality,positivo
+488,Poor customer service,poor customer service,negativo
+489,This update includes bug fixes,this update includes bug fixes,neutral
+490,Amazing experience with the service,amazing experience with the service,positivo
+491,Too many bugs and errors,too many bugs and errors,negativo
+492,User logged in from a new device,user logged in from a new device,neutral
+493,This platform helped me grow,this platform helped me grow,positivo
+494,Poor customer service,poor customer service,negativo
+495,Version 2.1 is now available,version 2.1 is now available,neutral
+496,Highly recommend this tool,highly recommend this tool,positivo
+497,This is the worst tool I've used,this is the worst tool i've used,negativo
+498,This update includes bug fixes,this update includes bug fixes,neutral
+499,Truly a game changer,truly a game changer,positivo
+500,Extremely slow and unresponsive,extremely slow and unresponsive,negativo
+501,System maintenance will occur tonight,system maintenance will occur tonight,neutral
+502,Truly a game changer,truly a game changer,positivo

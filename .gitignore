@@ -1,0 +1,80 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local environment variables
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor local files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Test and type-check caches
+.pytest_cache/
+pytest-cache-files-*/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Local secrets
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+
+# Local databases, dumps, and Docker artifacts
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.archive
+mongo_data/
+docker-volumes/
+
+# Generated project artifacts
+spark/models/*
+!spark/models/.gitkeep
+
+spark/outputs/*
+!spark/outputs/.gitkeep
+
+data/streaming/processed/*
+!data/streaming/processed/.gitkeep
+
+# Large generated artifacts
+*.pkl
+*.joblib
+*.parquet
+*.orc
+*.avro
+
+# Power BI local lock/temp files
+~$*.pbix
+*.tmp.pbix

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+      "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+      "id": 1,
+      "microbatch_id": 1,
+      "microbatch_source_file": "microbatch_001.csv",
+      "predicted_label": "positivo",
+      "prediction": 2.0,
+      "sentimiento": "positivo",
+      "source": "spark_processing",
+      "texto": "Amazing experience with the service",
+      "texto_preprocesado": "amazing experience with the service"
+    },
+    {
+      "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+      "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+      "id": 2,
+      "microbatch_id": 1,
+      "microbatch_source_file": "microbatch_001.csv",
+      "predicted_label": "negativo",
+      "prediction": 0.0,
+      "sentimiento": "negativo",
+      "source": "spark_processing",
+      "texto": "I would not recommend it",
+      "texto_preprocesado": "i would not recommend it"
+    },
+    {
+      "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+      "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+      "id": 3,
+      "microbatch_id": 1,
+      "microbatch_source_file": "microbatch_001.csv",
+      "predicted_label": "neutral",
+      "prediction": 1.0,
+      "sentimiento": "neutral",
+      "source": "spark_processing",
+      "texto": "The file was uploaded successfully",
+      "texto_preprocesado": "the file was uploaded successfully"
+    },
+    {
+      "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+      "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+      "id": 4,
+      "microbatch_id": 1,
+      "microbatch_source_file": "microbatch_001.csv",
+      "predicted_label": "positivo",
+      "prediction": 2.0,
+      "sentimiento": "positivo",
+      "source": "spark_processing",
+      "texto": "Highly recommend this tool",
+      "texto_preprocesado": "highly recommend this tool"
+    },
+    {
+      "created_at": "Sun, 26 Apr 2026 23:19:00 GMT",
+      "event_time": "Mon, 20 Apr 2026 03:17:53 GMT",
+      "id": 5,
+      "microbatch_id": 1,
+      "microbatch_source_file": "microbatch_001.csv",
+      "predicted_label": "negativo",
+      "prediction": 0.0,
+      "sentimiento": "negativo",
+      "source": "spark_processing",
+      "texto": "Poor customer service",
+      "texto_preprocesado": "poor customer service"
+    }
+  ]
+}
