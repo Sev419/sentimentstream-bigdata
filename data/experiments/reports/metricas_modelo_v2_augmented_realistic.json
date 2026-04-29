@@ -1,0 +1,51 @@
+{
+  "generated_at_utc": "2026-04-27T06:01:02.282563+00:00",
+  "train_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_augmented_1800.csv",
+  "realistic_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_realistic_validation.csv",
+  "train_records": 1800,
+  "realistic_records": 300,
+  "references": {
+    "v2_300": 0.622983,
+    "v2_1500_sintetico_externo": 0.735499,
+    "v2_curated_realistic": 0.737524
+  },
+  "realistic_metrics": {
+    "accuracy": 0.796667,
+    "precision_ponderada": 0.805523,
+    "recall_ponderado": 0.796667,
+    "f1_ponderado": 0.792533,
+    "matriz_confusion": [
+      [
+        66,
+        12,
+        22
+      ],
+      [
+        2,
+        96,
+        2
+      ],
+      [
+        7,
+        16,
+        77
+      ]
+    ],
+    "labels_matriz_confusion": [
+      "negativo",
+      "neutral",
+      "positivo"
+    ]
+  },
+  "recall_por_clase": {
+    "negativo": 0.66,
+    "neutral": 0.96,
+    "positivo": 0.77
+  },
+  "decision": "Mejora documentada, pero se deben revisar errores y estabilidad por clase antes de integrar.",
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_augmented_realistic.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_augmented_realistic.md",
+    "predicciones_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\predicciones_modelo_v2_augmented_realistic.csv"
+  }
+}

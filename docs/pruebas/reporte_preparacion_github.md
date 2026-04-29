@@ -110,6 +110,7 @@ Subir estos elementos porque permiten revisar, ejecutar o auditar el proyecto:
 - Capturas livianas del dashboard:
   - `dashboard/exports/card_total.png`
   - `dashboard/exports/chart_distribution.png`
+  - `dashboard/exports/chart_temporal.png`
   - `dashboard/exports/dashboard_overview.png`
   - `dashboard/exports/table_predictions.png`
 - Datasets pequenos necesarios para reproducibilidad:
@@ -211,8 +212,8 @@ Recomendacion:
 
 Observacion:
 
-- No se encontro el archivo `dashboard/powerbi/sentimentstream_dashboard.pbix` en la revision local.
-- El archivo Power BI presente actualmente es `dashboard/powerbi/sentimientos.pbix`.
+- La ruta oficial del archivo Power BI para la entrega es `dashboard/powerbi/sentimientos.pbix`.
+- No se debe usar una ruta alternativa para el archivo `.pbix` en la documentacion final.
 
 ## Revision De Capturas
 
@@ -220,15 +221,16 @@ Capturas detectadas:
 
 | Archivo | Tamano aproximado |
 | --- | ---: |
-| `dashboard/exports/card_total.png` | 6 KB |
-| `dashboard/exports/chart_distribution.png` | 11 KB |
+| `dashboard/exports/card_total.png` | 8 KB |
+| `dashboard/exports/chart_distribution.png` | 16 KB |
+| `dashboard/exports/chart_temporal.png` | 20 KB |
 | `dashboard/exports/dashboard_overview.png` | 81 KB |
 | `dashboard/exports/table_predictions.png` | 60 KB |
 
 Tamano total de capturas:
 
 ```text
-158420 bytes, aproximadamente 155 KB
+186661 bytes, aproximadamente 182 KB
 ```
 
 Recomendacion:

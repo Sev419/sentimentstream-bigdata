@@ -1,0 +1,56 @@
+{
+  "generated_at_utc": "2026-04-27T05:49:07.903437+00:00",
+  "train_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_curated_1500.csv",
+  "external_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_external_validation.csv",
+  "train_records": 1500,
+  "external_records": 150,
+  "external_distribution": {
+    "negativo": 50,
+    "neutral": 50,
+    "positivo": 50
+  },
+  "previous_results": {
+    "v2_300": {
+      "f1_externo": null,
+      "f1_interno": 0.622983,
+      "descripcion": "baseline 300 interno"
+    },
+    "v2_1500_sintetico": {
+      "f1_externo": 0.735499,
+      "f1_interno": 1.0
+    }
+  },
+  "external_metrics": {
+    "accuracy": 0.933333,
+    "precision_ponderada": 0.936304,
+    "recall_ponderado": 0.933333,
+    "f1_ponderado": 0.932261,
+    "matriz_confusion": [
+      [
+        42,
+        4,
+        4
+      ],
+      [
+        0,
+        50,
+        0
+      ],
+      [
+        1,
+        1,
+        48
+      ]
+    ],
+    "labels_matriz_confusion": [
+      "negativo",
+      "neutral",
+      "positivo"
+    ]
+  },
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_curated_external.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_curated_external.md",
+    "predicciones_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\predicciones_modelo_v2_curated_external.csv"
+  }
+}

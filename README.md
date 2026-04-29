@@ -202,6 +202,7 @@ Capturas disponibles:
 dashboard/exports/dashboard_overview.png
 dashboard/exports/card_total.png
 dashboard/exports/chart_distribution.png
+dashboard/exports/chart_temporal.png
 dashboard/exports/table_predictions.png
 ```
 
@@ -209,6 +210,7 @@ Visualizaciones incluidas:
 
 - Tarjeta `Total de Predicciones`: muestra `25`.
 - Grafico `Distribucion de Sentimientos`: muestra la distribucion `9/8/8`.
+- Grafico temporal: muestra la evolucion por micro-batch o campo temporal disponible.
 - Tabla `Predicciones Recientes`: muestra registros consumidos desde `/sentiments`.
 
 La consulta `/stats` fue preparada en Power Query en formato largo:
@@ -252,6 +254,207 @@ Reportes principales:
 - `reporte_dashboard_powerbi.md`
 - `reporte_jenkins_pipeline.md`
 - `reporte_preparacion_github.md`
+
+## Plan De Mejora Experimental Del Dataset
+
+El dataset actual cumple su objetivo principal: demostrar la arquitectura end-to-end del proyecto. Permite validar el flujo desde Spark hasta Power BI, incluyendo persistencia real en MongoDB, exposicion mediante Flask API y visualizacion del resultado.
+
+Sin embargo, el dataset tiene pocos textos unicos, lo que limita la calidad del modelo y las metricas de clasificacion. La mejora del dataset debe abordarse como una fase experimental, sin comprometer el pipeline estable que ya funciona.
+
+### Justificacion
+
+La mejora busca aumentar la calidad del modelo mediante mas datos, mejor balance de clases y etiquetas mas consistentes.
+
+El pipeline actual debe mantenerse como version estable. Ninguna mejora experimental debe reemplazar archivos, scripts o componentes actuales hasta demostrar una mejora real con evidencia tecnica.
+
+### Enfoque Seguro
+
+La mejora debe desarrollarse en una rama separada:
+
+```bash
+git checkout -b mejora-dataset
+```
+
+La zona experimental propuesta es:
+
+```text
+data/experiments/dataset_v2/
+```
+
+Esta carpeta no debe usarse en produccion ni conectarse al pipeline actual hasta validar resultados, calidad del dataset y metricas del modelo.
+
+### Estructura Propuesta
+
+```text
+data/experiments/dataset_v2/
+|-- raw/
+|-- labeled/
+|-- processed/
+|-- reports/
+`-- README.md
+```
+
+### Reglas De Proteccion
+
+Durante la mejora experimental no se debe:
+
+- Sobrescribir `data/raw/dataset_sentimientos_500.csv`.
+- Sobrescribir `data/processed/*.csv`.
+- Modificar `data/streaming/input/microbatch_001.csv`.
+- Tocar `dashboard/powerbi/`.
+- Tocar `dashboard/exports/`.
+- Tocar `api_flask/`.
+- Tocar `docker-compose.yml`.
+- Modificar Spark productivo.
+- Modificar MongoDB.
+- Modificar Flask.
+- Modificar Docker.
+- Modificar Jenkins.
+- Modificar Power BI.
+- Reemplazar datasets actuales.
+- Crear scripts nuevos hasta definir y aprobar la fase experimental.
+
+### Dataset V2 Recomendado
+
+El objetivo recomendado para una primera version mejorada es:
+
+```text
+positivo: 500 textos
+neutral: 500 textos
+negativo: 500 textos
+total sugerido: 1500 registros
+```
+
+Columnas sugeridas:
+
+```text
+id, texto, sentimiento, fuente, version
+```
+
+La columna `version` debe permitir diferenciar claramente los registros del dataset experimental, por ejemplo `v2`.
+
+### Guia De Etiquetado
+
+Antes de entrenar un nuevo modelo, se debe crear:
+
+```text
+docs/pruebas/guia_etiquetado_dataset_v2.md
+```
+
+Esa guia debe definir criterios para:
+
+- `positivo`
+- `neutral`
+- `negativo`
+- casos ambiguos
+- textos mixtos
+- sarcasmo
+- emojis
+- textos demasiado cortos
+
+El objetivo es evitar etiquetas inconsistentes y mejorar la calidad del entrenamiento.
+
+### Auditoria Del Dataset
+
+Antes de entrenar, el dataset v2 debe auditarse para validar:
+
+- Duplicados.
+- Valores nulos.
+- Distribucion por clase.
+- Textos vacios.
+- Textos demasiado cortos.
+- Etiquetas invalidas.
+- Posibles datos sensibles.
+
+Los resultados de auditoria deben guardarse en:
+
+```text
+data/experiments/dataset_v2/reports/
+```
+
+### Entrenamiento Experimental
+
+El entrenamiento experimental debe usar scripts separados en:
+
+```text
+spark/experiments/
+```
+
+No se deben modificar scripts productivos ni el pipeline actual.
+
+Modelos a comparar:
+
+- Naive Bayes.
+- Logistic Regression.
+- Linear SVM, si aplica.
+
+Las metricas deben guardarse en:
+
+```text
+data/experiments/dataset_v2/reports/
+```
+
+Metricas minimas:
+
+- accuracy
+- f1
+- precision
+- recall
+- matriz de confusion
+
+### Comparacion Contra Dataset Actual
+
+Posteriormente se debe crear:
+
+```text
+docs/pruebas/reporte_comparacion_dataset_v1_v2.md
+```
+
+Ese reporte debe comparar:
+
+- accuracy
+- f1
+- precision
+- recall
+- matriz de confusion
+- distribucion por clase
+- cantidad de registros
+- calidad del etiquetado
+
+La integracion del dataset v2 solo debe considerarse si mejora las metricas y la calidad general del dataset.
+
+### Resultados Experimentales V2
+
+Se ejecutaron experimentos controlados sobre varias versiones del dataset v2 sin modificar el pipeline productivo.
+
+La mejor referencia experimental actual es `v2_augmented_1800`, con F1 realistic de `0.792533`. Aunque mejora frente a versiones anteriores, todavia no se integra al flujo estable porque el recall de la clase negativa permanece bajo (`0.66`).
+
+La version `v2_focused_negative_1950` no se adopta porque no mejoro frente a `v2_augmented_1800`: obtuvo F1 realistic de `0.781374` y recall negativo de `0.64`.
+
+El pipeline productivo sigue siendo la version estable de SentimentStream. Ningun dataset ni modelo experimental debe reemplazar componentes actuales hasta cumplir criterios de generalizacion mas robustos.
+
+### Integracion Controlada
+
+Solo despues de validar el dataset v2, se debe crear una rama de integracion:
+
+```bash
+git checkout -b integrar-dataset-v2
+```
+
+En esa rama se debe validar nuevamente:
+
+- Spark.
+- MongoDB.
+- Flask.
+- Power BI.
+
+La integracion no debe hacerse directamente sobre la version estable.
+
+### Criterio Final
+
+El pipeline actual sigue siendo la version estable del proyecto.
+
+El dataset v2 debe considerarse experimental hasta demostrar una mejora real, medible y documentada. Solo despues de esa validacion puede evaluarse su integracion al flujo principal.
 
 ## 11. Limitaciones Del Proyecto
 

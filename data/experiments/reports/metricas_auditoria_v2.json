@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-04-27T05:03:53.774060+00:00",
+  "input_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\raw\\dataset_sentimientos_v2_template.csv",
+  "csv_exists": true,
+  "required_columns": [
+    "id",
+    "texto",
+    "sentimiento",
+    "fuente",
+    "version"
+  ],
+  "columns_found": [
+    "id",
+    "texto",
+    "sentimiento",
+    "fuente",
+    "version"
+  ],
+  "missing_columns": [],
+  "extra_columns": [],
+  "total_records": 10,
+  "label_distribution": {
+    "positivo": 3,
+    "neutral": 4,
+    "negativo": 3
+  },
+  "raw_label_distribution": {
+    "positivo": 3,
+    "neutral": 4,
+    "negativo": 3
+  },
+  "invalid_labels_count": 0,
+  "invalid_label_rows": [],
+  "null_texts_count": 0,
+  "null_text_rows": [],
+  "empty_texts_count": 0,
+  "empty_text_rows": [],
+  "duplicate_texts_count": 0,
+  "duplicate_texts": [],
+  "duplicate_full_rows_count": 0,
+  "duplicate_full_rows": [],
+  "text_length": {
+    "minima": 17,
+    "media": 29.1,
+    "maxima": 40
+  },
+  "sensitive_findings_count": 0,
+  "sensitive_findings": []
+}

@@ -1,0 +1,151 @@
+id,texto,texto_preprocesado,sentimiento,prediccion_logistic_regression
+1,Me sorprendio que todo saliera bien al primer intento,me sorprendio que todo saliera bien al primer intento,positivo,positivo
+2,La respuesta no fue larga pero si bastante clara,la respuesta no fue larga pero si bastante clara,positivo,negativo
+3,Aunque dude al inicio el proceso termino funcionando,aunque dude al inicio el proceso termino funcionando,positivo,positivo
+4,El pedido tardo un poco pero llego completo,el pedido tardo un poco pero llego completo,positivo,negativo
+5,La explicacion me ayudo a continuar sin pedir mas soporte,la explicacion me ayudo a continuar sin pedir mas soporte,positivo,positivo
+6,El sistema se sintio mas estable que antes,el sistema se sintio mas estable que antes,positivo,positivo
+7,La compra fue tranquila y sin pasos confusos,la compra fue tranquila y sin pasos confusos,positivo,positivo
+8,El servicio resolvio lo importante en poco tiempo,el servicio resolvio lo importante en poco tiempo,positivo,negativo
+9,No esperaba mucho pero el resultado fue bueno,no esperaba mucho pero el resultado fue bueno,positivo,negativo
+10,La herramienta hizo la tarea mas simple,la herramienta hizo la tarea mas simple,positivo,positivo
+11,El mensaje de confirmacion fue claro y suficiente,el mensaje de confirmacion fue claro y suficiente,positivo,neutral
+12,La entrega llego completa y bien presentada,la entrega llego completa y bien presentada,positivo,positivo
+13,La atencion fue cercana sin ser insistente,la atencion fue cercana sin ser insistente,positivo,positivo
+14,El cambio solicitado quedo bien aplicado,el cambio solicitado quedo bien aplicado,positivo,neutral
+15,La plataforma respondio rapido durante la revision,la plataforma respondio rapido durante la revision,positivo,neutral
+16,El producto cumplio con lo que necesitaba,el producto cumplio con lo que necesitaba,positivo,positivo
+17,Fue facil encontrar la informacion principal,fue facil encontrar la informacion principal,positivo,positivo
+18,La solucion fue sencilla pero efectiva,la solucion fue sencilla pero efectiva,positivo,positivo
+19,El seguimiento me parecio oportuno,el seguimiento me parecio oportuno,positivo,neutral
+20,La experiencia fue mejor de lo que esperaba,la experiencia fue mejor de lo que esperaba,positivo,positivo
+21,El soporte aclaro la duda sin vueltas,el soporte aclaro la duda sin vueltas,positivo,positivo
+22,El flujo se entendio rapido despues de leer la guia,el flujo se entendio rapido despues de leer la guia,positivo,positivo
+23,La informacion llego organizada y facil de revisar,la informacion llego organizada y facil de revisar,positivo,positivo
+24,El servicio fue consistente durante todo el proceso,el servicio fue consistente durante todo el proceso,positivo,positivo
+25,La respuesta fue breve pero resolvio el caso,la respuesta fue breve pero resolvio el caso,positivo,negativo
+26,El producto funciono bien en la prueba inicial,el producto funciono bien en la prueba inicial,positivo,neutral
+27,La entrega estuvo dentro del tiempo esperado,la entrega estuvo dentro del tiempo esperado,positivo,negativo
+28,La plataforma permitio completar la solicitud sin fallos,la plataforma permitio completar la solicitud sin fallos,positivo,positivo
+29,La asesoria fue util para tomar una decision,la asesoria fue util para tomar una decision,positivo,neutral
+30,El proceso quedo claro al segundo paso,el proceso quedo claro al segundo paso,positivo,neutral
+31,La gestion fue ordenada y sin sorpresas,la gestion fue ordenada y sin sorpresas,positivo,positivo
+32,El reporte mostro justo lo que necesitaba,el reporte mostro justo lo que necesitaba,positivo,positivo
+33,La herramienta respondio bien incluso con varios intentos,la herramienta respondio bien incluso con varios intentos,positivo,negativo
+34,El pedido llego cuidado y sin elementos faltantes,el pedido llego cuidado y sin elementos faltantes,positivo,positivo
+35,La comunicacion fue adecuada durante la espera,la comunicacion fue adecuada durante la espera,positivo,positivo
+36,El tramite fue mas rapido de lo previsto,el tramite fue mas rapido de lo previsto,positivo,positivo
+37,La informacion fue suficiente para cerrar la solicitud,la informacion fue suficiente para cerrar la solicitud,positivo,neutral
+38,El sistema guardo todo correctamente,el sistema guardo todo correctamente,positivo,neutral
+39,La experiencia resulto comoda y clara,la experiencia resulto comoda y clara,positivo,negativo
+40,La respuesta incluyo una orientacion practica,la respuesta incluyo una orientacion practica,positivo,positivo
+41,El servicio dejo una impresion favorable,el servicio dejo una impresion favorable,positivo,positivo
+42,El producto se comporto de forma estable,el producto se comporto de forma estable,positivo,positivo
+43,La guia explico el camino sin complicarlo,la guia explico el camino sin complicarlo,positivo,positivo
+44,La solicitud avanzo con normalidad y buen soporte,la solicitud avanzo con normalidad y buen soporte,positivo,positivo
+45,El resultado final fue correcto y util,el resultado final fue correcto y util,positivo,positivo
+46,La atencion respondio con buen tono,la atencion respondio con buen tono,positivo,positivo
+47,El panel facilito revisar el estado,el panel facilito revisar el estado,positivo,neutral
+48,La compra se sintio segura hasta el final,la compra se sintio segura hasta el final,positivo,positivo
+49,El servicio cumplio sin necesidad de insistir,el servicio cumplio sin necesidad de insistir,positivo,positivo
+50,La solucion llego a tiempo y funciono,la solucion llego a tiempo y funciono,positivo,positivo
+51,El pedido aparece registrado en el sistema,el pedido aparece registrado en el sistema,neutral,neutral
+52,La solicitud quedo pendiente de revision,la solicitud quedo pendiente de revision,neutral,neutral
+53,El formulario muestra los datos ingresados,el formulario muestra los datos ingresados,neutral,neutral
+54,La consulta fue enviada para analisis,la consulta fue enviada para analisis,neutral,neutral
+55,El reporte contiene informacion general,el reporte contiene informacion general,neutral,neutral
+56,La entrega figura con estado en ruta,la entrega figura con estado en ruta,neutral,neutral
+57,El documento esta disponible en la plataforma,el documento esta disponible en la plataforma,neutral,neutral
+58,La orden se mantiene abierta,la orden se mantiene abierta,neutral,neutral
+59,El sistema genero una notificacion,el sistema genero una notificacion,neutral,neutral
+60,La factura aparece como emitida,la factura aparece como emitida,neutral,neutral
+61,La respuesta indica que el caso sigue activo,la respuesta indica que el caso sigue activo,neutral,neutral
+62,El producto tiene una descripcion breve,el producto tiene una descripcion breve,neutral,neutral
+63,La revision fue asignada a un equipo,la revision fue asignada a un equipo,neutral,neutral
+64,El mensaje quedo guardado en historial,el mensaje quedo guardado en historial,neutral,neutral
+65,El tramite continua en proceso,el tramite continua en proceso,neutral,neutral
+66,La pantalla muestra el estado actual,la pantalla muestra el estado actual,neutral,neutral
+67,El archivo fue cargado correctamente,el archivo fue cargado correctamente,neutral,neutral
+68,La consulta tiene prioridad normal,la consulta tiene prioridad normal,neutral,neutral
+69,El registro incluye fecha y categoria,el registro incluye fecha y categoria,neutral,neutral
+70,La entrega tiene seguimiento activo,la entrega tiene seguimiento activo,neutral,neutral
+71,El sistema muestra varias opciones,el sistema muestra varias opciones,neutral,neutral
+72,La solicitud fue recibida hoy,la solicitud fue recibida hoy,neutral,positivo
+73,El producto aparece en inventario,el producto aparece en inventario,neutral,neutral
+74,La respuesta esta pendiente de confirmacion,la respuesta esta pendiente de confirmacion,neutral,neutral
+75,El reporte fue generado por el sistema,el reporte fue generado por el sistema,neutral,neutral
+76,La informacion se mantiene igual,la informacion se mantiene igual,neutral,neutral
+77,El tramite fue registrado sin observaciones,el tramite fue registrado sin observaciones,neutral,neutral
+78,La consulta esta disponible para revision,la consulta esta disponible para revision,neutral,neutral
+79,El panel muestra actividad reciente,el panel muestra actividad reciente,neutral,neutral
+80,La orden permanece en cola,la orden permanece en cola,neutral,neutral
+81,El documento contiene datos generales,el documento contiene datos generales,neutral,neutral
+82,La solicitud tiene respuesta parcial,la solicitud tiene respuesta parcial,neutral,neutral
+83,El sistema conserva el registro,el sistema conserva el registro,neutral,neutral
+84,La entrega esta programada para revision,la entrega esta programada para revision,neutral,neutral
+85,El producto tiene dos alternativas,el producto tiene dos alternativas,neutral,neutral
+86,La consulta quedo sin asignar,la consulta quedo sin asignar,neutral,neutral
+87,El archivo esta listo para descarga,el archivo esta listo para descarga,neutral,neutral
+88,La respuesta fue registrada,la respuesta fue registrada,neutral,positivo
+89,El estado se muestra como activo,el estado se muestra como activo,neutral,neutral
+90,La solicitud esta documentada,la solicitud esta documentada,neutral,neutral
+91,El reporte incluye tres secciones,el reporte incluye tres secciones,neutral,neutral
+92,La informacion fue recibida,la informacion fue recibida,neutral,positivo
+93,El tramite espera confirmacion,el tramite espera confirmacion,neutral,neutral
+94,La consulta fue guardada,la consulta fue guardada,neutral,neutral
+95,El producto se encuentra reservado,el producto se encuentra reservado,neutral,neutral
+96,La entrega fue programada,la entrega fue programada,neutral,positivo
+97,El sistema muestra el detalle,el sistema muestra el detalle,neutral,neutral
+98,La orden sigue activa,la orden sigue activa,neutral,neutral
+99,El panel contiene el resumen,el panel contiene el resumen,neutral,neutral
+100,La notificacion queda visible,la notificacion queda visible,neutral,neutral
+101,El pedido llego tarde y con problemas,el pedido llego tarde y con problemas,negativo,positivo
+102,La respuesta no aclaro nada importante,la respuesta no aclaro nada importante,negativo,negativo
+103,El proceso fue mas confuso de lo necesario,el proceso fue mas confuso de lo necesario,negativo,negativo
+104,La plataforma se cerro mientras avanzaba,la plataforma se cerro mientras avanzaba,negativo,neutral
+105,El soporte tardo y no resolvio el caso,el soporte tardo y no resolvio el caso,negativo,negativo
+106,El producto fallo durante la primera prueba,el producto fallo durante la primera prueba,negativo,positivo
+107,La informacion recibida no coincidia,la informacion recibida no coincidia,negativo,negativo
+108,La entrega llego incompleta,la entrega llego incompleta,negativo,negativo
+109,El sistema perdio los cambios realizados,el sistema perdio los cambios realizados,negativo,neutral
+110,La compra termino siendo complicada,la compra termino siendo complicada,negativo,negativo
+111,La atencion fue poco clara,la atencion fue poco clara,negativo,negativo
+112,El reporte no mostro los datos esperados,el reporte no mostro los datos esperados,negativo,negativo
+113,La guia dejo dudas sin resolver,la guia dejo dudas sin resolver,negativo,positivo
+114,El tramite se quedo detenido,el tramite se quedo detenido,negativo,neutral
+115,La respuesta llego demasiado tarde,la respuesta llego demasiado tarde,negativo,positivo
+116,El servicio fue inestable durante la solicitud,el servicio fue inestable durante la solicitud,negativo,negativo
+117,El producto no cumplio con lo indicado,el producto no cumplio con lo indicado,negativo,negativo
+118,La plataforma no permitio terminar el proceso,la plataforma no permitio terminar el proceso,negativo,negativo
+119,La orientacion fue insuficiente,la orientacion fue insuficiente,negativo,negativo
+120,El pedido fue cancelado sin aviso claro,el pedido fue cancelado sin aviso claro,negativo,negativo
+121,La experiencia dejo una sensacion negativa,la experiencia dejo una sensacion negativa,negativo,positivo
+122,El sistema mostro errores al guardar,el sistema mostro errores al guardar,negativo,negativo
+123,La solicitud no avanzo despues de varios intentos,la solicitud no avanzo despues de varios intentos,negativo,negativo
+124,La entrega quedo sin seguimiento,la entrega quedo sin seguimiento,negativo,neutral
+125,El soporte respondio con informacion incompleta,el soporte respondio con informacion incompleta,negativo,negativo
+126,El proceso tomo mas tiempo del esperado,el proceso tomo mas tiempo del esperado,negativo,negativo
+127,La herramienta fue dificil de usar,la herramienta fue dificil de usar,negativo,negativo
+128,La compra genero varios inconvenientes,la compra genero varios inconvenientes,negativo,negativo
+129,El producto llego con fallas visibles,el producto llego con fallas visibles,negativo,negativo
+130,La respuesta fue breve pero poco util,la respuesta fue breve pero poco util,negativo,negativo
+131,El servicio no dio confianza,el servicio no dio confianza,negativo,negativo
+132,La informacion fue contradictoria,la informacion fue contradictoria,negativo,positivo
+133,El tramite tuvo demasiados pasos,el tramite tuvo demasiados pasos,negativo,negativo
+134,La plataforma cargo muy lento,la plataforma cargo muy lento,negativo,positivo
+135,El pedido no coincidio con la solicitud,el pedido no coincidio con la solicitud,negativo,negativo
+136,La guia no explico el problema principal,la guia no explico el problema principal,negativo,negativo
+137,El resultado final fue decepcionante,el resultado final fue decepcionante,negativo,positivo
+138,La gestion fue desordenada,la gestion fue desordenada,negativo,positivo
+139,La atencion dejo el caso abierto,la atencion dejo el caso abierto,negativo,negativo
+140,El sistema fallo al finalizar,el sistema fallo al finalizar,negativo,neutral
+141,El producto tuvo bajo rendimiento,el producto tuvo bajo rendimiento,negativo,negativo
+142,La entrega no fue cuidadosa,la entrega no fue cuidadosa,negativo,negativo
+143,El servicio fue lento desde el inicio,el servicio fue lento desde el inicio,negativo,negativo
+144,La consulta quedo sin resolver,la consulta quedo sin resolver,negativo,neutral
+145,La informacion no fue suficiente,la informacion no fue suficiente,negativo,negativo
+146,El proceso termino con error,el proceso termino con error,negativo,positivo
+147,La plataforma no respondia bien,la plataforma no respondia bien,negativo,negativo
+148,El soporte no explico los pasos,el soporte no explico los pasos,negativo,negativo
+149,El pedido tuvo retrasos repetidos,el pedido tuvo retrasos repetidos,negativo,negativo
+150,La experiencia fue frustrante,la experiencia fue frustrante,negativo,positivo

@@ -1,0 +1,11 @@
+id,texto,sentimiento,fuente,version
+1,"El servicio fue excelente y rapido",positivo,ejemplo_manual,v2
+2,"La atencion fue muy amable",positivo,ejemplo_manual,v2
+3,"Me gusto la experiencia general",positivo,ejemplo_manual,v2
+4,"El pedido llego el lunes",neutral,ejemplo_manual,v2
+5,"Quiero conocer el estado de mi solicitud",neutral,ejemplo_manual,v2
+6,"El producto es de color negro",neutral,ejemplo_manual,v2
+7,"El pedido llego tarde y en mal estado",negativo,ejemplo_manual,v2
+8,"No me resolvieron el problema",negativo,ejemplo_manual,v2
+9,"La atencion fue muy mala",negativo,ejemplo_manual,v2
+10,"Recibido, gracias",neutral,ejemplo_manual,v2

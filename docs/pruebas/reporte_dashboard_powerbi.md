@@ -14,6 +14,7 @@ La validacion registrada corresponde a un dashboard real con:
 
 - Tarjeta `Total de Predicciones`.
 - Grafico `Distribucion de Sentimientos`.
+- Grafico de evolucion temporal o por micro-batch.
 - Tabla `Predicciones Recientes`.
 
 El valor observado en la tarjeta total es:
@@ -109,18 +110,40 @@ Proposito:
 - Mostrar predicciones recientes consumidas desde la API Flask.
 - Revisar textos, etiquetas predichas y campos de trazabilidad disponibles.
 
+### Grafico Temporal
+
+Visualizacion creada:
+
+- Grafico de evolucion temporal o por micro-batch.
+
+Fuente:
+
+- Endpoint `/sentiments`.
+
+Campos sugeridos:
+
+- `event_time`, `created_at`, `fecha` o `microbatch_id`.
+- `predicted_label` como leyenda si el campo esta disponible en el modelo de Power BI.
+
+Proposito:
+
+- Alinear el dashboard con la rubrica de evolucion temporal.
+- Mostrar la variacion de predicciones por tiempo o por lote procesado.
+
 ## Evidencias Del Dashboard
 
 Se registran las siguientes evidencias asociadas al dashboard Power BI:
 
 - Archivo Power BI:
-  - `dashboard/powerbi/sentimentstream_dashboard.pbix`
+  - `dashboard/powerbi/sentimientos.pbix`
 - Captura general del dashboard:
   - `dashboard/exports/dashboard_overview.png`
 - Captura de la tarjeta total:
   - `dashboard/exports/card_total.png`
 - Captura del grafico de distribucion:
   - `dashboard/exports/chart_distribution.png`
+- Captura del grafico temporal:
+  - `dashboard/exports/chart_temporal.png`
 - Captura de la tabla de predicciones:
   - `dashboard/exports/table_predictions.png`
 
@@ -129,7 +152,7 @@ Evidencias confirmadas:
 - Las capturas muestran datos reales consumidos desde la API Flask.
 - La tarjeta total muestra `25` predicciones.
 - La distribucion de sentimientos corresponde a `9/8/8`.
-- El dashboard incluye tarjeta total, grafico de distribucion y tabla de predicciones recientes.
+- El dashboard incluye tarjeta total, grafico de distribucion, grafico temporal y tabla de predicciones recientes.
 
 ## Alcance De Esta Actualizacion
 

@@ -1,0 +1,86 @@
+{
+  "generated_at_utc": "2026-04-27T05:48:06.159333+00:00",
+  "input_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_curated_1500.csv",
+  "total_registros": 1500,
+  "train_registros": 1200,
+  "test_registros": 300,
+  "estratificacion": true,
+  "distribucion_total": {
+    "negativo": 500,
+    "neutral": 500,
+    "positivo": 500
+  },
+  "distribucion_train": {
+    "negativo": 400,
+    "neutral": 400,
+    "positivo": 400
+  },
+  "distribucion_test": {
+    "negativo": 100,
+    "neutral": 100,
+    "positivo": 100
+  },
+  "modelos": {
+    "naive_bayes": {
+      "accuracy": 0.993333,
+      "precision_ponderada": 0.993464,
+      "recall_ponderado": 0.993333,
+      "f1_ponderado": 0.993333,
+      "matriz_confusion": [
+        [
+          100,
+          0,
+          0
+        ],
+        [
+          0,
+          100,
+          0
+        ],
+        [
+          0,
+          2,
+          98
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    },
+    "logistic_regression": {
+      "accuracy": 1.0,
+      "precision_ponderada": 1.0,
+      "recall_ponderado": 1.0,
+      "f1_ponderado": 1.0,
+      "matriz_confusion": [
+        [
+          100,
+          0,
+          0
+        ],
+        [
+          0,
+          100,
+          0
+        ],
+        [
+          0,
+          0,
+          100
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    }
+  },
+  "mejor_modelo": "logistic_regression",
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_curated_1500.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_curated_1500.md"
+  }
+}

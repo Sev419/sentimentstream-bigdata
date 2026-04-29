@@ -1,0 +1,61 @@
+id,texto,sentimiento,fuente,version
+1,"El servicio fue excelente y rapido",positivo,manual,v2
+2,"La atencion fue muy amable",positivo,manual,v2
+3,"Me gusto la experiencia general",positivo,manual,v2
+4,"La entrega llego antes de lo esperado",positivo,manual,v2
+5,"El producto funciono muy bien",positivo,manual,v2
+6,"La compra fue facil y clara",positivo,manual,v2
+7,"Recibi una respuesta muy util",positivo,manual,v2
+8,"La calidad supero mis expectativas",positivo,manual,v2
+9,"El proceso fue rapido y ordenado",positivo,manual,v2
+10,"La solucion fue efectiva",positivo,manual,v2
+11,"Todo llego en buen estado",positivo,manual,v2
+12,"La informacion fue precisa",positivo,manual,v2
+13,"El soporte resolvio mi duda",positivo,manual,v2
+14,"La experiencia fue satisfactoria",positivo,manual,v2
+15,"El resultado fue mejor de lo esperado",positivo,manual,v2
+16,"El sistema respondio sin problemas",positivo,manual,v2
+17,"La guia fue clara y completa",positivo,manual,v2
+18,"El servicio cumplio lo prometido",positivo,manual,v2
+19,"La atencion fue rapida y cordial",positivo,manual,v2
+20,"El producto llego perfecto",positivo,manual,v2
+21,"El pedido llego el lunes",neutral,manual,v2
+22,"Quiero conocer el estado de mi solicitud",neutral,manual,v2
+23,"El producto es de color negro",neutral,manual,v2
+24,"Recibido gracias",neutral,manual,v2
+25,"La solicitud esta en revision",neutral,manual,v2
+26,"El paquete fue entregado hoy",neutral,manual,v2
+27,"Necesito informacion del proceso",neutral,manual,v2
+28,"La compra aparece registrada",neutral,manual,v2
+29,"El sistema muestra el estado actual",neutral,manual,v2
+30,"La factura esta disponible",neutral,manual,v2
+31,"El mensaje fue recibido",neutral,manual,v2
+32,"El formulario quedo guardado",neutral,manual,v2
+33,"La entrega esta programada",neutral,manual,v2
+34,"El usuario consulta disponibilidad",neutral,manual,v2
+35,"El reporte muestra datos generales",neutral,manual,v2
+36,"La orden sigue en proceso",neutral,manual,v2
+37,"El producto tiene dos opciones",neutral,manual,v2
+38,"La respuesta fue registrada",neutral,manual,v2
+39,"El cambio se encuentra pendiente",neutral,manual,v2
+40,"La consulta fue enviada",neutral,manual,v2
+41,"El pedido llego tarde y en mal estado",negativo,manual,v2
+42,"No me resolvieron el problema",negativo,manual,v2
+43,"La atencion fue muy mala",negativo,manual,v2
+44,"El servicio fue lento y confuso",negativo,manual,v2
+45,"El producto llego defectuoso",negativo,manual,v2
+46,"La respuesta no fue util",negativo,manual,v2
+47,"El proceso fallo varias veces",negativo,manual,v2
+48,"La entrega nunca se completo",negativo,manual,v2
+49,"El sistema presento muchos errores",negativo,manual,v2
+50,"La informacion fue incorrecta",negativo,manual,v2
+51,"El soporte no dio solucion",negativo,manual,v2
+52,"La compra fue una mala experiencia",negativo,manual,v2
+53,"El producto no cumplio lo prometido",negativo,manual,v2
+54,"La pagina no funciono bien",negativo,manual,v2
+55,"El tiempo de espera fue excesivo",negativo,manual,v2
+56,"La calidad fue decepcionante",negativo,manual,v2
+57,"La solicitud fue rechazada sin explicacion",negativo,manual,v2
+58,"El cobro fue confuso",negativo,manual,v2
+59,"La guia no ayudo a resolver la duda",negativo,manual,v2
+60,"El resultado fue insatisfactorio",negativo,manual,v2

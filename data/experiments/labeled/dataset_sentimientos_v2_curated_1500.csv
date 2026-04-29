@@ -1,0 +1,1501 @@
+id,texto,sentimiento,fuente,version
+1,no estuvo mal y termino ayudando,positivo,curated,v2_curated
+2,tuvo una demora pequena pero salio bien,positivo,curated,v2_curated
+3,resolvio lo principal sin tanta vuelta,positivo,curated,v2_curated
+4,me dejo una impresion bastante buena,positivo,curated,v2_curated
+5,funciono mejor de lo que esperaba,positivo,curated,v2_curated
+6,fue claro cuando mas lo necesitaba,positivo,curated,v2_curated
+7,avanzo lento al inicio pero cerro bien,positivo,curated,v2_curated
+8,me permitio completar la tarea sin problema,positivo,curated,v2_curated
+9,la respuesta fue corta pero util,positivo,curated,v2_curated
+10,el resultado quedo correcto,positivo,curated,v2_curated
+11,la guia aclaro casi todas mis dudas,positivo,curated,v2_curated
+12,la plataforma respondio de forma estable,positivo,curated,v2_curated
+13,el pedido llego completo y cuidado,positivo,curated,v2_curated
+14,el soporte entendio la situacion,positivo,curated,v2_curated
+15,la gestion fue simple y ordenada,positivo,curated,v2_curated
+16,el proceso se sintio confiable,positivo,curated,v2_curated
+17,la informacion fue suficiente para decidir,positivo,curated,v2_curated
+18,la compra fue tranquila hasta el cierre,positivo,curated,v2_curated
+19,el producto cumplio con lo necesario,positivo,curated,v2_curated
+20,la entrega estuvo dentro de lo esperado,positivo,curated,v2_curated
+21,la atencion fue amable sin exagerar,positivo,curated,v2_curated
+22,el sistema guardo todo correctamente,positivo,curated,v2_curated
+23,la solucion fue sencilla y efectiva,positivo,curated,v2_curated
+24,el panel facilito revisar el avance,positivo,curated,v2_curated
+25,el seguimiento llego a tiempo,positivo,curated,v2_curated
+26,la experiencia resulto comoda,positivo,curated,v2_curated
+27,la respuesta aclaro el punto clave,positivo,curated,v2_curated
+28,el tramite quedo resuelto,positivo,curated,v2_curated
+29,el servicio mantuvo buen ritmo,positivo,curated,v2_curated
+30,la herramienta simplifico el trabajo,positivo,curated,v2_curated
+31,el mensaje de confirmacion fue suficiente,positivo,curated,v2_curated
+32,la revision ayudo a corregir la duda,positivo,curated,v2_curated
+33,el flujo fue facil de seguir,positivo,curated,v2_curated
+34,el cambio solicitado quedo aplicado,positivo,curated,v2_curated
+35,la comunicacion fue adecuada,positivo,curated,v2_curated
+36,el resultado fue util para continuar,positivo,curated,v2_curated
+37,la plataforma permitio terminar rapido,positivo,curated,v2_curated
+38,el producto funciono desde el primer uso,positivo,curated,v2_curated
+39,la asesoria fue practica,positivo,curated,v2_curated
+40,el estado se actualizo correctamente,positivo,curated,v2_curated
+41,no me disgusto el resultado final,positivo,curated,v2_curated
+42,no tuve inconvenientes importantes,positivo,curated,v2_curated
+43,pudo mejorar detalles pero cumplio,positivo,curated,v2_curated
+44,la espera valio la pena,positivo,curated,v2_curated
+45,me sirvio para resolver la solicitud,positivo,curated,v2_curated
+46,fue mejor que la opcion anterior,positivo,curated,v2_curated
+47,la explicacion quedo entendible,positivo,curated,v2_curated
+48,el pedido se manejo con cuidado,positivo,curated,v2_curated
+49,la herramienta respondio sin fallar,positivo,curated,v2_curated
+50,la experiencia cerro de forma positiva,positivo,curated,v2_curated
+51,"La verdad, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+52,"La verdad, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+53,"La verdad, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+54,"La verdad, me dejo una impresion bastante buena",positivo,curated,v2_curated
+55,"La verdad, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+56,"La verdad, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+57,"La verdad, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+58,"La verdad, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+59,"La verdad, la respuesta fue corta pero util",positivo,curated,v2_curated
+60,"La verdad, el resultado quedo correcto",positivo,curated,v2_curated
+61,"La verdad, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+62,"La verdad, la plataforma respondio de forma estable",positivo,curated,v2_curated
+63,"La verdad, el pedido llego completo y cuidado",positivo,curated,v2_curated
+64,"La verdad, el soporte entendio la situacion",positivo,curated,v2_curated
+65,"La verdad, la gestion fue simple y ordenada",positivo,curated,v2_curated
+66,"La verdad, el proceso se sintio confiable",positivo,curated,v2_curated
+67,"La verdad, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+68,"La verdad, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+69,"La verdad, el producto cumplio con lo necesario",positivo,curated,v2_curated
+70,"La verdad, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+71,"La verdad, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+72,"La verdad, el sistema guardo todo correctamente",positivo,curated,v2_curated
+73,"La verdad, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+74,"La verdad, el panel facilito revisar el avance",positivo,curated,v2_curated
+75,"La verdad, el seguimiento llego a tiempo",positivo,curated,v2_curated
+76,"La verdad, la experiencia resulto comoda",positivo,curated,v2_curated
+77,"La verdad, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+78,"La verdad, el tramite quedo resuelto",positivo,curated,v2_curated
+79,"La verdad, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+80,"La verdad, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+81,"La verdad, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+82,"La verdad, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+83,"La verdad, el flujo fue facil de seguir",positivo,curated,v2_curated
+84,"La verdad, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+85,"La verdad, la comunicacion fue adecuada",positivo,curated,v2_curated
+86,"La verdad, el resultado fue util para continuar",positivo,curated,v2_curated
+87,"La verdad, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+88,"La verdad, el producto funciono desde el primer uso",positivo,curated,v2_curated
+89,"La verdad, la asesoria fue practica",positivo,curated,v2_curated
+90,"La verdad, el estado se actualizo correctamente",positivo,curated,v2_curated
+91,"La verdad, no me disgusto el resultado final",positivo,curated,v2_curated
+92,"La verdad, no tuve inconvenientes importantes",positivo,curated,v2_curated
+93,"La verdad, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+94,"La verdad, la espera valio la pena",positivo,curated,v2_curated
+95,"La verdad, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+96,"La verdad, fue mejor que la opcion anterior",positivo,curated,v2_curated
+97,"La verdad, la explicacion quedo entendible",positivo,curated,v2_curated
+98,"La verdad, el pedido se manejo con cuidado",positivo,curated,v2_curated
+99,"La verdad, la herramienta respondio sin fallar",positivo,curated,v2_curated
+100,"La verdad, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+101,"En general, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+102,"En general, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+103,"En general, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+104,"En general, me dejo una impresion bastante buena",positivo,curated,v2_curated
+105,"En general, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+106,"En general, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+107,"En general, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+108,"En general, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+109,"En general, la respuesta fue corta pero util",positivo,curated,v2_curated
+110,"En general, el resultado quedo correcto",positivo,curated,v2_curated
+111,"En general, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+112,"En general, la plataforma respondio de forma estable",positivo,curated,v2_curated
+113,"En general, el pedido llego completo y cuidado",positivo,curated,v2_curated
+114,"En general, el soporte entendio la situacion",positivo,curated,v2_curated
+115,"En general, la gestion fue simple y ordenada",positivo,curated,v2_curated
+116,"En general, el proceso se sintio confiable",positivo,curated,v2_curated
+117,"En general, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+118,"En general, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+119,"En general, el producto cumplio con lo necesario",positivo,curated,v2_curated
+120,"En general, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+121,"En general, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+122,"En general, el sistema guardo todo correctamente",positivo,curated,v2_curated
+123,"En general, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+124,"En general, el panel facilito revisar el avance",positivo,curated,v2_curated
+125,"En general, el seguimiento llego a tiempo",positivo,curated,v2_curated
+126,"En general, la experiencia resulto comoda",positivo,curated,v2_curated
+127,"En general, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+128,"En general, el tramite quedo resuelto",positivo,curated,v2_curated
+129,"En general, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+130,"En general, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+131,"En general, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+132,"En general, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+133,"En general, el flujo fue facil de seguir",positivo,curated,v2_curated
+134,"En general, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+135,"En general, la comunicacion fue adecuada",positivo,curated,v2_curated
+136,"En general, el resultado fue util para continuar",positivo,curated,v2_curated
+137,"En general, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+138,"En general, el producto funciono desde el primer uso",positivo,curated,v2_curated
+139,"En general, la asesoria fue practica",positivo,curated,v2_curated
+140,"En general, el estado se actualizo correctamente",positivo,curated,v2_curated
+141,"En general, no me disgusto el resultado final",positivo,curated,v2_curated
+142,"En general, no tuve inconvenientes importantes",positivo,curated,v2_curated
+143,"En general, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+144,"En general, la espera valio la pena",positivo,curated,v2_curated
+145,"En general, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+146,"En general, fue mejor que la opcion anterior",positivo,curated,v2_curated
+147,"En general, la explicacion quedo entendible",positivo,curated,v2_curated
+148,"En general, el pedido se manejo con cuidado",positivo,curated,v2_curated
+149,"En general, la herramienta respondio sin fallar",positivo,curated,v2_curated
+150,"En general, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+151,"Bueno, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+152,"Bueno, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+153,"Bueno, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+154,"Bueno, me dejo una impresion bastante buena",positivo,curated,v2_curated
+155,"Bueno, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+156,"Bueno, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+157,"Bueno, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+158,"Bueno, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+159,"Bueno, la respuesta fue corta pero util",positivo,curated,v2_curated
+160,"Bueno, el resultado quedo correcto",positivo,curated,v2_curated
+161,"Bueno, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+162,"Bueno, la plataforma respondio de forma estable",positivo,curated,v2_curated
+163,"Bueno, el pedido llego completo y cuidado",positivo,curated,v2_curated
+164,"Bueno, el soporte entendio la situacion",positivo,curated,v2_curated
+165,"Bueno, la gestion fue simple y ordenada",positivo,curated,v2_curated
+166,"Bueno, el proceso se sintio confiable",positivo,curated,v2_curated
+167,"Bueno, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+168,"Bueno, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+169,"Bueno, el producto cumplio con lo necesario",positivo,curated,v2_curated
+170,"Bueno, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+171,"Bueno, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+172,"Bueno, el sistema guardo todo correctamente",positivo,curated,v2_curated
+173,"Bueno, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+174,"Bueno, el panel facilito revisar el avance",positivo,curated,v2_curated
+175,"Bueno, el seguimiento llego a tiempo",positivo,curated,v2_curated
+176,"Bueno, la experiencia resulto comoda",positivo,curated,v2_curated
+177,"Bueno, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+178,"Bueno, el tramite quedo resuelto",positivo,curated,v2_curated
+179,"Bueno, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+180,"Bueno, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+181,"Bueno, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+182,"Bueno, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+183,"Bueno, el flujo fue facil de seguir",positivo,curated,v2_curated
+184,"Bueno, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+185,"Bueno, la comunicacion fue adecuada",positivo,curated,v2_curated
+186,"Bueno, el resultado fue util para continuar",positivo,curated,v2_curated
+187,"Bueno, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+188,"Bueno, el producto funciono desde el primer uso",positivo,curated,v2_curated
+189,"Bueno, la asesoria fue practica",positivo,curated,v2_curated
+190,"Bueno, el estado se actualizo correctamente",positivo,curated,v2_curated
+191,"Bueno, no me disgusto el resultado final",positivo,curated,v2_curated
+192,"Bueno, no tuve inconvenientes importantes",positivo,curated,v2_curated
+193,"Bueno, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+194,"Bueno, la espera valio la pena",positivo,curated,v2_curated
+195,"Bueno, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+196,"Bueno, fue mejor que la opcion anterior",positivo,curated,v2_curated
+197,"Bueno, la explicacion quedo entendible",positivo,curated,v2_curated
+198,"Bueno, el pedido se manejo con cuidado",positivo,curated,v2_curated
+199,"Bueno, la herramienta respondio sin fallar",positivo,curated,v2_curated
+200,"Bueno, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+201,"Al final, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+202,"Al final, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+203,"Al final, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+204,"Al final, me dejo una impresion bastante buena",positivo,curated,v2_curated
+205,"Al final, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+206,"Al final, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+207,"Al final, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+208,"Al final, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+209,"Al final, la respuesta fue corta pero util",positivo,curated,v2_curated
+210,"Al final, el resultado quedo correcto",positivo,curated,v2_curated
+211,"Al final, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+212,"Al final, la plataforma respondio de forma estable",positivo,curated,v2_curated
+213,"Al final, el pedido llego completo y cuidado",positivo,curated,v2_curated
+214,"Al final, el soporte entendio la situacion",positivo,curated,v2_curated
+215,"Al final, la gestion fue simple y ordenada",positivo,curated,v2_curated
+216,"Al final, el proceso se sintio confiable",positivo,curated,v2_curated
+217,"Al final, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+218,"Al final, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+219,"Al final, el producto cumplio con lo necesario",positivo,curated,v2_curated
+220,"Al final, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+221,"Al final, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+222,"Al final, el sistema guardo todo correctamente",positivo,curated,v2_curated
+223,"Al final, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+224,"Al final, el panel facilito revisar el avance",positivo,curated,v2_curated
+225,"Al final, el seguimiento llego a tiempo",positivo,curated,v2_curated
+226,"Al final, la experiencia resulto comoda",positivo,curated,v2_curated
+227,"Al final, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+228,"Al final, el tramite quedo resuelto",positivo,curated,v2_curated
+229,"Al final, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+230,"Al final, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+231,"Al final, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+232,"Al final, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+233,"Al final, el flujo fue facil de seguir",positivo,curated,v2_curated
+234,"Al final, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+235,"Al final, la comunicacion fue adecuada",positivo,curated,v2_curated
+236,"Al final, el resultado fue util para continuar",positivo,curated,v2_curated
+237,"Al final, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+238,"Al final, el producto funciono desde el primer uso",positivo,curated,v2_curated
+239,"Al final, la asesoria fue practica",positivo,curated,v2_curated
+240,"Al final, el estado se actualizo correctamente",positivo,curated,v2_curated
+241,"Al final, no me disgusto el resultado final",positivo,curated,v2_curated
+242,"Al final, no tuve inconvenientes importantes",positivo,curated,v2_curated
+243,"Al final, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+244,"Al final, la espera valio la pena",positivo,curated,v2_curated
+245,"Al final, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+246,"Al final, fue mejor que la opcion anterior",positivo,curated,v2_curated
+247,"Al final, la explicacion quedo entendible",positivo,curated,v2_curated
+248,"Al final, el pedido se manejo con cuidado",positivo,curated,v2_curated
+249,"Al final, la herramienta respondio sin fallar",positivo,curated,v2_curated
+250,"Al final, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+251,"Por ahora, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+252,"Por ahora, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+253,"Por ahora, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+254,"Por ahora, me dejo una impresion bastante buena",positivo,curated,v2_curated
+255,"Por ahora, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+256,"Por ahora, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+257,"Por ahora, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+258,"Por ahora, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+259,"Por ahora, la respuesta fue corta pero util",positivo,curated,v2_curated
+260,"Por ahora, el resultado quedo correcto",positivo,curated,v2_curated
+261,"Por ahora, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+262,"Por ahora, la plataforma respondio de forma estable",positivo,curated,v2_curated
+263,"Por ahora, el pedido llego completo y cuidado",positivo,curated,v2_curated
+264,"Por ahora, el soporte entendio la situacion",positivo,curated,v2_curated
+265,"Por ahora, la gestion fue simple y ordenada",positivo,curated,v2_curated
+266,"Por ahora, el proceso se sintio confiable",positivo,curated,v2_curated
+267,"Por ahora, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+268,"Por ahora, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+269,"Por ahora, el producto cumplio con lo necesario",positivo,curated,v2_curated
+270,"Por ahora, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+271,"Por ahora, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+272,"Por ahora, el sistema guardo todo correctamente",positivo,curated,v2_curated
+273,"Por ahora, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+274,"Por ahora, el panel facilito revisar el avance",positivo,curated,v2_curated
+275,"Por ahora, el seguimiento llego a tiempo",positivo,curated,v2_curated
+276,"Por ahora, la experiencia resulto comoda",positivo,curated,v2_curated
+277,"Por ahora, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+278,"Por ahora, el tramite quedo resuelto",positivo,curated,v2_curated
+279,"Por ahora, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+280,"Por ahora, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+281,"Por ahora, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+282,"Por ahora, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+283,"Por ahora, el flujo fue facil de seguir",positivo,curated,v2_curated
+284,"Por ahora, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+285,"Por ahora, la comunicacion fue adecuada",positivo,curated,v2_curated
+286,"Por ahora, el resultado fue util para continuar",positivo,curated,v2_curated
+287,"Por ahora, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+288,"Por ahora, el producto funciono desde el primer uso",positivo,curated,v2_curated
+289,"Por ahora, la asesoria fue practica",positivo,curated,v2_curated
+290,"Por ahora, el estado se actualizo correctamente",positivo,curated,v2_curated
+291,"Por ahora, no me disgusto el resultado final",positivo,curated,v2_curated
+292,"Por ahora, no tuve inconvenientes importantes",positivo,curated,v2_curated
+293,"Por ahora, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+294,"Por ahora, la espera valio la pena",positivo,curated,v2_curated
+295,"Por ahora, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+296,"Por ahora, fue mejor que la opcion anterior",positivo,curated,v2_curated
+297,"Por ahora, la explicacion quedo entendible",positivo,curated,v2_curated
+298,"Por ahora, el pedido se manejo con cuidado",positivo,curated,v2_curated
+299,"Por ahora, la herramienta respondio sin fallar",positivo,curated,v2_curated
+300,"Por ahora, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+301,"Mmm, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+302,"Mmm, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+303,"Mmm, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+304,"Mmm, me dejo una impresion bastante buena",positivo,curated,v2_curated
+305,"Mmm, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+306,"Mmm, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+307,"Mmm, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+308,"Mmm, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+309,"Mmm, la respuesta fue corta pero util",positivo,curated,v2_curated
+310,"Mmm, el resultado quedo correcto",positivo,curated,v2_curated
+311,"Mmm, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+312,"Mmm, la plataforma respondio de forma estable",positivo,curated,v2_curated
+313,"Mmm, el pedido llego completo y cuidado",positivo,curated,v2_curated
+314,"Mmm, el soporte entendio la situacion",positivo,curated,v2_curated
+315,"Mmm, la gestion fue simple y ordenada",positivo,curated,v2_curated
+316,"Mmm, el proceso se sintio confiable",positivo,curated,v2_curated
+317,"Mmm, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+318,"Mmm, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+319,"Mmm, el producto cumplio con lo necesario",positivo,curated,v2_curated
+320,"Mmm, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+321,"Mmm, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+322,"Mmm, el sistema guardo todo correctamente",positivo,curated,v2_curated
+323,"Mmm, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+324,"Mmm, el panel facilito revisar el avance",positivo,curated,v2_curated
+325,"Mmm, el seguimiento llego a tiempo",positivo,curated,v2_curated
+326,"Mmm, la experiencia resulto comoda",positivo,curated,v2_curated
+327,"Mmm, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+328,"Mmm, el tramite quedo resuelto",positivo,curated,v2_curated
+329,"Mmm, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+330,"Mmm, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+331,"Mmm, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+332,"Mmm, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+333,"Mmm, el flujo fue facil de seguir",positivo,curated,v2_curated
+334,"Mmm, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+335,"Mmm, la comunicacion fue adecuada",positivo,curated,v2_curated
+336,"Mmm, el resultado fue util para continuar",positivo,curated,v2_curated
+337,"Mmm, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+338,"Mmm, el producto funciono desde el primer uso",positivo,curated,v2_curated
+339,"Mmm, la asesoria fue practica",positivo,curated,v2_curated
+340,"Mmm, el estado se actualizo correctamente",positivo,curated,v2_curated
+341,"Mmm, no me disgusto el resultado final",positivo,curated,v2_curated
+342,"Mmm, no tuve inconvenientes importantes",positivo,curated,v2_curated
+343,"Mmm, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+344,"Mmm, la espera valio la pena",positivo,curated,v2_curated
+345,"Mmm, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+346,"Mmm, fue mejor que la opcion anterior",positivo,curated,v2_curated
+347,"Mmm, la explicacion quedo entendible",positivo,curated,v2_curated
+348,"Mmm, el pedido se manejo con cuidado",positivo,curated,v2_curated
+349,"Mmm, la herramienta respondio sin fallar",positivo,curated,v2_curated
+350,"Mmm, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+351,"Despues de revisar, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+352,"Despues de revisar, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+353,"Despues de revisar, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+354,"Despues de revisar, me dejo una impresion bastante buena",positivo,curated,v2_curated
+355,"Despues de revisar, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+356,"Despues de revisar, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+357,"Despues de revisar, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+358,"Despues de revisar, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+359,"Despues de revisar, la respuesta fue corta pero util",positivo,curated,v2_curated
+360,"Despues de revisar, el resultado quedo correcto",positivo,curated,v2_curated
+361,"Despues de revisar, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+362,"Despues de revisar, la plataforma respondio de forma estable",positivo,curated,v2_curated
+363,"Despues de revisar, el pedido llego completo y cuidado",positivo,curated,v2_curated
+364,"Despues de revisar, el soporte entendio la situacion",positivo,curated,v2_curated
+365,"Despues de revisar, la gestion fue simple y ordenada",positivo,curated,v2_curated
+366,"Despues de revisar, el proceso se sintio confiable",positivo,curated,v2_curated
+367,"Despues de revisar, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+368,"Despues de revisar, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+369,"Despues de revisar, el producto cumplio con lo necesario",positivo,curated,v2_curated
+370,"Despues de revisar, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+371,"Despues de revisar, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+372,"Despues de revisar, el sistema guardo todo correctamente",positivo,curated,v2_curated
+373,"Despues de revisar, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+374,"Despues de revisar, el panel facilito revisar el avance",positivo,curated,v2_curated
+375,"Despues de revisar, el seguimiento llego a tiempo",positivo,curated,v2_curated
+376,"Despues de revisar, la experiencia resulto comoda",positivo,curated,v2_curated
+377,"Despues de revisar, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+378,"Despues de revisar, el tramite quedo resuelto",positivo,curated,v2_curated
+379,"Despues de revisar, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+380,"Despues de revisar, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+381,"Despues de revisar, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+382,"Despues de revisar, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+383,"Despues de revisar, el flujo fue facil de seguir",positivo,curated,v2_curated
+384,"Despues de revisar, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+385,"Despues de revisar, la comunicacion fue adecuada",positivo,curated,v2_curated
+386,"Despues de revisar, el resultado fue util para continuar",positivo,curated,v2_curated
+387,"Despues de revisar, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+388,"Despues de revisar, el producto funciono desde el primer uso",positivo,curated,v2_curated
+389,"Despues de revisar, la asesoria fue practica",positivo,curated,v2_curated
+390,"Despues de revisar, el estado se actualizo correctamente",positivo,curated,v2_curated
+391,"Despues de revisar, no me disgusto el resultado final",positivo,curated,v2_curated
+392,"Despues de revisar, no tuve inconvenientes importantes",positivo,curated,v2_curated
+393,"Despues de revisar, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+394,"Despues de revisar, la espera valio la pena",positivo,curated,v2_curated
+395,"Despues de revisar, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+396,"Despues de revisar, fue mejor que la opcion anterior",positivo,curated,v2_curated
+397,"Despues de revisar, la explicacion quedo entendible",positivo,curated,v2_curated
+398,"Despues de revisar, el pedido se manejo con cuidado",positivo,curated,v2_curated
+399,"Despues de revisar, la herramienta respondio sin fallar",positivo,curated,v2_curated
+400,"Despues de revisar, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+401,"Con lo visto, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+402,"Con lo visto, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+403,"Con lo visto, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+404,"Con lo visto, me dejo una impresion bastante buena",positivo,curated,v2_curated
+405,"Con lo visto, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+406,"Con lo visto, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+407,"Con lo visto, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+408,"Con lo visto, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+409,"Con lo visto, la respuesta fue corta pero util",positivo,curated,v2_curated
+410,"Con lo visto, el resultado quedo correcto",positivo,curated,v2_curated
+411,"Con lo visto, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+412,"Con lo visto, la plataforma respondio de forma estable",positivo,curated,v2_curated
+413,"Con lo visto, el pedido llego completo y cuidado",positivo,curated,v2_curated
+414,"Con lo visto, el soporte entendio la situacion",positivo,curated,v2_curated
+415,"Con lo visto, la gestion fue simple y ordenada",positivo,curated,v2_curated
+416,"Con lo visto, el proceso se sintio confiable",positivo,curated,v2_curated
+417,"Con lo visto, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+418,"Con lo visto, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+419,"Con lo visto, el producto cumplio con lo necesario",positivo,curated,v2_curated
+420,"Con lo visto, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+421,"Con lo visto, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+422,"Con lo visto, el sistema guardo todo correctamente",positivo,curated,v2_curated
+423,"Con lo visto, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+424,"Con lo visto, el panel facilito revisar el avance",positivo,curated,v2_curated
+425,"Con lo visto, el seguimiento llego a tiempo",positivo,curated,v2_curated
+426,"Con lo visto, la experiencia resulto comoda",positivo,curated,v2_curated
+427,"Con lo visto, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+428,"Con lo visto, el tramite quedo resuelto",positivo,curated,v2_curated
+429,"Con lo visto, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+430,"Con lo visto, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+431,"Con lo visto, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+432,"Con lo visto, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+433,"Con lo visto, el flujo fue facil de seguir",positivo,curated,v2_curated
+434,"Con lo visto, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+435,"Con lo visto, la comunicacion fue adecuada",positivo,curated,v2_curated
+436,"Con lo visto, el resultado fue util para continuar",positivo,curated,v2_curated
+437,"Con lo visto, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+438,"Con lo visto, el producto funciono desde el primer uso",positivo,curated,v2_curated
+439,"Con lo visto, la asesoria fue practica",positivo,curated,v2_curated
+440,"Con lo visto, el estado se actualizo correctamente",positivo,curated,v2_curated
+441,"Con lo visto, no me disgusto el resultado final",positivo,curated,v2_curated
+442,"Con lo visto, no tuve inconvenientes importantes",positivo,curated,v2_curated
+443,"Con lo visto, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+444,"Con lo visto, la espera valio la pena",positivo,curated,v2_curated
+445,"Con lo visto, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+446,"Con lo visto, fue mejor que la opcion anterior",positivo,curated,v2_curated
+447,"Con lo visto, la explicacion quedo entendible",positivo,curated,v2_curated
+448,"Con lo visto, el pedido se manejo con cuidado",positivo,curated,v2_curated
+449,"Con lo visto, la herramienta respondio sin fallar",positivo,curated,v2_curated
+450,"Con lo visto, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+451,"Para este caso, no estuvo mal y termino ayudando",positivo,curated,v2_curated
+452,"Para este caso, tuvo una demora pequena pero salio bien",positivo,curated,v2_curated
+453,"Para este caso, resolvio lo principal sin tanta vuelta",positivo,curated,v2_curated
+454,"Para este caso, me dejo una impresion bastante buena",positivo,curated,v2_curated
+455,"Para este caso, funciono mejor de lo que esperaba",positivo,curated,v2_curated
+456,"Para este caso, fue claro cuando mas lo necesitaba",positivo,curated,v2_curated
+457,"Para este caso, avanzo lento al inicio pero cerro bien",positivo,curated,v2_curated
+458,"Para este caso, me permitio completar la tarea sin problema",positivo,curated,v2_curated
+459,"Para este caso, la respuesta fue corta pero util",positivo,curated,v2_curated
+460,"Para este caso, el resultado quedo correcto",positivo,curated,v2_curated
+461,"Para este caso, la guia aclaro casi todas mis dudas",positivo,curated,v2_curated
+462,"Para este caso, la plataforma respondio de forma estable",positivo,curated,v2_curated
+463,"Para este caso, el pedido llego completo y cuidado",positivo,curated,v2_curated
+464,"Para este caso, el soporte entendio la situacion",positivo,curated,v2_curated
+465,"Para este caso, la gestion fue simple y ordenada",positivo,curated,v2_curated
+466,"Para este caso, el proceso se sintio confiable",positivo,curated,v2_curated
+467,"Para este caso, la informacion fue suficiente para decidir",positivo,curated,v2_curated
+468,"Para este caso, la compra fue tranquila hasta el cierre",positivo,curated,v2_curated
+469,"Para este caso, el producto cumplio con lo necesario",positivo,curated,v2_curated
+470,"Para este caso, la entrega estuvo dentro de lo esperado",positivo,curated,v2_curated
+471,"Para este caso, la atencion fue amable sin exagerar",positivo,curated,v2_curated
+472,"Para este caso, el sistema guardo todo correctamente",positivo,curated,v2_curated
+473,"Para este caso, la solucion fue sencilla y efectiva",positivo,curated,v2_curated
+474,"Para este caso, el panel facilito revisar el avance",positivo,curated,v2_curated
+475,"Para este caso, el seguimiento llego a tiempo",positivo,curated,v2_curated
+476,"Para este caso, la experiencia resulto comoda",positivo,curated,v2_curated
+477,"Para este caso, la respuesta aclaro el punto clave",positivo,curated,v2_curated
+478,"Para este caso, el tramite quedo resuelto",positivo,curated,v2_curated
+479,"Para este caso, el servicio mantuvo buen ritmo",positivo,curated,v2_curated
+480,"Para este caso, la herramienta simplifico el trabajo",positivo,curated,v2_curated
+481,"Para este caso, el mensaje de confirmacion fue suficiente",positivo,curated,v2_curated
+482,"Para este caso, la revision ayudo a corregir la duda",positivo,curated,v2_curated
+483,"Para este caso, el flujo fue facil de seguir",positivo,curated,v2_curated
+484,"Para este caso, el cambio solicitado quedo aplicado",positivo,curated,v2_curated
+485,"Para este caso, la comunicacion fue adecuada",positivo,curated,v2_curated
+486,"Para este caso, el resultado fue util para continuar",positivo,curated,v2_curated
+487,"Para este caso, la plataforma permitio terminar rapido",positivo,curated,v2_curated
+488,"Para este caso, el producto funciono desde el primer uso",positivo,curated,v2_curated
+489,"Para este caso, la asesoria fue practica",positivo,curated,v2_curated
+490,"Para este caso, el estado se actualizo correctamente",positivo,curated,v2_curated
+491,"Para este caso, no me disgusto el resultado final",positivo,curated,v2_curated
+492,"Para este caso, no tuve inconvenientes importantes",positivo,curated,v2_curated
+493,"Para este caso, pudo mejorar detalles pero cumplio",positivo,curated,v2_curated
+494,"Para este caso, la espera valio la pena",positivo,curated,v2_curated
+495,"Para este caso, me sirvio para resolver la solicitud",positivo,curated,v2_curated
+496,"Para este caso, fue mejor que la opcion anterior",positivo,curated,v2_curated
+497,"Para este caso, la explicacion quedo entendible",positivo,curated,v2_curated
+498,"Para este caso, el pedido se manejo con cuidado",positivo,curated,v2_curated
+499,"Para este caso, la herramienta respondio sin fallar",positivo,curated,v2_curated
+500,"Para este caso, la experiencia cerro de forma positiva",positivo,curated,v2_curated
+501,el pedido aparece registrado,neutral,curated,v2_curated
+502,la solicitud sigue en revision,neutral,curated,v2_curated
+503,el sistema muestra el estado actual,neutral,curated,v2_curated
+504,la factura esta disponible,neutral,curated,v2_curated
+505,el documento quedo cargado,neutral,curated,v2_curated
+506,la consulta fue enviada,neutral,curated,v2_curated
+507,el reporte contiene informacion general,neutral,curated,v2_curated
+508,la entrega figura en seguimiento,neutral,curated,v2_curated
+509,la orden permanece abierta,neutral,curated,v2_curated
+510,el mensaje quedo guardado,neutral,curated,v2_curated
+511,la respuesta indica proceso activo,neutral,curated,v2_curated
+512,el producto tiene descripcion breve,neutral,curated,v2_curated
+513,la revision fue asignada,neutral,curated,v2_curated
+514,el tramite continua en curso,neutral,curated,v2_curated
+515,la pantalla muestra los datos,neutral,curated,v2_curated
+516,el archivo esta listo para descarga,neutral,curated,v2_curated
+517,la consulta tiene prioridad normal,neutral,curated,v2_curated
+518,el registro incluye fecha,neutral,curated,v2_curated
+519,la entrega esta programada,neutral,curated,v2_curated
+520,el sistema genero una notificacion,neutral,curated,v2_curated
+521,la solicitud fue recibida hoy,neutral,curated,v2_curated
+522,el producto aparece en inventario,neutral,curated,v2_curated
+523,la respuesta espera confirmacion,neutral,curated,v2_curated
+524,el reporte fue generado,neutral,curated,v2_curated
+525,la informacion se mantiene igual,neutral,curated,v2_curated
+526,el tramite quedo documentado,neutral,curated,v2_curated
+527,la consulta esta disponible,neutral,curated,v2_curated
+528,el panel muestra actividad reciente,neutral,curated,v2_curated
+529,la orden quedo en cola,neutral,curated,v2_curated
+530,el documento contiene datos generales,neutral,curated,v2_curated
+531,la solicitud tiene respuesta parcial,neutral,curated,v2_curated
+532,el sistema conserva el registro,neutral,curated,v2_curated
+533,la entrega fue programada,neutral,curated,v2_curated
+534,el producto tiene dos alternativas,neutral,curated,v2_curated
+535,la consulta quedo sin asignar,neutral,curated,v2_curated
+536,la respuesta fue registrada,neutral,curated,v2_curated
+537,el estado se muestra activo,neutral,curated,v2_curated
+538,la solicitud esta documentada,neutral,curated,v2_curated
+539,el reporte incluye varias secciones,neutral,curated,v2_curated
+540,la informacion fue recibida,neutral,curated,v2_curated
+541,el tramite espera confirmacion,neutral,curated,v2_curated
+542,la consulta fue guardada,neutral,curated,v2_curated
+543,el producto se encuentra reservado,neutral,curated,v2_curated
+544,el sistema muestra el detalle,neutral,curated,v2_curated
+545,la orden sigue activa,neutral,curated,v2_curated
+546,el panel contiene el resumen,neutral,curated,v2_curated
+547,la notificacion queda visible,neutral,curated,v2_curated
+548,el formulario conserva los campos,neutral,curated,v2_curated
+549,la fecha aparece en el registro,neutral,curated,v2_curated
+550,el caso queda para revision,neutral,curated,v2_curated
+551,"La verdad, el pedido aparece registrado",neutral,curated,v2_curated
+552,"La verdad, la solicitud sigue en revision",neutral,curated,v2_curated
+553,"La verdad, el sistema muestra el estado actual",neutral,curated,v2_curated
+554,"La verdad, la factura esta disponible",neutral,curated,v2_curated
+555,"La verdad, el documento quedo cargado",neutral,curated,v2_curated
+556,"La verdad, la consulta fue enviada",neutral,curated,v2_curated
+557,"La verdad, el reporte contiene informacion general",neutral,curated,v2_curated
+558,"La verdad, la entrega figura en seguimiento",neutral,curated,v2_curated
+559,"La verdad, la orden permanece abierta",neutral,curated,v2_curated
+560,"La verdad, el mensaje quedo guardado",neutral,curated,v2_curated
+561,"La verdad, la respuesta indica proceso activo",neutral,curated,v2_curated
+562,"La verdad, el producto tiene descripcion breve",neutral,curated,v2_curated
+563,"La verdad, la revision fue asignada",neutral,curated,v2_curated
+564,"La verdad, el tramite continua en curso",neutral,curated,v2_curated
+565,"La verdad, la pantalla muestra los datos",neutral,curated,v2_curated
+566,"La verdad, el archivo esta listo para descarga",neutral,curated,v2_curated
+567,"La verdad, la consulta tiene prioridad normal",neutral,curated,v2_curated
+568,"La verdad, el registro incluye fecha",neutral,curated,v2_curated
+569,"La verdad, la entrega esta programada",neutral,curated,v2_curated
+570,"La verdad, el sistema genero una notificacion",neutral,curated,v2_curated
+571,"La verdad, la solicitud fue recibida hoy",neutral,curated,v2_curated
+572,"La verdad, el producto aparece en inventario",neutral,curated,v2_curated
+573,"La verdad, la respuesta espera confirmacion",neutral,curated,v2_curated
+574,"La verdad, el reporte fue generado",neutral,curated,v2_curated
+575,"La verdad, la informacion se mantiene igual",neutral,curated,v2_curated
+576,"La verdad, el tramite quedo documentado",neutral,curated,v2_curated
+577,"La verdad, la consulta esta disponible",neutral,curated,v2_curated
+578,"La verdad, el panel muestra actividad reciente",neutral,curated,v2_curated
+579,"La verdad, la orden quedo en cola",neutral,curated,v2_curated
+580,"La verdad, el documento contiene datos generales",neutral,curated,v2_curated
+581,"La verdad, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+582,"La verdad, el sistema conserva el registro",neutral,curated,v2_curated
+583,"La verdad, la entrega fue programada",neutral,curated,v2_curated
+584,"La verdad, el producto tiene dos alternativas",neutral,curated,v2_curated
+585,"La verdad, la consulta quedo sin asignar",neutral,curated,v2_curated
+586,"La verdad, la respuesta fue registrada",neutral,curated,v2_curated
+587,"La verdad, el estado se muestra activo",neutral,curated,v2_curated
+588,"La verdad, la solicitud esta documentada",neutral,curated,v2_curated
+589,"La verdad, el reporte incluye varias secciones",neutral,curated,v2_curated
+590,"La verdad, la informacion fue recibida",neutral,curated,v2_curated
+591,"La verdad, el tramite espera confirmacion",neutral,curated,v2_curated
+592,"La verdad, la consulta fue guardada",neutral,curated,v2_curated
+593,"La verdad, el producto se encuentra reservado",neutral,curated,v2_curated
+594,"La verdad, el sistema muestra el detalle",neutral,curated,v2_curated
+595,"La verdad, la orden sigue activa",neutral,curated,v2_curated
+596,"La verdad, el panel contiene el resumen",neutral,curated,v2_curated
+597,"La verdad, la notificacion queda visible",neutral,curated,v2_curated
+598,"La verdad, el formulario conserva los campos",neutral,curated,v2_curated
+599,"La verdad, la fecha aparece en el registro",neutral,curated,v2_curated
+600,"La verdad, el caso queda para revision",neutral,curated,v2_curated
+601,"En general, el pedido aparece registrado",neutral,curated,v2_curated
+602,"En general, la solicitud sigue en revision",neutral,curated,v2_curated
+603,"En general, el sistema muestra el estado actual",neutral,curated,v2_curated
+604,"En general, la factura esta disponible",neutral,curated,v2_curated
+605,"En general, el documento quedo cargado",neutral,curated,v2_curated
+606,"En general, la consulta fue enviada",neutral,curated,v2_curated
+607,"En general, el reporte contiene informacion general",neutral,curated,v2_curated
+608,"En general, la entrega figura en seguimiento",neutral,curated,v2_curated
+609,"En general, la orden permanece abierta",neutral,curated,v2_curated
+610,"En general, el mensaje quedo guardado",neutral,curated,v2_curated
+611,"En general, la respuesta indica proceso activo",neutral,curated,v2_curated
+612,"En general, el producto tiene descripcion breve",neutral,curated,v2_curated
+613,"En general, la revision fue asignada",neutral,curated,v2_curated
+614,"En general, el tramite continua en curso",neutral,curated,v2_curated
+615,"En general, la pantalla muestra los datos",neutral,curated,v2_curated
+616,"En general, el archivo esta listo para descarga",neutral,curated,v2_curated
+617,"En general, la consulta tiene prioridad normal",neutral,curated,v2_curated
+618,"En general, el registro incluye fecha",neutral,curated,v2_curated
+619,"En general, la entrega esta programada",neutral,curated,v2_curated
+620,"En general, el sistema genero una notificacion",neutral,curated,v2_curated
+621,"En general, la solicitud fue recibida hoy",neutral,curated,v2_curated
+622,"En general, el producto aparece en inventario",neutral,curated,v2_curated
+623,"En general, la respuesta espera confirmacion",neutral,curated,v2_curated
+624,"En general, el reporte fue generado",neutral,curated,v2_curated
+625,"En general, la informacion se mantiene igual",neutral,curated,v2_curated
+626,"En general, el tramite quedo documentado",neutral,curated,v2_curated
+627,"En general, la consulta esta disponible",neutral,curated,v2_curated
+628,"En general, el panel muestra actividad reciente",neutral,curated,v2_curated
+629,"En general, la orden quedo en cola",neutral,curated,v2_curated
+630,"En general, el documento contiene datos generales",neutral,curated,v2_curated
+631,"En general, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+632,"En general, el sistema conserva el registro",neutral,curated,v2_curated
+633,"En general, la entrega fue programada",neutral,curated,v2_curated
+634,"En general, el producto tiene dos alternativas",neutral,curated,v2_curated
+635,"En general, la consulta quedo sin asignar",neutral,curated,v2_curated
+636,"En general, la respuesta fue registrada",neutral,curated,v2_curated
+637,"En general, el estado se muestra activo",neutral,curated,v2_curated
+638,"En general, la solicitud esta documentada",neutral,curated,v2_curated
+639,"En general, el reporte incluye varias secciones",neutral,curated,v2_curated
+640,"En general, la informacion fue recibida",neutral,curated,v2_curated
+641,"En general, el tramite espera confirmacion",neutral,curated,v2_curated
+642,"En general, la consulta fue guardada",neutral,curated,v2_curated
+643,"En general, el producto se encuentra reservado",neutral,curated,v2_curated
+644,"En general, el sistema muestra el detalle",neutral,curated,v2_curated
+645,"En general, la orden sigue activa",neutral,curated,v2_curated
+646,"En general, el panel contiene el resumen",neutral,curated,v2_curated
+647,"En general, la notificacion queda visible",neutral,curated,v2_curated
+648,"En general, el formulario conserva los campos",neutral,curated,v2_curated
+649,"En general, la fecha aparece en el registro",neutral,curated,v2_curated
+650,"En general, el caso queda para revision",neutral,curated,v2_curated
+651,"Bueno, el pedido aparece registrado",neutral,curated,v2_curated
+652,"Bueno, la solicitud sigue en revision",neutral,curated,v2_curated
+653,"Bueno, el sistema muestra el estado actual",neutral,curated,v2_curated
+654,"Bueno, la factura esta disponible",neutral,curated,v2_curated
+655,"Bueno, el documento quedo cargado",neutral,curated,v2_curated
+656,"Bueno, la consulta fue enviada",neutral,curated,v2_curated
+657,"Bueno, el reporte contiene informacion general",neutral,curated,v2_curated
+658,"Bueno, la entrega figura en seguimiento",neutral,curated,v2_curated
+659,"Bueno, la orden permanece abierta",neutral,curated,v2_curated
+660,"Bueno, el mensaje quedo guardado",neutral,curated,v2_curated
+661,"Bueno, la respuesta indica proceso activo",neutral,curated,v2_curated
+662,"Bueno, el producto tiene descripcion breve",neutral,curated,v2_curated
+663,"Bueno, la revision fue asignada",neutral,curated,v2_curated
+664,"Bueno, el tramite continua en curso",neutral,curated,v2_curated
+665,"Bueno, la pantalla muestra los datos",neutral,curated,v2_curated
+666,"Bueno, el archivo esta listo para descarga",neutral,curated,v2_curated
+667,"Bueno, la consulta tiene prioridad normal",neutral,curated,v2_curated
+668,"Bueno, el registro incluye fecha",neutral,curated,v2_curated
+669,"Bueno, la entrega esta programada",neutral,curated,v2_curated
+670,"Bueno, el sistema genero una notificacion",neutral,curated,v2_curated
+671,"Bueno, la solicitud fue recibida hoy",neutral,curated,v2_curated
+672,"Bueno, el producto aparece en inventario",neutral,curated,v2_curated
+673,"Bueno, la respuesta espera confirmacion",neutral,curated,v2_curated
+674,"Bueno, el reporte fue generado",neutral,curated,v2_curated
+675,"Bueno, la informacion se mantiene igual",neutral,curated,v2_curated
+676,"Bueno, el tramite quedo documentado",neutral,curated,v2_curated
+677,"Bueno, la consulta esta disponible",neutral,curated,v2_curated
+678,"Bueno, el panel muestra actividad reciente",neutral,curated,v2_curated
+679,"Bueno, la orden quedo en cola",neutral,curated,v2_curated
+680,"Bueno, el documento contiene datos generales",neutral,curated,v2_curated
+681,"Bueno, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+682,"Bueno, el sistema conserva el registro",neutral,curated,v2_curated
+683,"Bueno, la entrega fue programada",neutral,curated,v2_curated
+684,"Bueno, el producto tiene dos alternativas",neutral,curated,v2_curated
+685,"Bueno, la consulta quedo sin asignar",neutral,curated,v2_curated
+686,"Bueno, la respuesta fue registrada",neutral,curated,v2_curated
+687,"Bueno, el estado se muestra activo",neutral,curated,v2_curated
+688,"Bueno, la solicitud esta documentada",neutral,curated,v2_curated
+689,"Bueno, el reporte incluye varias secciones",neutral,curated,v2_curated
+690,"Bueno, la informacion fue recibida",neutral,curated,v2_curated
+691,"Bueno, el tramite espera confirmacion",neutral,curated,v2_curated
+692,"Bueno, la consulta fue guardada",neutral,curated,v2_curated
+693,"Bueno, el producto se encuentra reservado",neutral,curated,v2_curated
+694,"Bueno, el sistema muestra el detalle",neutral,curated,v2_curated
+695,"Bueno, la orden sigue activa",neutral,curated,v2_curated
+696,"Bueno, el panel contiene el resumen",neutral,curated,v2_curated
+697,"Bueno, la notificacion queda visible",neutral,curated,v2_curated
+698,"Bueno, el formulario conserva los campos",neutral,curated,v2_curated
+699,"Bueno, la fecha aparece en el registro",neutral,curated,v2_curated
+700,"Bueno, el caso queda para revision",neutral,curated,v2_curated
+701,"Al final, el pedido aparece registrado",neutral,curated,v2_curated
+702,"Al final, la solicitud sigue en revision",neutral,curated,v2_curated
+703,"Al final, el sistema muestra el estado actual",neutral,curated,v2_curated
+704,"Al final, la factura esta disponible",neutral,curated,v2_curated
+705,"Al final, el documento quedo cargado",neutral,curated,v2_curated
+706,"Al final, la consulta fue enviada",neutral,curated,v2_curated
+707,"Al final, el reporte contiene informacion general",neutral,curated,v2_curated
+708,"Al final, la entrega figura en seguimiento",neutral,curated,v2_curated
+709,"Al final, la orden permanece abierta",neutral,curated,v2_curated
+710,"Al final, el mensaje quedo guardado",neutral,curated,v2_curated
+711,"Al final, la respuesta indica proceso activo",neutral,curated,v2_curated
+712,"Al final, el producto tiene descripcion breve",neutral,curated,v2_curated
+713,"Al final, la revision fue asignada",neutral,curated,v2_curated
+714,"Al final, el tramite continua en curso",neutral,curated,v2_curated
+715,"Al final, la pantalla muestra los datos",neutral,curated,v2_curated
+716,"Al final, el archivo esta listo para descarga",neutral,curated,v2_curated
+717,"Al final, la consulta tiene prioridad normal",neutral,curated,v2_curated
+718,"Al final, el registro incluye fecha",neutral,curated,v2_curated
+719,"Al final, la entrega esta programada",neutral,curated,v2_curated
+720,"Al final, el sistema genero una notificacion",neutral,curated,v2_curated
+721,"Al final, la solicitud fue recibida hoy",neutral,curated,v2_curated
+722,"Al final, el producto aparece en inventario",neutral,curated,v2_curated
+723,"Al final, la respuesta espera confirmacion",neutral,curated,v2_curated
+724,"Al final, el reporte fue generado",neutral,curated,v2_curated
+725,"Al final, la informacion se mantiene igual",neutral,curated,v2_curated
+726,"Al final, el tramite quedo documentado",neutral,curated,v2_curated
+727,"Al final, la consulta esta disponible",neutral,curated,v2_curated
+728,"Al final, el panel muestra actividad reciente",neutral,curated,v2_curated
+729,"Al final, la orden quedo en cola",neutral,curated,v2_curated
+730,"Al final, el documento contiene datos generales",neutral,curated,v2_curated
+731,"Al final, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+732,"Al final, el sistema conserva el registro",neutral,curated,v2_curated
+733,"Al final, la entrega fue programada",neutral,curated,v2_curated
+734,"Al final, el producto tiene dos alternativas",neutral,curated,v2_curated
+735,"Al final, la consulta quedo sin asignar",neutral,curated,v2_curated
+736,"Al final, la respuesta fue registrada",neutral,curated,v2_curated
+737,"Al final, el estado se muestra activo",neutral,curated,v2_curated
+738,"Al final, la solicitud esta documentada",neutral,curated,v2_curated
+739,"Al final, el reporte incluye varias secciones",neutral,curated,v2_curated
+740,"Al final, la informacion fue recibida",neutral,curated,v2_curated
+741,"Al final, el tramite espera confirmacion",neutral,curated,v2_curated
+742,"Al final, la consulta fue guardada",neutral,curated,v2_curated
+743,"Al final, el producto se encuentra reservado",neutral,curated,v2_curated
+744,"Al final, el sistema muestra el detalle",neutral,curated,v2_curated
+745,"Al final, la orden sigue activa",neutral,curated,v2_curated
+746,"Al final, el panel contiene el resumen",neutral,curated,v2_curated
+747,"Al final, la notificacion queda visible",neutral,curated,v2_curated
+748,"Al final, el formulario conserva los campos",neutral,curated,v2_curated
+749,"Al final, la fecha aparece en el registro",neutral,curated,v2_curated
+750,"Al final, el caso queda para revision",neutral,curated,v2_curated
+751,"Por ahora, el pedido aparece registrado",neutral,curated,v2_curated
+752,"Por ahora, la solicitud sigue en revision",neutral,curated,v2_curated
+753,"Por ahora, el sistema muestra el estado actual",neutral,curated,v2_curated
+754,"Por ahora, la factura esta disponible",neutral,curated,v2_curated
+755,"Por ahora, el documento quedo cargado",neutral,curated,v2_curated
+756,"Por ahora, la consulta fue enviada",neutral,curated,v2_curated
+757,"Por ahora, el reporte contiene informacion general",neutral,curated,v2_curated
+758,"Por ahora, la entrega figura en seguimiento",neutral,curated,v2_curated
+759,"Por ahora, la orden permanece abierta",neutral,curated,v2_curated
+760,"Por ahora, el mensaje quedo guardado",neutral,curated,v2_curated
+761,"Por ahora, la respuesta indica proceso activo",neutral,curated,v2_curated
+762,"Por ahora, el producto tiene descripcion breve",neutral,curated,v2_curated
+763,"Por ahora, la revision fue asignada",neutral,curated,v2_curated
+764,"Por ahora, el tramite continua en curso",neutral,curated,v2_curated
+765,"Por ahora, la pantalla muestra los datos",neutral,curated,v2_curated
+766,"Por ahora, el archivo esta listo para descarga",neutral,curated,v2_curated
+767,"Por ahora, la consulta tiene prioridad normal",neutral,curated,v2_curated
+768,"Por ahora, el registro incluye fecha",neutral,curated,v2_curated
+769,"Por ahora, la entrega esta programada",neutral,curated,v2_curated
+770,"Por ahora, el sistema genero una notificacion",neutral,curated,v2_curated
+771,"Por ahora, la solicitud fue recibida hoy",neutral,curated,v2_curated
+772,"Por ahora, el producto aparece en inventario",neutral,curated,v2_curated
+773,"Por ahora, la respuesta espera confirmacion",neutral,curated,v2_curated
+774,"Por ahora, el reporte fue generado",neutral,curated,v2_curated
+775,"Por ahora, la informacion se mantiene igual",neutral,curated,v2_curated
+776,"Por ahora, el tramite quedo documentado",neutral,curated,v2_curated
+777,"Por ahora, la consulta esta disponible",neutral,curated,v2_curated
+778,"Por ahora, el panel muestra actividad reciente",neutral,curated,v2_curated
+779,"Por ahora, la orden quedo en cola",neutral,curated,v2_curated
+780,"Por ahora, el documento contiene datos generales",neutral,curated,v2_curated
+781,"Por ahora, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+782,"Por ahora, el sistema conserva el registro",neutral,curated,v2_curated
+783,"Por ahora, la entrega fue programada",neutral,curated,v2_curated
+784,"Por ahora, el producto tiene dos alternativas",neutral,curated,v2_curated
+785,"Por ahora, la consulta quedo sin asignar",neutral,curated,v2_curated
+786,"Por ahora, la respuesta fue registrada",neutral,curated,v2_curated
+787,"Por ahora, el estado se muestra activo",neutral,curated,v2_curated
+788,"Por ahora, la solicitud esta documentada",neutral,curated,v2_curated
+789,"Por ahora, el reporte incluye varias secciones",neutral,curated,v2_curated
+790,"Por ahora, la informacion fue recibida",neutral,curated,v2_curated
+791,"Por ahora, el tramite espera confirmacion",neutral,curated,v2_curated
+792,"Por ahora, la consulta fue guardada",neutral,curated,v2_curated
+793,"Por ahora, el producto se encuentra reservado",neutral,curated,v2_curated
+794,"Por ahora, el sistema muestra el detalle",neutral,curated,v2_curated
+795,"Por ahora, la orden sigue activa",neutral,curated,v2_curated
+796,"Por ahora, el panel contiene el resumen",neutral,curated,v2_curated
+797,"Por ahora, la notificacion queda visible",neutral,curated,v2_curated
+798,"Por ahora, el formulario conserva los campos",neutral,curated,v2_curated
+799,"Por ahora, la fecha aparece en el registro",neutral,curated,v2_curated
+800,"Por ahora, el caso queda para revision",neutral,curated,v2_curated
+801,"Mmm, el pedido aparece registrado",neutral,curated,v2_curated
+802,"Mmm, la solicitud sigue en revision",neutral,curated,v2_curated
+803,"Mmm, el sistema muestra el estado actual",neutral,curated,v2_curated
+804,"Mmm, la factura esta disponible",neutral,curated,v2_curated
+805,"Mmm, el documento quedo cargado",neutral,curated,v2_curated
+806,"Mmm, la consulta fue enviada",neutral,curated,v2_curated
+807,"Mmm, el reporte contiene informacion general",neutral,curated,v2_curated
+808,"Mmm, la entrega figura en seguimiento",neutral,curated,v2_curated
+809,"Mmm, la orden permanece abierta",neutral,curated,v2_curated
+810,"Mmm, el mensaje quedo guardado",neutral,curated,v2_curated
+811,"Mmm, la respuesta indica proceso activo",neutral,curated,v2_curated
+812,"Mmm, el producto tiene descripcion breve",neutral,curated,v2_curated
+813,"Mmm, la revision fue asignada",neutral,curated,v2_curated
+814,"Mmm, el tramite continua en curso",neutral,curated,v2_curated
+815,"Mmm, la pantalla muestra los datos",neutral,curated,v2_curated
+816,"Mmm, el archivo esta listo para descarga",neutral,curated,v2_curated
+817,"Mmm, la consulta tiene prioridad normal",neutral,curated,v2_curated
+818,"Mmm, el registro incluye fecha",neutral,curated,v2_curated
+819,"Mmm, la entrega esta programada",neutral,curated,v2_curated
+820,"Mmm, el sistema genero una notificacion",neutral,curated,v2_curated
+821,"Mmm, la solicitud fue recibida hoy",neutral,curated,v2_curated
+822,"Mmm, el producto aparece en inventario",neutral,curated,v2_curated
+823,"Mmm, la respuesta espera confirmacion",neutral,curated,v2_curated
+824,"Mmm, el reporte fue generado",neutral,curated,v2_curated
+825,"Mmm, la informacion se mantiene igual",neutral,curated,v2_curated
+826,"Mmm, el tramite quedo documentado",neutral,curated,v2_curated
+827,"Mmm, la consulta esta disponible",neutral,curated,v2_curated
+828,"Mmm, el panel muestra actividad reciente",neutral,curated,v2_curated
+829,"Mmm, la orden quedo en cola",neutral,curated,v2_curated
+830,"Mmm, el documento contiene datos generales",neutral,curated,v2_curated
+831,"Mmm, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+832,"Mmm, el sistema conserva el registro",neutral,curated,v2_curated
+833,"Mmm, la entrega fue programada",neutral,curated,v2_curated
+834,"Mmm, el producto tiene dos alternativas",neutral,curated,v2_curated
+835,"Mmm, la consulta quedo sin asignar",neutral,curated,v2_curated
+836,"Mmm, la respuesta fue registrada",neutral,curated,v2_curated
+837,"Mmm, el estado se muestra activo",neutral,curated,v2_curated
+838,"Mmm, la solicitud esta documentada",neutral,curated,v2_curated
+839,"Mmm, el reporte incluye varias secciones",neutral,curated,v2_curated
+840,"Mmm, la informacion fue recibida",neutral,curated,v2_curated
+841,"Mmm, el tramite espera confirmacion",neutral,curated,v2_curated
+842,"Mmm, la consulta fue guardada",neutral,curated,v2_curated
+843,"Mmm, el producto se encuentra reservado",neutral,curated,v2_curated
+844,"Mmm, el sistema muestra el detalle",neutral,curated,v2_curated
+845,"Mmm, la orden sigue activa",neutral,curated,v2_curated
+846,"Mmm, el panel contiene el resumen",neutral,curated,v2_curated
+847,"Mmm, la notificacion queda visible",neutral,curated,v2_curated
+848,"Mmm, el formulario conserva los campos",neutral,curated,v2_curated
+849,"Mmm, la fecha aparece en el registro",neutral,curated,v2_curated
+850,"Mmm, el caso queda para revision",neutral,curated,v2_curated
+851,"Despues de revisar, el pedido aparece registrado",neutral,curated,v2_curated
+852,"Despues de revisar, la solicitud sigue en revision",neutral,curated,v2_curated
+853,"Despues de revisar, el sistema muestra el estado actual",neutral,curated,v2_curated
+854,"Despues de revisar, la factura esta disponible",neutral,curated,v2_curated
+855,"Despues de revisar, el documento quedo cargado",neutral,curated,v2_curated
+856,"Despues de revisar, la consulta fue enviada",neutral,curated,v2_curated
+857,"Despues de revisar, el reporte contiene informacion general",neutral,curated,v2_curated
+858,"Despues de revisar, la entrega figura en seguimiento",neutral,curated,v2_curated
+859,"Despues de revisar, la orden permanece abierta",neutral,curated,v2_curated
+860,"Despues de revisar, el mensaje quedo guardado",neutral,curated,v2_curated
+861,"Despues de revisar, la respuesta indica proceso activo",neutral,curated,v2_curated
+862,"Despues de revisar, el producto tiene descripcion breve",neutral,curated,v2_curated
+863,"Despues de revisar, la revision fue asignada",neutral,curated,v2_curated
+864,"Despues de revisar, el tramite continua en curso",neutral,curated,v2_curated
+865,"Despues de revisar, la pantalla muestra los datos",neutral,curated,v2_curated
+866,"Despues de revisar, el archivo esta listo para descarga",neutral,curated,v2_curated
+867,"Despues de revisar, la consulta tiene prioridad normal",neutral,curated,v2_curated
+868,"Despues de revisar, el registro incluye fecha",neutral,curated,v2_curated
+869,"Despues de revisar, la entrega esta programada",neutral,curated,v2_curated
+870,"Despues de revisar, el sistema genero una notificacion",neutral,curated,v2_curated
+871,"Despues de revisar, la solicitud fue recibida hoy",neutral,curated,v2_curated
+872,"Despues de revisar, el producto aparece en inventario",neutral,curated,v2_curated
+873,"Despues de revisar, la respuesta espera confirmacion",neutral,curated,v2_curated
+874,"Despues de revisar, el reporte fue generado",neutral,curated,v2_curated
+875,"Despues de revisar, la informacion se mantiene igual",neutral,curated,v2_curated
+876,"Despues de revisar, el tramite quedo documentado",neutral,curated,v2_curated
+877,"Despues de revisar, la consulta esta disponible",neutral,curated,v2_curated
+878,"Despues de revisar, el panel muestra actividad reciente",neutral,curated,v2_curated
+879,"Despues de revisar, la orden quedo en cola",neutral,curated,v2_curated
+880,"Despues de revisar, el documento contiene datos generales",neutral,curated,v2_curated
+881,"Despues de revisar, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+882,"Despues de revisar, el sistema conserva el registro",neutral,curated,v2_curated
+883,"Despues de revisar, la entrega fue programada",neutral,curated,v2_curated
+884,"Despues de revisar, el producto tiene dos alternativas",neutral,curated,v2_curated
+885,"Despues de revisar, la consulta quedo sin asignar",neutral,curated,v2_curated
+886,"Despues de revisar, la respuesta fue registrada",neutral,curated,v2_curated
+887,"Despues de revisar, el estado se muestra activo",neutral,curated,v2_curated
+888,"Despues de revisar, la solicitud esta documentada",neutral,curated,v2_curated
+889,"Despues de revisar, el reporte incluye varias secciones",neutral,curated,v2_curated
+890,"Despues de revisar, la informacion fue recibida",neutral,curated,v2_curated
+891,"Despues de revisar, el tramite espera confirmacion",neutral,curated,v2_curated
+892,"Despues de revisar, la consulta fue guardada",neutral,curated,v2_curated
+893,"Despues de revisar, el producto se encuentra reservado",neutral,curated,v2_curated
+894,"Despues de revisar, el sistema muestra el detalle",neutral,curated,v2_curated
+895,"Despues de revisar, la orden sigue activa",neutral,curated,v2_curated
+896,"Despues de revisar, el panel contiene el resumen",neutral,curated,v2_curated
+897,"Despues de revisar, la notificacion queda visible",neutral,curated,v2_curated
+898,"Despues de revisar, el formulario conserva los campos",neutral,curated,v2_curated
+899,"Despues de revisar, la fecha aparece en el registro",neutral,curated,v2_curated
+900,"Despues de revisar, el caso queda para revision",neutral,curated,v2_curated
+901,"Con lo visto, el pedido aparece registrado",neutral,curated,v2_curated
+902,"Con lo visto, la solicitud sigue en revision",neutral,curated,v2_curated
+903,"Con lo visto, el sistema muestra el estado actual",neutral,curated,v2_curated
+904,"Con lo visto, la factura esta disponible",neutral,curated,v2_curated
+905,"Con lo visto, el documento quedo cargado",neutral,curated,v2_curated
+906,"Con lo visto, la consulta fue enviada",neutral,curated,v2_curated
+907,"Con lo visto, el reporte contiene informacion general",neutral,curated,v2_curated
+908,"Con lo visto, la entrega figura en seguimiento",neutral,curated,v2_curated
+909,"Con lo visto, la orden permanece abierta",neutral,curated,v2_curated
+910,"Con lo visto, el mensaje quedo guardado",neutral,curated,v2_curated
+911,"Con lo visto, la respuesta indica proceso activo",neutral,curated,v2_curated
+912,"Con lo visto, el producto tiene descripcion breve",neutral,curated,v2_curated
+913,"Con lo visto, la revision fue asignada",neutral,curated,v2_curated
+914,"Con lo visto, el tramite continua en curso",neutral,curated,v2_curated
+915,"Con lo visto, la pantalla muestra los datos",neutral,curated,v2_curated
+916,"Con lo visto, el archivo esta listo para descarga",neutral,curated,v2_curated
+917,"Con lo visto, la consulta tiene prioridad normal",neutral,curated,v2_curated
+918,"Con lo visto, el registro incluye fecha",neutral,curated,v2_curated
+919,"Con lo visto, la entrega esta programada",neutral,curated,v2_curated
+920,"Con lo visto, el sistema genero una notificacion",neutral,curated,v2_curated
+921,"Con lo visto, la solicitud fue recibida hoy",neutral,curated,v2_curated
+922,"Con lo visto, el producto aparece en inventario",neutral,curated,v2_curated
+923,"Con lo visto, la respuesta espera confirmacion",neutral,curated,v2_curated
+924,"Con lo visto, el reporte fue generado",neutral,curated,v2_curated
+925,"Con lo visto, la informacion se mantiene igual",neutral,curated,v2_curated
+926,"Con lo visto, el tramite quedo documentado",neutral,curated,v2_curated
+927,"Con lo visto, la consulta esta disponible",neutral,curated,v2_curated
+928,"Con lo visto, el panel muestra actividad reciente",neutral,curated,v2_curated
+929,"Con lo visto, la orden quedo en cola",neutral,curated,v2_curated
+930,"Con lo visto, el documento contiene datos generales",neutral,curated,v2_curated
+931,"Con lo visto, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+932,"Con lo visto, el sistema conserva el registro",neutral,curated,v2_curated
+933,"Con lo visto, la entrega fue programada",neutral,curated,v2_curated
+934,"Con lo visto, el producto tiene dos alternativas",neutral,curated,v2_curated
+935,"Con lo visto, la consulta quedo sin asignar",neutral,curated,v2_curated
+936,"Con lo visto, la respuesta fue registrada",neutral,curated,v2_curated
+937,"Con lo visto, el estado se muestra activo",neutral,curated,v2_curated
+938,"Con lo visto, la solicitud esta documentada",neutral,curated,v2_curated
+939,"Con lo visto, el reporte incluye varias secciones",neutral,curated,v2_curated
+940,"Con lo visto, la informacion fue recibida",neutral,curated,v2_curated
+941,"Con lo visto, el tramite espera confirmacion",neutral,curated,v2_curated
+942,"Con lo visto, la consulta fue guardada",neutral,curated,v2_curated
+943,"Con lo visto, el producto se encuentra reservado",neutral,curated,v2_curated
+944,"Con lo visto, el sistema muestra el detalle",neutral,curated,v2_curated
+945,"Con lo visto, la orden sigue activa",neutral,curated,v2_curated
+946,"Con lo visto, el panel contiene el resumen",neutral,curated,v2_curated
+947,"Con lo visto, la notificacion queda visible",neutral,curated,v2_curated
+948,"Con lo visto, el formulario conserva los campos",neutral,curated,v2_curated
+949,"Con lo visto, la fecha aparece en el registro",neutral,curated,v2_curated
+950,"Con lo visto, el caso queda para revision",neutral,curated,v2_curated
+951,"Para este caso, el pedido aparece registrado",neutral,curated,v2_curated
+952,"Para este caso, la solicitud sigue en revision",neutral,curated,v2_curated
+953,"Para este caso, el sistema muestra el estado actual",neutral,curated,v2_curated
+954,"Para este caso, la factura esta disponible",neutral,curated,v2_curated
+955,"Para este caso, el documento quedo cargado",neutral,curated,v2_curated
+956,"Para este caso, la consulta fue enviada",neutral,curated,v2_curated
+957,"Para este caso, el reporte contiene informacion general",neutral,curated,v2_curated
+958,"Para este caso, la entrega figura en seguimiento",neutral,curated,v2_curated
+959,"Para este caso, la orden permanece abierta",neutral,curated,v2_curated
+960,"Para este caso, el mensaje quedo guardado",neutral,curated,v2_curated
+961,"Para este caso, la respuesta indica proceso activo",neutral,curated,v2_curated
+962,"Para este caso, el producto tiene descripcion breve",neutral,curated,v2_curated
+963,"Para este caso, la revision fue asignada",neutral,curated,v2_curated
+964,"Para este caso, el tramite continua en curso",neutral,curated,v2_curated
+965,"Para este caso, la pantalla muestra los datos",neutral,curated,v2_curated
+966,"Para este caso, el archivo esta listo para descarga",neutral,curated,v2_curated
+967,"Para este caso, la consulta tiene prioridad normal",neutral,curated,v2_curated
+968,"Para este caso, el registro incluye fecha",neutral,curated,v2_curated
+969,"Para este caso, la entrega esta programada",neutral,curated,v2_curated
+970,"Para este caso, el sistema genero una notificacion",neutral,curated,v2_curated
+971,"Para este caso, la solicitud fue recibida hoy",neutral,curated,v2_curated
+972,"Para este caso, el producto aparece en inventario",neutral,curated,v2_curated
+973,"Para este caso, la respuesta espera confirmacion",neutral,curated,v2_curated
+974,"Para este caso, el reporte fue generado",neutral,curated,v2_curated
+975,"Para este caso, la informacion se mantiene igual",neutral,curated,v2_curated
+976,"Para este caso, el tramite quedo documentado",neutral,curated,v2_curated
+977,"Para este caso, la consulta esta disponible",neutral,curated,v2_curated
+978,"Para este caso, el panel muestra actividad reciente",neutral,curated,v2_curated
+979,"Para este caso, la orden quedo en cola",neutral,curated,v2_curated
+980,"Para este caso, el documento contiene datos generales",neutral,curated,v2_curated
+981,"Para este caso, la solicitud tiene respuesta parcial",neutral,curated,v2_curated
+982,"Para este caso, el sistema conserva el registro",neutral,curated,v2_curated
+983,"Para este caso, la entrega fue programada",neutral,curated,v2_curated
+984,"Para este caso, el producto tiene dos alternativas",neutral,curated,v2_curated
+985,"Para este caso, la consulta quedo sin asignar",neutral,curated,v2_curated
+986,"Para este caso, la respuesta fue registrada",neutral,curated,v2_curated
+987,"Para este caso, el estado se muestra activo",neutral,curated,v2_curated
+988,"Para este caso, la solicitud esta documentada",neutral,curated,v2_curated
+989,"Para este caso, el reporte incluye varias secciones",neutral,curated,v2_curated
+990,"Para este caso, la informacion fue recibida",neutral,curated,v2_curated
+991,"Para este caso, el tramite espera confirmacion",neutral,curated,v2_curated
+992,"Para este caso, la consulta fue guardada",neutral,curated,v2_curated
+993,"Para este caso, el producto se encuentra reservado",neutral,curated,v2_curated
+994,"Para este caso, el sistema muestra el detalle",neutral,curated,v2_curated
+995,"Para este caso, la orden sigue activa",neutral,curated,v2_curated
+996,"Para este caso, el panel contiene el resumen",neutral,curated,v2_curated
+997,"Para este caso, la notificacion queda visible",neutral,curated,v2_curated
+998,"Para este caso, el formulario conserva los campos",neutral,curated,v2_curated
+999,"Para este caso, la fecha aparece en el registro",neutral,curated,v2_curated
+1000,"Para este caso, el caso queda para revision",neutral,curated,v2_curated
+1001,llego tarde y con problemas,negativo,curated,v2_curated
+1002,no aclaro nada importante,negativo,curated,v2_curated
+1003,fue mas confuso de lo necesario,negativo,curated,v2_curated
+1004,se cerro mientras avanzaba,negativo,curated,v2_curated
+1005,tardo y no resolvio el caso,negativo,curated,v2_curated
+1006,fallo durante la primera prueba,negativo,curated,v2_curated
+1007,no coincidia con lo indicado,negativo,curated,v2_curated
+1008,llego incompleto,negativo,curated,v2_curated
+1009,perdio los cambios realizados,negativo,curated,v2_curated
+1010,termino siendo complicado,negativo,curated,v2_curated
+1011,fue poco claro,negativo,curated,v2_curated
+1012,no mostro los datos esperados,negativo,curated,v2_curated
+1013,dejo dudas sin resolver,negativo,curated,v2_curated
+1014,se quedo detenido,negativo,curated,v2_curated
+1015,llego demasiado tarde,negativo,curated,v2_curated
+1016,fue inestable durante la solicitud,negativo,curated,v2_curated
+1017,no cumplio con lo indicado,negativo,curated,v2_curated
+1018,no permitio terminar el proceso,negativo,curated,v2_curated
+1019,fue insuficiente para continuar,negativo,curated,v2_curated
+1020,fue cancelado sin aviso claro,negativo,curated,v2_curated
+1021,dejo una sensacion negativa,negativo,curated,v2_curated
+1022,mostro errores al guardar,negativo,curated,v2_curated
+1023,no avanzo despues de varios intentos,negativo,curated,v2_curated
+1024,quedo sin seguimiento,negativo,curated,v2_curated
+1025,respondio con informacion incompleta,negativo,curated,v2_curated
+1026,tomo mas tiempo del esperado,negativo,curated,v2_curated
+1027,fue dificil de usar,negativo,curated,v2_curated
+1028,genero varios inconvenientes,negativo,curated,v2_curated
+1029,llego con fallas visibles,negativo,curated,v2_curated
+1030,fue breve pero poco util,negativo,curated,v2_curated
+1031,no dio confianza,negativo,curated,v2_curated
+1032,fue contradictorio,negativo,curated,v2_curated
+1033,tuvo demasiados pasos,negativo,curated,v2_curated
+1034,cargo muy lento,negativo,curated,v2_curated
+1035,no coincidio con la solicitud,negativo,curated,v2_curated
+1036,no explico el problema principal,negativo,curated,v2_curated
+1037,termino de forma decepcionante,negativo,curated,v2_curated
+1038,fue desordenado,negativo,curated,v2_curated
+1039,dejo el caso abierto,negativo,curated,v2_curated
+1040,fallo al finalizar,negativo,curated,v2_curated
+1041,tuvo bajo rendimiento,negativo,curated,v2_curated
+1042,no fue cuidadoso,negativo,curated,v2_curated
+1043,fue lento desde el inicio,negativo,curated,v2_curated
+1044,quedo sin resolver,negativo,curated,v2_curated
+1045,no fue suficiente,negativo,curated,v2_curated
+1046,termino con error,negativo,curated,v2_curated
+1047,no respondia bien,negativo,curated,v2_curated
+1048,no explico los pasos,negativo,curated,v2_curated
+1049,tuvo retrasos repetidos,negativo,curated,v2_curated
+1050,fue frustrante,negativo,curated,v2_curated
+1051,"La verdad, llego tarde y con problemas",negativo,curated,v2_curated
+1052,"La verdad, no aclaro nada importante",negativo,curated,v2_curated
+1053,"La verdad, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1054,"La verdad, se cerro mientras avanzaba",negativo,curated,v2_curated
+1055,"La verdad, tardo y no resolvio el caso",negativo,curated,v2_curated
+1056,"La verdad, fallo durante la primera prueba",negativo,curated,v2_curated
+1057,"La verdad, no coincidia con lo indicado",negativo,curated,v2_curated
+1058,"La verdad, llego incompleto",negativo,curated,v2_curated
+1059,"La verdad, perdio los cambios realizados",negativo,curated,v2_curated
+1060,"La verdad, termino siendo complicado",negativo,curated,v2_curated
+1061,"La verdad, fue poco claro",negativo,curated,v2_curated
+1062,"La verdad, no mostro los datos esperados",negativo,curated,v2_curated
+1063,"La verdad, dejo dudas sin resolver",negativo,curated,v2_curated
+1064,"La verdad, se quedo detenido",negativo,curated,v2_curated
+1065,"La verdad, llego demasiado tarde",negativo,curated,v2_curated
+1066,"La verdad, fue inestable durante la solicitud",negativo,curated,v2_curated
+1067,"La verdad, no cumplio con lo indicado",negativo,curated,v2_curated
+1068,"La verdad, no permitio terminar el proceso",negativo,curated,v2_curated
+1069,"La verdad, fue insuficiente para continuar",negativo,curated,v2_curated
+1070,"La verdad, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1071,"La verdad, dejo una sensacion negativa",negativo,curated,v2_curated
+1072,"La verdad, mostro errores al guardar",negativo,curated,v2_curated
+1073,"La verdad, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1074,"La verdad, quedo sin seguimiento",negativo,curated,v2_curated
+1075,"La verdad, respondio con informacion incompleta",negativo,curated,v2_curated
+1076,"La verdad, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1077,"La verdad, fue dificil de usar",negativo,curated,v2_curated
+1078,"La verdad, genero varios inconvenientes",negativo,curated,v2_curated
+1079,"La verdad, llego con fallas visibles",negativo,curated,v2_curated
+1080,"La verdad, fue breve pero poco util",negativo,curated,v2_curated
+1081,"La verdad, no dio confianza",negativo,curated,v2_curated
+1082,"La verdad, fue contradictorio",negativo,curated,v2_curated
+1083,"La verdad, tuvo demasiados pasos",negativo,curated,v2_curated
+1084,"La verdad, cargo muy lento",negativo,curated,v2_curated
+1085,"La verdad, no coincidio con la solicitud",negativo,curated,v2_curated
+1086,"La verdad, no explico el problema principal",negativo,curated,v2_curated
+1087,"La verdad, termino de forma decepcionante",negativo,curated,v2_curated
+1088,"La verdad, fue desordenado",negativo,curated,v2_curated
+1089,"La verdad, dejo el caso abierto",negativo,curated,v2_curated
+1090,"La verdad, fallo al finalizar",negativo,curated,v2_curated
+1091,"La verdad, tuvo bajo rendimiento",negativo,curated,v2_curated
+1092,"La verdad, no fue cuidadoso",negativo,curated,v2_curated
+1093,"La verdad, fue lento desde el inicio",negativo,curated,v2_curated
+1094,"La verdad, quedo sin resolver",negativo,curated,v2_curated
+1095,"La verdad, no fue suficiente",negativo,curated,v2_curated
+1096,"La verdad, termino con error",negativo,curated,v2_curated
+1097,"La verdad, no respondia bien",negativo,curated,v2_curated
+1098,"La verdad, no explico los pasos",negativo,curated,v2_curated
+1099,"La verdad, tuvo retrasos repetidos",negativo,curated,v2_curated
+1100,"La verdad, fue frustrante",negativo,curated,v2_curated
+1101,"En general, llego tarde y con problemas",negativo,curated,v2_curated
+1102,"En general, no aclaro nada importante",negativo,curated,v2_curated
+1103,"En general, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1104,"En general, se cerro mientras avanzaba",negativo,curated,v2_curated
+1105,"En general, tardo y no resolvio el caso",negativo,curated,v2_curated
+1106,"En general, fallo durante la primera prueba",negativo,curated,v2_curated
+1107,"En general, no coincidia con lo indicado",negativo,curated,v2_curated
+1108,"En general, llego incompleto",negativo,curated,v2_curated
+1109,"En general, perdio los cambios realizados",negativo,curated,v2_curated
+1110,"En general, termino siendo complicado",negativo,curated,v2_curated
+1111,"En general, fue poco claro",negativo,curated,v2_curated
+1112,"En general, no mostro los datos esperados",negativo,curated,v2_curated
+1113,"En general, dejo dudas sin resolver",negativo,curated,v2_curated
+1114,"En general, se quedo detenido",negativo,curated,v2_curated
+1115,"En general, llego demasiado tarde",negativo,curated,v2_curated
+1116,"En general, fue inestable durante la solicitud",negativo,curated,v2_curated
+1117,"En general, no cumplio con lo indicado",negativo,curated,v2_curated
+1118,"En general, no permitio terminar el proceso",negativo,curated,v2_curated
+1119,"En general, fue insuficiente para continuar",negativo,curated,v2_curated
+1120,"En general, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1121,"En general, dejo una sensacion negativa",negativo,curated,v2_curated
+1122,"En general, mostro errores al guardar",negativo,curated,v2_curated
+1123,"En general, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1124,"En general, quedo sin seguimiento",negativo,curated,v2_curated
+1125,"En general, respondio con informacion incompleta",negativo,curated,v2_curated
+1126,"En general, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1127,"En general, fue dificil de usar",negativo,curated,v2_curated
+1128,"En general, genero varios inconvenientes",negativo,curated,v2_curated
+1129,"En general, llego con fallas visibles",negativo,curated,v2_curated
+1130,"En general, fue breve pero poco util",negativo,curated,v2_curated
+1131,"En general, no dio confianza",negativo,curated,v2_curated
+1132,"En general, fue contradictorio",negativo,curated,v2_curated
+1133,"En general, tuvo demasiados pasos",negativo,curated,v2_curated
+1134,"En general, cargo muy lento",negativo,curated,v2_curated
+1135,"En general, no coincidio con la solicitud",negativo,curated,v2_curated
+1136,"En general, no explico el problema principal",negativo,curated,v2_curated
+1137,"En general, termino de forma decepcionante",negativo,curated,v2_curated
+1138,"En general, fue desordenado",negativo,curated,v2_curated
+1139,"En general, dejo el caso abierto",negativo,curated,v2_curated
+1140,"En general, fallo al finalizar",negativo,curated,v2_curated
+1141,"En general, tuvo bajo rendimiento",negativo,curated,v2_curated
+1142,"En general, no fue cuidadoso",negativo,curated,v2_curated
+1143,"En general, fue lento desde el inicio",negativo,curated,v2_curated
+1144,"En general, quedo sin resolver",negativo,curated,v2_curated
+1145,"En general, no fue suficiente",negativo,curated,v2_curated
+1146,"En general, termino con error",negativo,curated,v2_curated
+1147,"En general, no respondia bien",negativo,curated,v2_curated
+1148,"En general, no explico los pasos",negativo,curated,v2_curated
+1149,"En general, tuvo retrasos repetidos",negativo,curated,v2_curated
+1150,"En general, fue frustrante",negativo,curated,v2_curated
+1151,"Bueno, llego tarde y con problemas",negativo,curated,v2_curated
+1152,"Bueno, no aclaro nada importante",negativo,curated,v2_curated
+1153,"Bueno, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1154,"Bueno, se cerro mientras avanzaba",negativo,curated,v2_curated
+1155,"Bueno, tardo y no resolvio el caso",negativo,curated,v2_curated
+1156,"Bueno, fallo durante la primera prueba",negativo,curated,v2_curated
+1157,"Bueno, no coincidia con lo indicado",negativo,curated,v2_curated
+1158,"Bueno, llego incompleto",negativo,curated,v2_curated
+1159,"Bueno, perdio los cambios realizados",negativo,curated,v2_curated
+1160,"Bueno, termino siendo complicado",negativo,curated,v2_curated
+1161,"Bueno, fue poco claro",negativo,curated,v2_curated
+1162,"Bueno, no mostro los datos esperados",negativo,curated,v2_curated
+1163,"Bueno, dejo dudas sin resolver",negativo,curated,v2_curated
+1164,"Bueno, se quedo detenido",negativo,curated,v2_curated
+1165,"Bueno, llego demasiado tarde",negativo,curated,v2_curated
+1166,"Bueno, fue inestable durante la solicitud",negativo,curated,v2_curated
+1167,"Bueno, no cumplio con lo indicado",negativo,curated,v2_curated
+1168,"Bueno, no permitio terminar el proceso",negativo,curated,v2_curated
+1169,"Bueno, fue insuficiente para continuar",negativo,curated,v2_curated
+1170,"Bueno, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1171,"Bueno, dejo una sensacion negativa",negativo,curated,v2_curated
+1172,"Bueno, mostro errores al guardar",negativo,curated,v2_curated
+1173,"Bueno, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1174,"Bueno, quedo sin seguimiento",negativo,curated,v2_curated
+1175,"Bueno, respondio con informacion incompleta",negativo,curated,v2_curated
+1176,"Bueno, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1177,"Bueno, fue dificil de usar",negativo,curated,v2_curated
+1178,"Bueno, genero varios inconvenientes",negativo,curated,v2_curated
+1179,"Bueno, llego con fallas visibles",negativo,curated,v2_curated
+1180,"Bueno, fue breve pero poco util",negativo,curated,v2_curated
+1181,"Bueno, no dio confianza",negativo,curated,v2_curated
+1182,"Bueno, fue contradictorio",negativo,curated,v2_curated
+1183,"Bueno, tuvo demasiados pasos",negativo,curated,v2_curated
+1184,"Bueno, cargo muy lento",negativo,curated,v2_curated
+1185,"Bueno, no coincidio con la solicitud",negativo,curated,v2_curated
+1186,"Bueno, no explico el problema principal",negativo,curated,v2_curated
+1187,"Bueno, termino de forma decepcionante",negativo,curated,v2_curated
+1188,"Bueno, fue desordenado",negativo,curated,v2_curated
+1189,"Bueno, dejo el caso abierto",negativo,curated,v2_curated
+1190,"Bueno, fallo al finalizar",negativo,curated,v2_curated
+1191,"Bueno, tuvo bajo rendimiento",negativo,curated,v2_curated
+1192,"Bueno, no fue cuidadoso",negativo,curated,v2_curated
+1193,"Bueno, fue lento desde el inicio",negativo,curated,v2_curated
+1194,"Bueno, quedo sin resolver",negativo,curated,v2_curated
+1195,"Bueno, no fue suficiente",negativo,curated,v2_curated
+1196,"Bueno, termino con error",negativo,curated,v2_curated
+1197,"Bueno, no respondia bien",negativo,curated,v2_curated
+1198,"Bueno, no explico los pasos",negativo,curated,v2_curated
+1199,"Bueno, tuvo retrasos repetidos",negativo,curated,v2_curated
+1200,"Bueno, fue frustrante",negativo,curated,v2_curated
+1201,"Al final, llego tarde y con problemas",negativo,curated,v2_curated
+1202,"Al final, no aclaro nada importante",negativo,curated,v2_curated
+1203,"Al final, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1204,"Al final, se cerro mientras avanzaba",negativo,curated,v2_curated
+1205,"Al final, tardo y no resolvio el caso",negativo,curated,v2_curated
+1206,"Al final, fallo durante la primera prueba",negativo,curated,v2_curated
+1207,"Al final, no coincidia con lo indicado",negativo,curated,v2_curated
+1208,"Al final, llego incompleto",negativo,curated,v2_curated
+1209,"Al final, perdio los cambios realizados",negativo,curated,v2_curated
+1210,"Al final, termino siendo complicado",negativo,curated,v2_curated
+1211,"Al final, fue poco claro",negativo,curated,v2_curated
+1212,"Al final, no mostro los datos esperados",negativo,curated,v2_curated
+1213,"Al final, dejo dudas sin resolver",negativo,curated,v2_curated
+1214,"Al final, se quedo detenido",negativo,curated,v2_curated
+1215,"Al final, llego demasiado tarde",negativo,curated,v2_curated
+1216,"Al final, fue inestable durante la solicitud",negativo,curated,v2_curated
+1217,"Al final, no cumplio con lo indicado",negativo,curated,v2_curated
+1218,"Al final, no permitio terminar el proceso",negativo,curated,v2_curated
+1219,"Al final, fue insuficiente para continuar",negativo,curated,v2_curated
+1220,"Al final, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1221,"Al final, dejo una sensacion negativa",negativo,curated,v2_curated
+1222,"Al final, mostro errores al guardar",negativo,curated,v2_curated
+1223,"Al final, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1224,"Al final, quedo sin seguimiento",negativo,curated,v2_curated
+1225,"Al final, respondio con informacion incompleta",negativo,curated,v2_curated
+1226,"Al final, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1227,"Al final, fue dificil de usar",negativo,curated,v2_curated
+1228,"Al final, genero varios inconvenientes",negativo,curated,v2_curated
+1229,"Al final, llego con fallas visibles",negativo,curated,v2_curated
+1230,"Al final, fue breve pero poco util",negativo,curated,v2_curated
+1231,"Al final, no dio confianza",negativo,curated,v2_curated
+1232,"Al final, fue contradictorio",negativo,curated,v2_curated
+1233,"Al final, tuvo demasiados pasos",negativo,curated,v2_curated
+1234,"Al final, cargo muy lento",negativo,curated,v2_curated
+1235,"Al final, no coincidio con la solicitud",negativo,curated,v2_curated
+1236,"Al final, no explico el problema principal",negativo,curated,v2_curated
+1237,"Al final, termino de forma decepcionante",negativo,curated,v2_curated
+1238,"Al final, fue desordenado",negativo,curated,v2_curated
+1239,"Al final, dejo el caso abierto",negativo,curated,v2_curated
+1240,"Al final, fallo al finalizar",negativo,curated,v2_curated
+1241,"Al final, tuvo bajo rendimiento",negativo,curated,v2_curated
+1242,"Al final, no fue cuidadoso",negativo,curated,v2_curated
+1243,"Al final, fue lento desde el inicio",negativo,curated,v2_curated
+1244,"Al final, quedo sin resolver",negativo,curated,v2_curated
+1245,"Al final, no fue suficiente",negativo,curated,v2_curated
+1246,"Al final, termino con error",negativo,curated,v2_curated
+1247,"Al final, no respondia bien",negativo,curated,v2_curated
+1248,"Al final, no explico los pasos",negativo,curated,v2_curated
+1249,"Al final, tuvo retrasos repetidos",negativo,curated,v2_curated
+1250,"Al final, fue frustrante",negativo,curated,v2_curated
+1251,"Por ahora, llego tarde y con problemas",negativo,curated,v2_curated
+1252,"Por ahora, no aclaro nada importante",negativo,curated,v2_curated
+1253,"Por ahora, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1254,"Por ahora, se cerro mientras avanzaba",negativo,curated,v2_curated
+1255,"Por ahora, tardo y no resolvio el caso",negativo,curated,v2_curated
+1256,"Por ahora, fallo durante la primera prueba",negativo,curated,v2_curated
+1257,"Por ahora, no coincidia con lo indicado",negativo,curated,v2_curated
+1258,"Por ahora, llego incompleto",negativo,curated,v2_curated
+1259,"Por ahora, perdio los cambios realizados",negativo,curated,v2_curated
+1260,"Por ahora, termino siendo complicado",negativo,curated,v2_curated
+1261,"Por ahora, fue poco claro",negativo,curated,v2_curated
+1262,"Por ahora, no mostro los datos esperados",negativo,curated,v2_curated
+1263,"Por ahora, dejo dudas sin resolver",negativo,curated,v2_curated
+1264,"Por ahora, se quedo detenido",negativo,curated,v2_curated
+1265,"Por ahora, llego demasiado tarde",negativo,curated,v2_curated
+1266,"Por ahora, fue inestable durante la solicitud",negativo,curated,v2_curated
+1267,"Por ahora, no cumplio con lo indicado",negativo,curated,v2_curated
+1268,"Por ahora, no permitio terminar el proceso",negativo,curated,v2_curated
+1269,"Por ahora, fue insuficiente para continuar",negativo,curated,v2_curated
+1270,"Por ahora, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1271,"Por ahora, dejo una sensacion negativa",negativo,curated,v2_curated
+1272,"Por ahora, mostro errores al guardar",negativo,curated,v2_curated
+1273,"Por ahora, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1274,"Por ahora, quedo sin seguimiento",negativo,curated,v2_curated
+1275,"Por ahora, respondio con informacion incompleta",negativo,curated,v2_curated
+1276,"Por ahora, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1277,"Por ahora, fue dificil de usar",negativo,curated,v2_curated
+1278,"Por ahora, genero varios inconvenientes",negativo,curated,v2_curated
+1279,"Por ahora, llego con fallas visibles",negativo,curated,v2_curated
+1280,"Por ahora, fue breve pero poco util",negativo,curated,v2_curated
+1281,"Por ahora, no dio confianza",negativo,curated,v2_curated
+1282,"Por ahora, fue contradictorio",negativo,curated,v2_curated
+1283,"Por ahora, tuvo demasiados pasos",negativo,curated,v2_curated
+1284,"Por ahora, cargo muy lento",negativo,curated,v2_curated
+1285,"Por ahora, no coincidio con la solicitud",negativo,curated,v2_curated
+1286,"Por ahora, no explico el problema principal",negativo,curated,v2_curated
+1287,"Por ahora, termino de forma decepcionante",negativo,curated,v2_curated
+1288,"Por ahora, fue desordenado",negativo,curated,v2_curated
+1289,"Por ahora, dejo el caso abierto",negativo,curated,v2_curated
+1290,"Por ahora, fallo al finalizar",negativo,curated,v2_curated
+1291,"Por ahora, tuvo bajo rendimiento",negativo,curated,v2_curated
+1292,"Por ahora, no fue cuidadoso",negativo,curated,v2_curated
+1293,"Por ahora, fue lento desde el inicio",negativo,curated,v2_curated
+1294,"Por ahora, quedo sin resolver",negativo,curated,v2_curated
+1295,"Por ahora, no fue suficiente",negativo,curated,v2_curated
+1296,"Por ahora, termino con error",negativo,curated,v2_curated
+1297,"Por ahora, no respondia bien",negativo,curated,v2_curated
+1298,"Por ahora, no explico los pasos",negativo,curated,v2_curated
+1299,"Por ahora, tuvo retrasos repetidos",negativo,curated,v2_curated
+1300,"Por ahora, fue frustrante",negativo,curated,v2_curated
+1301,"Mmm, llego tarde y con problemas",negativo,curated,v2_curated
+1302,"Mmm, no aclaro nada importante",negativo,curated,v2_curated
+1303,"Mmm, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1304,"Mmm, se cerro mientras avanzaba",negativo,curated,v2_curated
+1305,"Mmm, tardo y no resolvio el caso",negativo,curated,v2_curated
+1306,"Mmm, fallo durante la primera prueba",negativo,curated,v2_curated
+1307,"Mmm, no coincidia con lo indicado",negativo,curated,v2_curated
+1308,"Mmm, llego incompleto",negativo,curated,v2_curated
+1309,"Mmm, perdio los cambios realizados",negativo,curated,v2_curated
+1310,"Mmm, termino siendo complicado",negativo,curated,v2_curated
+1311,"Mmm, fue poco claro",negativo,curated,v2_curated
+1312,"Mmm, no mostro los datos esperados",negativo,curated,v2_curated
+1313,"Mmm, dejo dudas sin resolver",negativo,curated,v2_curated
+1314,"Mmm, se quedo detenido",negativo,curated,v2_curated
+1315,"Mmm, llego demasiado tarde",negativo,curated,v2_curated
+1316,"Mmm, fue inestable durante la solicitud",negativo,curated,v2_curated
+1317,"Mmm, no cumplio con lo indicado",negativo,curated,v2_curated
+1318,"Mmm, no permitio terminar el proceso",negativo,curated,v2_curated
+1319,"Mmm, fue insuficiente para continuar",negativo,curated,v2_curated
+1320,"Mmm, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1321,"Mmm, dejo una sensacion negativa",negativo,curated,v2_curated
+1322,"Mmm, mostro errores al guardar",negativo,curated,v2_curated
+1323,"Mmm, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1324,"Mmm, quedo sin seguimiento",negativo,curated,v2_curated
+1325,"Mmm, respondio con informacion incompleta",negativo,curated,v2_curated
+1326,"Mmm, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1327,"Mmm, fue dificil de usar",negativo,curated,v2_curated
+1328,"Mmm, genero varios inconvenientes",negativo,curated,v2_curated
+1329,"Mmm, llego con fallas visibles",negativo,curated,v2_curated
+1330,"Mmm, fue breve pero poco util",negativo,curated,v2_curated
+1331,"Mmm, no dio confianza",negativo,curated,v2_curated
+1332,"Mmm, fue contradictorio",negativo,curated,v2_curated
+1333,"Mmm, tuvo demasiados pasos",negativo,curated,v2_curated
+1334,"Mmm, cargo muy lento",negativo,curated,v2_curated
+1335,"Mmm, no coincidio con la solicitud",negativo,curated,v2_curated
+1336,"Mmm, no explico el problema principal",negativo,curated,v2_curated
+1337,"Mmm, termino de forma decepcionante",negativo,curated,v2_curated
+1338,"Mmm, fue desordenado",negativo,curated,v2_curated
+1339,"Mmm, dejo el caso abierto",negativo,curated,v2_curated
+1340,"Mmm, fallo al finalizar",negativo,curated,v2_curated
+1341,"Mmm, tuvo bajo rendimiento",negativo,curated,v2_curated
+1342,"Mmm, no fue cuidadoso",negativo,curated,v2_curated
+1343,"Mmm, fue lento desde el inicio",negativo,curated,v2_curated
+1344,"Mmm, quedo sin resolver",negativo,curated,v2_curated
+1345,"Mmm, no fue suficiente",negativo,curated,v2_curated
+1346,"Mmm, termino con error",negativo,curated,v2_curated
+1347,"Mmm, no respondia bien",negativo,curated,v2_curated
+1348,"Mmm, no explico los pasos",negativo,curated,v2_curated
+1349,"Mmm, tuvo retrasos repetidos",negativo,curated,v2_curated
+1350,"Mmm, fue frustrante",negativo,curated,v2_curated
+1351,"Despues de revisar, llego tarde y con problemas",negativo,curated,v2_curated
+1352,"Despues de revisar, no aclaro nada importante",negativo,curated,v2_curated
+1353,"Despues de revisar, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1354,"Despues de revisar, se cerro mientras avanzaba",negativo,curated,v2_curated
+1355,"Despues de revisar, tardo y no resolvio el caso",negativo,curated,v2_curated
+1356,"Despues de revisar, fallo durante la primera prueba",negativo,curated,v2_curated
+1357,"Despues de revisar, no coincidia con lo indicado",negativo,curated,v2_curated
+1358,"Despues de revisar, llego incompleto",negativo,curated,v2_curated
+1359,"Despues de revisar, perdio los cambios realizados",negativo,curated,v2_curated
+1360,"Despues de revisar, termino siendo complicado",negativo,curated,v2_curated
+1361,"Despues de revisar, fue poco claro",negativo,curated,v2_curated
+1362,"Despues de revisar, no mostro los datos esperados",negativo,curated,v2_curated
+1363,"Despues de revisar, dejo dudas sin resolver",negativo,curated,v2_curated
+1364,"Despues de revisar, se quedo detenido",negativo,curated,v2_curated
+1365,"Despues de revisar, llego demasiado tarde",negativo,curated,v2_curated
+1366,"Despues de revisar, fue inestable durante la solicitud",negativo,curated,v2_curated
+1367,"Despues de revisar, no cumplio con lo indicado",negativo,curated,v2_curated
+1368,"Despues de revisar, no permitio terminar el proceso",negativo,curated,v2_curated
+1369,"Despues de revisar, fue insuficiente para continuar",negativo,curated,v2_curated
+1370,"Despues de revisar, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1371,"Despues de revisar, dejo una sensacion negativa",negativo,curated,v2_curated
+1372,"Despues de revisar, mostro errores al guardar",negativo,curated,v2_curated
+1373,"Despues de revisar, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1374,"Despues de revisar, quedo sin seguimiento",negativo,curated,v2_curated
+1375,"Despues de revisar, respondio con informacion incompleta",negativo,curated,v2_curated
+1376,"Despues de revisar, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1377,"Despues de revisar, fue dificil de usar",negativo,curated,v2_curated
+1378,"Despues de revisar, genero varios inconvenientes",negativo,curated,v2_curated
+1379,"Despues de revisar, llego con fallas visibles",negativo,curated,v2_curated
+1380,"Despues de revisar, fue breve pero poco util",negativo,curated,v2_curated
+1381,"Despues de revisar, no dio confianza",negativo,curated,v2_curated
+1382,"Despues de revisar, fue contradictorio",negativo,curated,v2_curated
+1383,"Despues de revisar, tuvo demasiados pasos",negativo,curated,v2_curated
+1384,"Despues de revisar, cargo muy lento",negativo,curated,v2_curated
+1385,"Despues de revisar, no coincidio con la solicitud",negativo,curated,v2_curated
+1386,"Despues de revisar, no explico el problema principal",negativo,curated,v2_curated
+1387,"Despues de revisar, termino de forma decepcionante",negativo,curated,v2_curated
+1388,"Despues de revisar, fue desordenado",negativo,curated,v2_curated
+1389,"Despues de revisar, dejo el caso abierto",negativo,curated,v2_curated
+1390,"Despues de revisar, fallo al finalizar",negativo,curated,v2_curated
+1391,"Despues de revisar, tuvo bajo rendimiento",negativo,curated,v2_curated
+1392,"Despues de revisar, no fue cuidadoso",negativo,curated,v2_curated
+1393,"Despues de revisar, fue lento desde el inicio",negativo,curated,v2_curated
+1394,"Despues de revisar, quedo sin resolver",negativo,curated,v2_curated
+1395,"Despues de revisar, no fue suficiente",negativo,curated,v2_curated
+1396,"Despues de revisar, termino con error",negativo,curated,v2_curated
+1397,"Despues de revisar, no respondia bien",negativo,curated,v2_curated
+1398,"Despues de revisar, no explico los pasos",negativo,curated,v2_curated
+1399,"Despues de revisar, tuvo retrasos repetidos",negativo,curated,v2_curated
+1400,"Despues de revisar, fue frustrante",negativo,curated,v2_curated
+1401,"Con lo visto, llego tarde y con problemas",negativo,curated,v2_curated
+1402,"Con lo visto, no aclaro nada importante",negativo,curated,v2_curated
+1403,"Con lo visto, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1404,"Con lo visto, se cerro mientras avanzaba",negativo,curated,v2_curated
+1405,"Con lo visto, tardo y no resolvio el caso",negativo,curated,v2_curated
+1406,"Con lo visto, fallo durante la primera prueba",negativo,curated,v2_curated
+1407,"Con lo visto, no coincidia con lo indicado",negativo,curated,v2_curated
+1408,"Con lo visto, llego incompleto",negativo,curated,v2_curated
+1409,"Con lo visto, perdio los cambios realizados",negativo,curated,v2_curated
+1410,"Con lo visto, termino siendo complicado",negativo,curated,v2_curated
+1411,"Con lo visto, fue poco claro",negativo,curated,v2_curated
+1412,"Con lo visto, no mostro los datos esperados",negativo,curated,v2_curated
+1413,"Con lo visto, dejo dudas sin resolver",negativo,curated,v2_curated
+1414,"Con lo visto, se quedo detenido",negativo,curated,v2_curated
+1415,"Con lo visto, llego demasiado tarde",negativo,curated,v2_curated
+1416,"Con lo visto, fue inestable durante la solicitud",negativo,curated,v2_curated
+1417,"Con lo visto, no cumplio con lo indicado",negativo,curated,v2_curated
+1418,"Con lo visto, no permitio terminar el proceso",negativo,curated,v2_curated
+1419,"Con lo visto, fue insuficiente para continuar",negativo,curated,v2_curated
+1420,"Con lo visto, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1421,"Con lo visto, dejo una sensacion negativa",negativo,curated,v2_curated
+1422,"Con lo visto, mostro errores al guardar",negativo,curated,v2_curated
+1423,"Con lo visto, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1424,"Con lo visto, quedo sin seguimiento",negativo,curated,v2_curated
+1425,"Con lo visto, respondio con informacion incompleta",negativo,curated,v2_curated
+1426,"Con lo visto, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1427,"Con lo visto, fue dificil de usar",negativo,curated,v2_curated
+1428,"Con lo visto, genero varios inconvenientes",negativo,curated,v2_curated
+1429,"Con lo visto, llego con fallas visibles",negativo,curated,v2_curated
+1430,"Con lo visto, fue breve pero poco util",negativo,curated,v2_curated
+1431,"Con lo visto, no dio confianza",negativo,curated,v2_curated
+1432,"Con lo visto, fue contradictorio",negativo,curated,v2_curated
+1433,"Con lo visto, tuvo demasiados pasos",negativo,curated,v2_curated
+1434,"Con lo visto, cargo muy lento",negativo,curated,v2_curated
+1435,"Con lo visto, no coincidio con la solicitud",negativo,curated,v2_curated
+1436,"Con lo visto, no explico el problema principal",negativo,curated,v2_curated
+1437,"Con lo visto, termino de forma decepcionante",negativo,curated,v2_curated
+1438,"Con lo visto, fue desordenado",negativo,curated,v2_curated
+1439,"Con lo visto, dejo el caso abierto",negativo,curated,v2_curated
+1440,"Con lo visto, fallo al finalizar",negativo,curated,v2_curated
+1441,"Con lo visto, tuvo bajo rendimiento",negativo,curated,v2_curated
+1442,"Con lo visto, no fue cuidadoso",negativo,curated,v2_curated
+1443,"Con lo visto, fue lento desde el inicio",negativo,curated,v2_curated
+1444,"Con lo visto, quedo sin resolver",negativo,curated,v2_curated
+1445,"Con lo visto, no fue suficiente",negativo,curated,v2_curated
+1446,"Con lo visto, termino con error",negativo,curated,v2_curated
+1447,"Con lo visto, no respondia bien",negativo,curated,v2_curated
+1448,"Con lo visto, no explico los pasos",negativo,curated,v2_curated
+1449,"Con lo visto, tuvo retrasos repetidos",negativo,curated,v2_curated
+1450,"Con lo visto, fue frustrante",negativo,curated,v2_curated
+1451,"Para este caso, llego tarde y con problemas",negativo,curated,v2_curated
+1452,"Para este caso, no aclaro nada importante",negativo,curated,v2_curated
+1453,"Para este caso, fue mas confuso de lo necesario",negativo,curated,v2_curated
+1454,"Para este caso, se cerro mientras avanzaba",negativo,curated,v2_curated
+1455,"Para este caso, tardo y no resolvio el caso",negativo,curated,v2_curated
+1456,"Para este caso, fallo durante la primera prueba",negativo,curated,v2_curated
+1457,"Para este caso, no coincidia con lo indicado",negativo,curated,v2_curated
+1458,"Para este caso, llego incompleto",negativo,curated,v2_curated
+1459,"Para este caso, perdio los cambios realizados",negativo,curated,v2_curated
+1460,"Para este caso, termino siendo complicado",negativo,curated,v2_curated
+1461,"Para este caso, fue poco claro",negativo,curated,v2_curated
+1462,"Para este caso, no mostro los datos esperados",negativo,curated,v2_curated
+1463,"Para este caso, dejo dudas sin resolver",negativo,curated,v2_curated
+1464,"Para este caso, se quedo detenido",negativo,curated,v2_curated
+1465,"Para este caso, llego demasiado tarde",negativo,curated,v2_curated
+1466,"Para este caso, fue inestable durante la solicitud",negativo,curated,v2_curated
+1467,"Para este caso, no cumplio con lo indicado",negativo,curated,v2_curated
+1468,"Para este caso, no permitio terminar el proceso",negativo,curated,v2_curated
+1469,"Para este caso, fue insuficiente para continuar",negativo,curated,v2_curated
+1470,"Para este caso, fue cancelado sin aviso claro",negativo,curated,v2_curated
+1471,"Para este caso, dejo una sensacion negativa",negativo,curated,v2_curated
+1472,"Para este caso, mostro errores al guardar",negativo,curated,v2_curated
+1473,"Para este caso, no avanzo despues de varios intentos",negativo,curated,v2_curated
+1474,"Para este caso, quedo sin seguimiento",negativo,curated,v2_curated
+1475,"Para este caso, respondio con informacion incompleta",negativo,curated,v2_curated
+1476,"Para este caso, tomo mas tiempo del esperado",negativo,curated,v2_curated
+1477,"Para este caso, fue dificil de usar",negativo,curated,v2_curated
+1478,"Para este caso, genero varios inconvenientes",negativo,curated,v2_curated
+1479,"Para este caso, llego con fallas visibles",negativo,curated,v2_curated
+1480,"Para este caso, fue breve pero poco util",negativo,curated,v2_curated
+1481,"Para este caso, no dio confianza",negativo,curated,v2_curated
+1482,"Para este caso, fue contradictorio",negativo,curated,v2_curated
+1483,"Para este caso, tuvo demasiados pasos",negativo,curated,v2_curated
+1484,"Para este caso, cargo muy lento",negativo,curated,v2_curated
+1485,"Para este caso, no coincidio con la solicitud",negativo,curated,v2_curated
+1486,"Para este caso, no explico el problema principal",negativo,curated,v2_curated
+1487,"Para este caso, termino de forma decepcionante",negativo,curated,v2_curated
+1488,"Para este caso, fue desordenado",negativo,curated,v2_curated
+1489,"Para este caso, dejo el caso abierto",negativo,curated,v2_curated
+1490,"Para este caso, fallo al finalizar",negativo,curated,v2_curated
+1491,"Para este caso, tuvo bajo rendimiento",negativo,curated,v2_curated
+1492,"Para este caso, no fue cuidadoso",negativo,curated,v2_curated
+1493,"Para este caso, fue lento desde el inicio",negativo,curated,v2_curated
+1494,"Para este caso, quedo sin resolver",negativo,curated,v2_curated
+1495,"Para este caso, no fue suficiente",negativo,curated,v2_curated
+1496,"Para este caso, termino con error",negativo,curated,v2_curated
+1497,"Para este caso, no respondia bien",negativo,curated,v2_curated
+1498,"Para este caso, no explico los pasos",negativo,curated,v2_curated
+1499,"Para este caso, tuvo retrasos repetidos",negativo,curated,v2_curated
+1500,"Para este caso, fue frustrante",negativo,curated,v2_curated

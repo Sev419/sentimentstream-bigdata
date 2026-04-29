@@ -1,0 +1,1951 @@
+id,texto,sentimiento,fuente,version
+1,no estuvo mal y termino ayudando,positivo,augmented,v2_augmented
+2,tuvo una demora pequena pero salio bien,positivo,augmented,v2_augmented
+3,resolvio lo principal sin tanta vuelta,positivo,augmented,v2_augmented
+4,me dejo una impresion bastante buena,positivo,augmented,v2_augmented
+5,funciono mejor de lo que esperaba,positivo,augmented,v2_augmented
+6,fue claro cuando mas lo necesitaba,positivo,augmented,v2_augmented
+7,avanzo lento al inicio pero cerro bien,positivo,augmented,v2_augmented
+8,me permitio completar la tarea sin problema,positivo,augmented,v2_augmented
+9,la respuesta fue corta pero util,positivo,augmented,v2_augmented
+10,el resultado quedo correcto,positivo,augmented,v2_augmented
+11,la guia aclaro casi todas mis dudas,positivo,augmented,v2_augmented
+12,la plataforma respondio de forma estable,positivo,augmented,v2_augmented
+13,el pedido llego completo y cuidado,positivo,augmented,v2_augmented
+14,el soporte entendio la situacion,positivo,augmented,v2_augmented
+15,la gestion fue simple y ordenada,positivo,augmented,v2_augmented
+16,el proceso se sintio confiable,positivo,augmented,v2_augmented
+17,la informacion fue suficiente para decidir,positivo,augmented,v2_augmented
+18,la compra fue tranquila hasta el cierre,positivo,augmented,v2_augmented
+19,el producto cumplio con lo necesario,positivo,augmented,v2_augmented
+20,la entrega estuvo dentro de lo esperado,positivo,augmented,v2_augmented
+21,la atencion fue amable sin exagerar,positivo,augmented,v2_augmented
+22,el sistema guardo todo correctamente,positivo,augmented,v2_augmented
+23,la solucion fue sencilla y efectiva,positivo,augmented,v2_augmented
+24,el panel facilito revisar el avance,positivo,augmented,v2_augmented
+25,el seguimiento llego a tiempo,positivo,augmented,v2_augmented
+26,la experiencia resulto comoda,positivo,augmented,v2_augmented
+27,la respuesta aclaro el punto clave,positivo,augmented,v2_augmented
+28,el tramite quedo resuelto,positivo,augmented,v2_augmented
+29,el servicio mantuvo buen ritmo,positivo,augmented,v2_augmented
+30,la herramienta simplifico el trabajo,positivo,augmented,v2_augmented
+31,el mensaje de confirmacion fue suficiente,positivo,augmented,v2_augmented
+32,la revision ayudo a corregir la duda,positivo,augmented,v2_augmented
+33,el flujo fue facil de seguir,positivo,augmented,v2_augmented
+34,el cambio solicitado quedo aplicado,positivo,augmented,v2_augmented
+35,la comunicacion fue adecuada,positivo,augmented,v2_augmented
+36,el resultado fue util para continuar,positivo,augmented,v2_augmented
+37,la plataforma permitio terminar rapido,positivo,augmented,v2_augmented
+38,el producto funciono desde el primer uso,positivo,augmented,v2_augmented
+39,la asesoria fue practica,positivo,augmented,v2_augmented
+40,el estado se actualizo correctamente,positivo,augmented,v2_augmented
+41,no me disgusto el resultado final,positivo,augmented,v2_augmented
+42,no tuve inconvenientes importantes,positivo,augmented,v2_augmented
+43,pudo mejorar detalles pero cumplio,positivo,augmented,v2_augmented
+44,la espera valio la pena,positivo,augmented,v2_augmented
+45,me sirvio para resolver la solicitud,positivo,augmented,v2_augmented
+46,fue mejor que la opcion anterior,positivo,augmented,v2_augmented
+47,la explicacion quedo entendible,positivo,augmented,v2_augmented
+48,el pedido se manejo con cuidado,positivo,augmented,v2_augmented
+49,la herramienta respondio sin fallar,positivo,augmented,v2_augmented
+50,la experiencia cerro de forma positiva,positivo,augmented,v2_augmented
+51,"La verdad, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+52,"La verdad, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+53,"La verdad, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+54,"La verdad, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+55,"La verdad, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+56,"La verdad, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+57,"La verdad, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+58,"La verdad, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+59,"La verdad, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+60,"La verdad, el resultado quedo correcto",positivo,augmented,v2_augmented
+61,"La verdad, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+62,"La verdad, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+63,"La verdad, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+64,"La verdad, el soporte entendio la situacion",positivo,augmented,v2_augmented
+65,"La verdad, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+66,"La verdad, el proceso se sintio confiable",positivo,augmented,v2_augmented
+67,"La verdad, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+68,"La verdad, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+69,"La verdad, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+70,"La verdad, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+71,"La verdad, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+72,"La verdad, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+73,"La verdad, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+74,"La verdad, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+75,"La verdad, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+76,"La verdad, la experiencia resulto comoda",positivo,augmented,v2_augmented
+77,"La verdad, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+78,"La verdad, el tramite quedo resuelto",positivo,augmented,v2_augmented
+79,"La verdad, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+80,"La verdad, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+81,"La verdad, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+82,"La verdad, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+83,"La verdad, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+84,"La verdad, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+85,"La verdad, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+86,"La verdad, el resultado fue util para continuar",positivo,augmented,v2_augmented
+87,"La verdad, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+88,"La verdad, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+89,"La verdad, la asesoria fue practica",positivo,augmented,v2_augmented
+90,"La verdad, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+91,"La verdad, no me disgusto el resultado final",positivo,augmented,v2_augmented
+92,"La verdad, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+93,"La verdad, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+94,"La verdad, la espera valio la pena",positivo,augmented,v2_augmented
+95,"La verdad, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+96,"La verdad, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+97,"La verdad, la explicacion quedo entendible",positivo,augmented,v2_augmented
+98,"La verdad, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+99,"La verdad, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+100,"La verdad, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+101,"En general, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+102,"En general, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+103,"En general, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+104,"En general, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+105,"En general, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+106,"En general, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+107,"En general, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+108,"En general, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+109,"En general, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+110,"En general, el resultado quedo correcto",positivo,augmented,v2_augmented
+111,"En general, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+112,"En general, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+113,"En general, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+114,"En general, el soporte entendio la situacion",positivo,augmented,v2_augmented
+115,"En general, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+116,"En general, el proceso se sintio confiable",positivo,augmented,v2_augmented
+117,"En general, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+118,"En general, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+119,"En general, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+120,"En general, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+121,"En general, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+122,"En general, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+123,"En general, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+124,"En general, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+125,"En general, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+126,"En general, la experiencia resulto comoda",positivo,augmented,v2_augmented
+127,"En general, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+128,"En general, el tramite quedo resuelto",positivo,augmented,v2_augmented
+129,"En general, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+130,"En general, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+131,"En general, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+132,"En general, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+133,"En general, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+134,"En general, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+135,"En general, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+136,"En general, el resultado fue util para continuar",positivo,augmented,v2_augmented
+137,"En general, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+138,"En general, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+139,"En general, la asesoria fue practica",positivo,augmented,v2_augmented
+140,"En general, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+141,"En general, no me disgusto el resultado final",positivo,augmented,v2_augmented
+142,"En general, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+143,"En general, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+144,"En general, la espera valio la pena",positivo,augmented,v2_augmented
+145,"En general, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+146,"En general, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+147,"En general, la explicacion quedo entendible",positivo,augmented,v2_augmented
+148,"En general, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+149,"En general, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+150,"En general, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+151,"Bueno, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+152,"Bueno, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+153,"Bueno, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+154,"Bueno, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+155,"Bueno, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+156,"Bueno, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+157,"Bueno, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+158,"Bueno, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+159,"Bueno, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+160,"Bueno, el resultado quedo correcto",positivo,augmented,v2_augmented
+161,"Bueno, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+162,"Bueno, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+163,"Bueno, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+164,"Bueno, el soporte entendio la situacion",positivo,augmented,v2_augmented
+165,"Bueno, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+166,"Bueno, el proceso se sintio confiable",positivo,augmented,v2_augmented
+167,"Bueno, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+168,"Bueno, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+169,"Bueno, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+170,"Bueno, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+171,"Bueno, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+172,"Bueno, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+173,"Bueno, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+174,"Bueno, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+175,"Bueno, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+176,"Bueno, la experiencia resulto comoda",positivo,augmented,v2_augmented
+177,"Bueno, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+178,"Bueno, el tramite quedo resuelto",positivo,augmented,v2_augmented
+179,"Bueno, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+180,"Bueno, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+181,"Bueno, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+182,"Bueno, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+183,"Bueno, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+184,"Bueno, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+185,"Bueno, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+186,"Bueno, el resultado fue util para continuar",positivo,augmented,v2_augmented
+187,"Bueno, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+188,"Bueno, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+189,"Bueno, la asesoria fue practica",positivo,augmented,v2_augmented
+190,"Bueno, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+191,"Bueno, no me disgusto el resultado final",positivo,augmented,v2_augmented
+192,"Bueno, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+193,"Bueno, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+194,"Bueno, la espera valio la pena",positivo,augmented,v2_augmented
+195,"Bueno, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+196,"Bueno, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+197,"Bueno, la explicacion quedo entendible",positivo,augmented,v2_augmented
+198,"Bueno, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+199,"Bueno, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+200,"Bueno, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+201,"Al final, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+202,"Al final, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+203,"Al final, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+204,"Al final, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+205,"Al final, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+206,"Al final, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+207,"Al final, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+208,"Al final, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+209,"Al final, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+210,"Al final, el resultado quedo correcto",positivo,augmented,v2_augmented
+211,"Al final, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+212,"Al final, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+213,"Al final, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+214,"Al final, el soporte entendio la situacion",positivo,augmented,v2_augmented
+215,"Al final, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+216,"Al final, el proceso se sintio confiable",positivo,augmented,v2_augmented
+217,"Al final, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+218,"Al final, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+219,"Al final, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+220,"Al final, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+221,"Al final, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+222,"Al final, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+223,"Al final, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+224,"Al final, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+225,"Al final, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+226,"Al final, la experiencia resulto comoda",positivo,augmented,v2_augmented
+227,"Al final, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+228,"Al final, el tramite quedo resuelto",positivo,augmented,v2_augmented
+229,"Al final, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+230,"Al final, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+231,"Al final, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+232,"Al final, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+233,"Al final, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+234,"Al final, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+235,"Al final, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+236,"Al final, el resultado fue util para continuar",positivo,augmented,v2_augmented
+237,"Al final, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+238,"Al final, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+239,"Al final, la asesoria fue practica",positivo,augmented,v2_augmented
+240,"Al final, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+241,"Al final, no me disgusto el resultado final",positivo,augmented,v2_augmented
+242,"Al final, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+243,"Al final, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+244,"Al final, la espera valio la pena",positivo,augmented,v2_augmented
+245,"Al final, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+246,"Al final, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+247,"Al final, la explicacion quedo entendible",positivo,augmented,v2_augmented
+248,"Al final, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+249,"Al final, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+250,"Al final, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+251,"Por ahora, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+252,"Por ahora, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+253,"Por ahora, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+254,"Por ahora, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+255,"Por ahora, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+256,"Por ahora, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+257,"Por ahora, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+258,"Por ahora, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+259,"Por ahora, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+260,"Por ahora, el resultado quedo correcto",positivo,augmented,v2_augmented
+261,"Por ahora, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+262,"Por ahora, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+263,"Por ahora, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+264,"Por ahora, el soporte entendio la situacion",positivo,augmented,v2_augmented
+265,"Por ahora, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+266,"Por ahora, el proceso se sintio confiable",positivo,augmented,v2_augmented
+267,"Por ahora, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+268,"Por ahora, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+269,"Por ahora, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+270,"Por ahora, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+271,"Por ahora, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+272,"Por ahora, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+273,"Por ahora, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+274,"Por ahora, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+275,"Por ahora, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+276,"Por ahora, la experiencia resulto comoda",positivo,augmented,v2_augmented
+277,"Por ahora, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+278,"Por ahora, el tramite quedo resuelto",positivo,augmented,v2_augmented
+279,"Por ahora, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+280,"Por ahora, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+281,"Por ahora, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+282,"Por ahora, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+283,"Por ahora, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+284,"Por ahora, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+285,"Por ahora, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+286,"Por ahora, el resultado fue util para continuar",positivo,augmented,v2_augmented
+287,"Por ahora, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+288,"Por ahora, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+289,"Por ahora, la asesoria fue practica",positivo,augmented,v2_augmented
+290,"Por ahora, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+291,"Por ahora, no me disgusto el resultado final",positivo,augmented,v2_augmented
+292,"Por ahora, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+293,"Por ahora, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+294,"Por ahora, la espera valio la pena",positivo,augmented,v2_augmented
+295,"Por ahora, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+296,"Por ahora, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+297,"Por ahora, la explicacion quedo entendible",positivo,augmented,v2_augmented
+298,"Por ahora, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+299,"Por ahora, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+300,"Por ahora, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+301,"Mmm, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+302,"Mmm, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+303,"Mmm, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+304,"Mmm, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+305,"Mmm, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+306,"Mmm, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+307,"Mmm, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+308,"Mmm, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+309,"Mmm, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+310,"Mmm, el resultado quedo correcto",positivo,augmented,v2_augmented
+311,"Mmm, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+312,"Mmm, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+313,"Mmm, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+314,"Mmm, el soporte entendio la situacion",positivo,augmented,v2_augmented
+315,"Mmm, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+316,"Mmm, el proceso se sintio confiable",positivo,augmented,v2_augmented
+317,"Mmm, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+318,"Mmm, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+319,"Mmm, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+320,"Mmm, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+321,"Mmm, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+322,"Mmm, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+323,"Mmm, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+324,"Mmm, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+325,"Mmm, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+326,"Mmm, la experiencia resulto comoda",positivo,augmented,v2_augmented
+327,"Mmm, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+328,"Mmm, el tramite quedo resuelto",positivo,augmented,v2_augmented
+329,"Mmm, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+330,"Mmm, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+331,"Mmm, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+332,"Mmm, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+333,"Mmm, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+334,"Mmm, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+335,"Mmm, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+336,"Mmm, el resultado fue util para continuar",positivo,augmented,v2_augmented
+337,"Mmm, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+338,"Mmm, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+339,"Mmm, la asesoria fue practica",positivo,augmented,v2_augmented
+340,"Mmm, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+341,"Mmm, no me disgusto el resultado final",positivo,augmented,v2_augmented
+342,"Mmm, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+343,"Mmm, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+344,"Mmm, la espera valio la pena",positivo,augmented,v2_augmented
+345,"Mmm, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+346,"Mmm, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+347,"Mmm, la explicacion quedo entendible",positivo,augmented,v2_augmented
+348,"Mmm, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+349,"Mmm, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+350,"Mmm, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+351,"Despues de revisar, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+352,"Despues de revisar, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+353,"Despues de revisar, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+354,"Despues de revisar, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+355,"Despues de revisar, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+356,"Despues de revisar, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+357,"Despues de revisar, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+358,"Despues de revisar, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+359,"Despues de revisar, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+360,"Despues de revisar, el resultado quedo correcto",positivo,augmented,v2_augmented
+361,"Despues de revisar, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+362,"Despues de revisar, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+363,"Despues de revisar, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+364,"Despues de revisar, el soporte entendio la situacion",positivo,augmented,v2_augmented
+365,"Despues de revisar, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+366,"Despues de revisar, el proceso se sintio confiable",positivo,augmented,v2_augmented
+367,"Despues de revisar, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+368,"Despues de revisar, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+369,"Despues de revisar, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+370,"Despues de revisar, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+371,"Despues de revisar, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+372,"Despues de revisar, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+373,"Despues de revisar, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+374,"Despues de revisar, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+375,"Despues de revisar, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+376,"Despues de revisar, la experiencia resulto comoda",positivo,augmented,v2_augmented
+377,"Despues de revisar, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+378,"Despues de revisar, el tramite quedo resuelto",positivo,augmented,v2_augmented
+379,"Despues de revisar, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+380,"Despues de revisar, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+381,"Despues de revisar, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+382,"Despues de revisar, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+383,"Despues de revisar, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+384,"Despues de revisar, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+385,"Despues de revisar, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+386,"Despues de revisar, el resultado fue util para continuar",positivo,augmented,v2_augmented
+387,"Despues de revisar, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+388,"Despues de revisar, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+389,"Despues de revisar, la asesoria fue practica",positivo,augmented,v2_augmented
+390,"Despues de revisar, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+391,"Despues de revisar, no me disgusto el resultado final",positivo,augmented,v2_augmented
+392,"Despues de revisar, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+393,"Despues de revisar, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+394,"Despues de revisar, la espera valio la pena",positivo,augmented,v2_augmented
+395,"Despues de revisar, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+396,"Despues de revisar, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+397,"Despues de revisar, la explicacion quedo entendible",positivo,augmented,v2_augmented
+398,"Despues de revisar, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+399,"Despues de revisar, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+400,"Despues de revisar, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+401,"Con lo visto, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+402,"Con lo visto, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+403,"Con lo visto, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+404,"Con lo visto, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+405,"Con lo visto, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+406,"Con lo visto, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+407,"Con lo visto, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+408,"Con lo visto, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+409,"Con lo visto, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+410,"Con lo visto, el resultado quedo correcto",positivo,augmented,v2_augmented
+411,"Con lo visto, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+412,"Con lo visto, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+413,"Con lo visto, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+414,"Con lo visto, el soporte entendio la situacion",positivo,augmented,v2_augmented
+415,"Con lo visto, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+416,"Con lo visto, el proceso se sintio confiable",positivo,augmented,v2_augmented
+417,"Con lo visto, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+418,"Con lo visto, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+419,"Con lo visto, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+420,"Con lo visto, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+421,"Con lo visto, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+422,"Con lo visto, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+423,"Con lo visto, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+424,"Con lo visto, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+425,"Con lo visto, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+426,"Con lo visto, la experiencia resulto comoda",positivo,augmented,v2_augmented
+427,"Con lo visto, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+428,"Con lo visto, el tramite quedo resuelto",positivo,augmented,v2_augmented
+429,"Con lo visto, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+430,"Con lo visto, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+431,"Con lo visto, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+432,"Con lo visto, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+433,"Con lo visto, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+434,"Con lo visto, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+435,"Con lo visto, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+436,"Con lo visto, el resultado fue util para continuar",positivo,augmented,v2_augmented
+437,"Con lo visto, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+438,"Con lo visto, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+439,"Con lo visto, la asesoria fue practica",positivo,augmented,v2_augmented
+440,"Con lo visto, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+441,"Con lo visto, no me disgusto el resultado final",positivo,augmented,v2_augmented
+442,"Con lo visto, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+443,"Con lo visto, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+444,"Con lo visto, la espera valio la pena",positivo,augmented,v2_augmented
+445,"Con lo visto, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+446,"Con lo visto, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+447,"Con lo visto, la explicacion quedo entendible",positivo,augmented,v2_augmented
+448,"Con lo visto, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+449,"Con lo visto, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+450,"Con lo visto, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+451,"Para este caso, no estuvo mal y termino ayudando",positivo,augmented,v2_augmented
+452,"Para este caso, tuvo una demora pequena pero salio bien",positivo,augmented,v2_augmented
+453,"Para este caso, resolvio lo principal sin tanta vuelta",positivo,augmented,v2_augmented
+454,"Para este caso, me dejo una impresion bastante buena",positivo,augmented,v2_augmented
+455,"Para este caso, funciono mejor de lo que esperaba",positivo,augmented,v2_augmented
+456,"Para este caso, fue claro cuando mas lo necesitaba",positivo,augmented,v2_augmented
+457,"Para este caso, avanzo lento al inicio pero cerro bien",positivo,augmented,v2_augmented
+458,"Para este caso, me permitio completar la tarea sin problema",positivo,augmented,v2_augmented
+459,"Para este caso, la respuesta fue corta pero util",positivo,augmented,v2_augmented
+460,"Para este caso, el resultado quedo correcto",positivo,augmented,v2_augmented
+461,"Para este caso, la guia aclaro casi todas mis dudas",positivo,augmented,v2_augmented
+462,"Para este caso, la plataforma respondio de forma estable",positivo,augmented,v2_augmented
+463,"Para este caso, el pedido llego completo y cuidado",positivo,augmented,v2_augmented
+464,"Para este caso, el soporte entendio la situacion",positivo,augmented,v2_augmented
+465,"Para este caso, la gestion fue simple y ordenada",positivo,augmented,v2_augmented
+466,"Para este caso, el proceso se sintio confiable",positivo,augmented,v2_augmented
+467,"Para este caso, la informacion fue suficiente para decidir",positivo,augmented,v2_augmented
+468,"Para este caso, la compra fue tranquila hasta el cierre",positivo,augmented,v2_augmented
+469,"Para este caso, el producto cumplio con lo necesario",positivo,augmented,v2_augmented
+470,"Para este caso, la entrega estuvo dentro de lo esperado",positivo,augmented,v2_augmented
+471,"Para este caso, la atencion fue amable sin exagerar",positivo,augmented,v2_augmented
+472,"Para este caso, el sistema guardo todo correctamente",positivo,augmented,v2_augmented
+473,"Para este caso, la solucion fue sencilla y efectiva",positivo,augmented,v2_augmented
+474,"Para este caso, el panel facilito revisar el avance",positivo,augmented,v2_augmented
+475,"Para este caso, el seguimiento llego a tiempo",positivo,augmented,v2_augmented
+476,"Para este caso, la experiencia resulto comoda",positivo,augmented,v2_augmented
+477,"Para este caso, la respuesta aclaro el punto clave",positivo,augmented,v2_augmented
+478,"Para este caso, el tramite quedo resuelto",positivo,augmented,v2_augmented
+479,"Para este caso, el servicio mantuvo buen ritmo",positivo,augmented,v2_augmented
+480,"Para este caso, la herramienta simplifico el trabajo",positivo,augmented,v2_augmented
+481,"Para este caso, el mensaje de confirmacion fue suficiente",positivo,augmented,v2_augmented
+482,"Para este caso, la revision ayudo a corregir la duda",positivo,augmented,v2_augmented
+483,"Para este caso, el flujo fue facil de seguir",positivo,augmented,v2_augmented
+484,"Para este caso, el cambio solicitado quedo aplicado",positivo,augmented,v2_augmented
+485,"Para este caso, la comunicacion fue adecuada",positivo,augmented,v2_augmented
+486,"Para este caso, el resultado fue util para continuar",positivo,augmented,v2_augmented
+487,"Para este caso, la plataforma permitio terminar rapido",positivo,augmented,v2_augmented
+488,"Para este caso, el producto funciono desde el primer uso",positivo,augmented,v2_augmented
+489,"Para este caso, la asesoria fue practica",positivo,augmented,v2_augmented
+490,"Para este caso, el estado se actualizo correctamente",positivo,augmented,v2_augmented
+491,"Para este caso, no me disgusto el resultado final",positivo,augmented,v2_augmented
+492,"Para este caso, no tuve inconvenientes importantes",positivo,augmented,v2_augmented
+493,"Para este caso, pudo mejorar detalles pero cumplio",positivo,augmented,v2_augmented
+494,"Para este caso, la espera valio la pena",positivo,augmented,v2_augmented
+495,"Para este caso, me sirvio para resolver la solicitud",positivo,augmented,v2_augmented
+496,"Para este caso, fue mejor que la opcion anterior",positivo,augmented,v2_augmented
+497,"Para este caso, la explicacion quedo entendible",positivo,augmented,v2_augmented
+498,"Para este caso, el pedido se manejo con cuidado",positivo,augmented,v2_augmented
+499,"Para este caso, la herramienta respondio sin fallar",positivo,augmented,v2_augmented
+500,"Para este caso, la experiencia cerro de forma positiva",positivo,augmented,v2_augmented
+501,el pedido aparece registrado,neutral,augmented,v2_augmented
+502,la solicitud sigue en revision,neutral,augmented,v2_augmented
+503,el sistema muestra el estado actual,neutral,augmented,v2_augmented
+504,la factura esta disponible,neutral,augmented,v2_augmented
+505,el documento quedo cargado,neutral,augmented,v2_augmented
+506,la consulta fue enviada,neutral,augmented,v2_augmented
+507,el reporte contiene informacion general,neutral,augmented,v2_augmented
+508,la entrega figura en seguimiento,neutral,augmented,v2_augmented
+509,la orden permanece abierta,neutral,augmented,v2_augmented
+510,el mensaje quedo guardado,neutral,augmented,v2_augmented
+511,la respuesta indica proceso activo,neutral,augmented,v2_augmented
+512,el producto tiene descripcion breve,neutral,augmented,v2_augmented
+513,la revision fue asignada,neutral,augmented,v2_augmented
+514,el tramite continua en curso,neutral,augmented,v2_augmented
+515,la pantalla muestra los datos,neutral,augmented,v2_augmented
+516,el archivo esta listo para descarga,neutral,augmented,v2_augmented
+517,la consulta tiene prioridad normal,neutral,augmented,v2_augmented
+518,el registro incluye fecha,neutral,augmented,v2_augmented
+519,la entrega esta programada,neutral,augmented,v2_augmented
+520,el sistema genero una notificacion,neutral,augmented,v2_augmented
+521,la solicitud fue recibida hoy,neutral,augmented,v2_augmented
+522,el producto aparece en inventario,neutral,augmented,v2_augmented
+523,la respuesta espera confirmacion,neutral,augmented,v2_augmented
+524,el reporte fue generado,neutral,augmented,v2_augmented
+525,la informacion se mantiene igual,neutral,augmented,v2_augmented
+526,el tramite quedo documentado,neutral,augmented,v2_augmented
+527,la consulta esta disponible,neutral,augmented,v2_augmented
+528,el panel muestra actividad reciente,neutral,augmented,v2_augmented
+529,la orden quedo en cola,neutral,augmented,v2_augmented
+530,el documento contiene datos generales,neutral,augmented,v2_augmented
+531,la solicitud tiene respuesta parcial,neutral,augmented,v2_augmented
+532,el sistema conserva el registro,neutral,augmented,v2_augmented
+533,la entrega fue programada,neutral,augmented,v2_augmented
+534,el producto tiene dos alternativas,neutral,augmented,v2_augmented
+535,la consulta quedo sin asignar,neutral,augmented,v2_augmented
+536,la respuesta fue registrada,neutral,augmented,v2_augmented
+537,el estado se muestra activo,neutral,augmented,v2_augmented
+538,la solicitud esta documentada,neutral,augmented,v2_augmented
+539,el reporte incluye varias secciones,neutral,augmented,v2_augmented
+540,la informacion fue recibida,neutral,augmented,v2_augmented
+541,el tramite espera confirmacion,neutral,augmented,v2_augmented
+542,la consulta fue guardada,neutral,augmented,v2_augmented
+543,el producto se encuentra reservado,neutral,augmented,v2_augmented
+544,el sistema muestra el detalle,neutral,augmented,v2_augmented
+545,la orden sigue activa,neutral,augmented,v2_augmented
+546,el panel contiene el resumen,neutral,augmented,v2_augmented
+547,la notificacion queda visible,neutral,augmented,v2_augmented
+548,el formulario conserva los campos,neutral,augmented,v2_augmented
+549,la fecha aparece en el registro,neutral,augmented,v2_augmented
+550,el caso queda para revision,neutral,augmented,v2_augmented
+551,"La verdad, el pedido aparece registrado",neutral,augmented,v2_augmented
+552,"La verdad, la solicitud sigue en revision",neutral,augmented,v2_augmented
+553,"La verdad, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+554,"La verdad, la factura esta disponible",neutral,augmented,v2_augmented
+555,"La verdad, el documento quedo cargado",neutral,augmented,v2_augmented
+556,"La verdad, la consulta fue enviada",neutral,augmented,v2_augmented
+557,"La verdad, el reporte contiene informacion general",neutral,augmented,v2_augmented
+558,"La verdad, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+559,"La verdad, la orden permanece abierta",neutral,augmented,v2_augmented
+560,"La verdad, el mensaje quedo guardado",neutral,augmented,v2_augmented
+561,"La verdad, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+562,"La verdad, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+563,"La verdad, la revision fue asignada",neutral,augmented,v2_augmented
+564,"La verdad, el tramite continua en curso",neutral,augmented,v2_augmented
+565,"La verdad, la pantalla muestra los datos",neutral,augmented,v2_augmented
+566,"La verdad, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+567,"La verdad, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+568,"La verdad, el registro incluye fecha",neutral,augmented,v2_augmented
+569,"La verdad, la entrega esta programada",neutral,augmented,v2_augmented
+570,"La verdad, el sistema genero una notificacion",neutral,augmented,v2_augmented
+571,"La verdad, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+572,"La verdad, el producto aparece en inventario",neutral,augmented,v2_augmented
+573,"La verdad, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+574,"La verdad, el reporte fue generado",neutral,augmented,v2_augmented
+575,"La verdad, la informacion se mantiene igual",neutral,augmented,v2_augmented
+576,"La verdad, el tramite quedo documentado",neutral,augmented,v2_augmented
+577,"La verdad, la consulta esta disponible",neutral,augmented,v2_augmented
+578,"La verdad, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+579,"La verdad, la orden quedo en cola",neutral,augmented,v2_augmented
+580,"La verdad, el documento contiene datos generales",neutral,augmented,v2_augmented
+581,"La verdad, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+582,"La verdad, el sistema conserva el registro",neutral,augmented,v2_augmented
+583,"La verdad, la entrega fue programada",neutral,augmented,v2_augmented
+584,"La verdad, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+585,"La verdad, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+586,"La verdad, la respuesta fue registrada",neutral,augmented,v2_augmented
+587,"La verdad, el estado se muestra activo",neutral,augmented,v2_augmented
+588,"La verdad, la solicitud esta documentada",neutral,augmented,v2_augmented
+589,"La verdad, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+590,"La verdad, la informacion fue recibida",neutral,augmented,v2_augmented
+591,"La verdad, el tramite espera confirmacion",neutral,augmented,v2_augmented
+592,"La verdad, la consulta fue guardada",neutral,augmented,v2_augmented
+593,"La verdad, el producto se encuentra reservado",neutral,augmented,v2_augmented
+594,"La verdad, el sistema muestra el detalle",neutral,augmented,v2_augmented
+595,"La verdad, la orden sigue activa",neutral,augmented,v2_augmented
+596,"La verdad, el panel contiene el resumen",neutral,augmented,v2_augmented
+597,"La verdad, la notificacion queda visible",neutral,augmented,v2_augmented
+598,"La verdad, el formulario conserva los campos",neutral,augmented,v2_augmented
+599,"La verdad, la fecha aparece en el registro",neutral,augmented,v2_augmented
+600,"La verdad, el caso queda para revision",neutral,augmented,v2_augmented
+601,"En general, el pedido aparece registrado",neutral,augmented,v2_augmented
+602,"En general, la solicitud sigue en revision",neutral,augmented,v2_augmented
+603,"En general, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+604,"En general, la factura esta disponible",neutral,augmented,v2_augmented
+605,"En general, el documento quedo cargado",neutral,augmented,v2_augmented
+606,"En general, la consulta fue enviada",neutral,augmented,v2_augmented
+607,"En general, el reporte contiene informacion general",neutral,augmented,v2_augmented
+608,"En general, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+609,"En general, la orden permanece abierta",neutral,augmented,v2_augmented
+610,"En general, el mensaje quedo guardado",neutral,augmented,v2_augmented
+611,"En general, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+612,"En general, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+613,"En general, la revision fue asignada",neutral,augmented,v2_augmented
+614,"En general, el tramite continua en curso",neutral,augmented,v2_augmented
+615,"En general, la pantalla muestra los datos",neutral,augmented,v2_augmented
+616,"En general, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+617,"En general, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+618,"En general, el registro incluye fecha",neutral,augmented,v2_augmented
+619,"En general, la entrega esta programada",neutral,augmented,v2_augmented
+620,"En general, el sistema genero una notificacion",neutral,augmented,v2_augmented
+621,"En general, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+622,"En general, el producto aparece en inventario",neutral,augmented,v2_augmented
+623,"En general, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+624,"En general, el reporte fue generado",neutral,augmented,v2_augmented
+625,"En general, la informacion se mantiene igual",neutral,augmented,v2_augmented
+626,"En general, el tramite quedo documentado",neutral,augmented,v2_augmented
+627,"En general, la consulta esta disponible",neutral,augmented,v2_augmented
+628,"En general, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+629,"En general, la orden quedo en cola",neutral,augmented,v2_augmented
+630,"En general, el documento contiene datos generales",neutral,augmented,v2_augmented
+631,"En general, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+632,"En general, el sistema conserva el registro",neutral,augmented,v2_augmented
+633,"En general, la entrega fue programada",neutral,augmented,v2_augmented
+634,"En general, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+635,"En general, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+636,"En general, la respuesta fue registrada",neutral,augmented,v2_augmented
+637,"En general, el estado se muestra activo",neutral,augmented,v2_augmented
+638,"En general, la solicitud esta documentada",neutral,augmented,v2_augmented
+639,"En general, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+640,"En general, la informacion fue recibida",neutral,augmented,v2_augmented
+641,"En general, el tramite espera confirmacion",neutral,augmented,v2_augmented
+642,"En general, la consulta fue guardada",neutral,augmented,v2_augmented
+643,"En general, el producto se encuentra reservado",neutral,augmented,v2_augmented
+644,"En general, el sistema muestra el detalle",neutral,augmented,v2_augmented
+645,"En general, la orden sigue activa",neutral,augmented,v2_augmented
+646,"En general, el panel contiene el resumen",neutral,augmented,v2_augmented
+647,"En general, la notificacion queda visible",neutral,augmented,v2_augmented
+648,"En general, el formulario conserva los campos",neutral,augmented,v2_augmented
+649,"En general, la fecha aparece en el registro",neutral,augmented,v2_augmented
+650,"En general, el caso queda para revision",neutral,augmented,v2_augmented
+651,"Bueno, el pedido aparece registrado",neutral,augmented,v2_augmented
+652,"Bueno, la solicitud sigue en revision",neutral,augmented,v2_augmented
+653,"Bueno, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+654,"Bueno, la factura esta disponible",neutral,augmented,v2_augmented
+655,"Bueno, el documento quedo cargado",neutral,augmented,v2_augmented
+656,"Bueno, la consulta fue enviada",neutral,augmented,v2_augmented
+657,"Bueno, el reporte contiene informacion general",neutral,augmented,v2_augmented
+658,"Bueno, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+659,"Bueno, la orden permanece abierta",neutral,augmented,v2_augmented
+660,"Bueno, el mensaje quedo guardado",neutral,augmented,v2_augmented
+661,"Bueno, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+662,"Bueno, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+663,"Bueno, la revision fue asignada",neutral,augmented,v2_augmented
+664,"Bueno, el tramite continua en curso",neutral,augmented,v2_augmented
+665,"Bueno, la pantalla muestra los datos",neutral,augmented,v2_augmented
+666,"Bueno, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+667,"Bueno, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+668,"Bueno, el registro incluye fecha",neutral,augmented,v2_augmented
+669,"Bueno, la entrega esta programada",neutral,augmented,v2_augmented
+670,"Bueno, el sistema genero una notificacion",neutral,augmented,v2_augmented
+671,"Bueno, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+672,"Bueno, el producto aparece en inventario",neutral,augmented,v2_augmented
+673,"Bueno, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+674,"Bueno, el reporte fue generado",neutral,augmented,v2_augmented
+675,"Bueno, la informacion se mantiene igual",neutral,augmented,v2_augmented
+676,"Bueno, el tramite quedo documentado",neutral,augmented,v2_augmented
+677,"Bueno, la consulta esta disponible",neutral,augmented,v2_augmented
+678,"Bueno, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+679,"Bueno, la orden quedo en cola",neutral,augmented,v2_augmented
+680,"Bueno, el documento contiene datos generales",neutral,augmented,v2_augmented
+681,"Bueno, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+682,"Bueno, el sistema conserva el registro",neutral,augmented,v2_augmented
+683,"Bueno, la entrega fue programada",neutral,augmented,v2_augmented
+684,"Bueno, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+685,"Bueno, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+686,"Bueno, la respuesta fue registrada",neutral,augmented,v2_augmented
+687,"Bueno, el estado se muestra activo",neutral,augmented,v2_augmented
+688,"Bueno, la solicitud esta documentada",neutral,augmented,v2_augmented
+689,"Bueno, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+690,"Bueno, la informacion fue recibida",neutral,augmented,v2_augmented
+691,"Bueno, el tramite espera confirmacion",neutral,augmented,v2_augmented
+692,"Bueno, la consulta fue guardada",neutral,augmented,v2_augmented
+693,"Bueno, el producto se encuentra reservado",neutral,augmented,v2_augmented
+694,"Bueno, el sistema muestra el detalle",neutral,augmented,v2_augmented
+695,"Bueno, la orden sigue activa",neutral,augmented,v2_augmented
+696,"Bueno, el panel contiene el resumen",neutral,augmented,v2_augmented
+697,"Bueno, la notificacion queda visible",neutral,augmented,v2_augmented
+698,"Bueno, el formulario conserva los campos",neutral,augmented,v2_augmented
+699,"Bueno, la fecha aparece en el registro",neutral,augmented,v2_augmented
+700,"Bueno, el caso queda para revision",neutral,augmented,v2_augmented
+701,"Al final, el pedido aparece registrado",neutral,augmented,v2_augmented
+702,"Al final, la solicitud sigue en revision",neutral,augmented,v2_augmented
+703,"Al final, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+704,"Al final, la factura esta disponible",neutral,augmented,v2_augmented
+705,"Al final, el documento quedo cargado",neutral,augmented,v2_augmented
+706,"Al final, la consulta fue enviada",neutral,augmented,v2_augmented
+707,"Al final, el reporte contiene informacion general",neutral,augmented,v2_augmented
+708,"Al final, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+709,"Al final, la orden permanece abierta",neutral,augmented,v2_augmented
+710,"Al final, el mensaje quedo guardado",neutral,augmented,v2_augmented
+711,"Al final, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+712,"Al final, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+713,"Al final, la revision fue asignada",neutral,augmented,v2_augmented
+714,"Al final, el tramite continua en curso",neutral,augmented,v2_augmented
+715,"Al final, la pantalla muestra los datos",neutral,augmented,v2_augmented
+716,"Al final, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+717,"Al final, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+718,"Al final, el registro incluye fecha",neutral,augmented,v2_augmented
+719,"Al final, la entrega esta programada",neutral,augmented,v2_augmented
+720,"Al final, el sistema genero una notificacion",neutral,augmented,v2_augmented
+721,"Al final, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+722,"Al final, el producto aparece en inventario",neutral,augmented,v2_augmented
+723,"Al final, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+724,"Al final, el reporte fue generado",neutral,augmented,v2_augmented
+725,"Al final, la informacion se mantiene igual",neutral,augmented,v2_augmented
+726,"Al final, el tramite quedo documentado",neutral,augmented,v2_augmented
+727,"Al final, la consulta esta disponible",neutral,augmented,v2_augmented
+728,"Al final, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+729,"Al final, la orden quedo en cola",neutral,augmented,v2_augmented
+730,"Al final, el documento contiene datos generales",neutral,augmented,v2_augmented
+731,"Al final, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+732,"Al final, el sistema conserva el registro",neutral,augmented,v2_augmented
+733,"Al final, la entrega fue programada",neutral,augmented,v2_augmented
+734,"Al final, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+735,"Al final, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+736,"Al final, la respuesta fue registrada",neutral,augmented,v2_augmented
+737,"Al final, el estado se muestra activo",neutral,augmented,v2_augmented
+738,"Al final, la solicitud esta documentada",neutral,augmented,v2_augmented
+739,"Al final, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+740,"Al final, la informacion fue recibida",neutral,augmented,v2_augmented
+741,"Al final, el tramite espera confirmacion",neutral,augmented,v2_augmented
+742,"Al final, la consulta fue guardada",neutral,augmented,v2_augmented
+743,"Al final, el producto se encuentra reservado",neutral,augmented,v2_augmented
+744,"Al final, el sistema muestra el detalle",neutral,augmented,v2_augmented
+745,"Al final, la orden sigue activa",neutral,augmented,v2_augmented
+746,"Al final, el panel contiene el resumen",neutral,augmented,v2_augmented
+747,"Al final, la notificacion queda visible",neutral,augmented,v2_augmented
+748,"Al final, el formulario conserva los campos",neutral,augmented,v2_augmented
+749,"Al final, la fecha aparece en el registro",neutral,augmented,v2_augmented
+750,"Al final, el caso queda para revision",neutral,augmented,v2_augmented
+751,"Por ahora, el pedido aparece registrado",neutral,augmented,v2_augmented
+752,"Por ahora, la solicitud sigue en revision",neutral,augmented,v2_augmented
+753,"Por ahora, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+754,"Por ahora, la factura esta disponible",neutral,augmented,v2_augmented
+755,"Por ahora, el documento quedo cargado",neutral,augmented,v2_augmented
+756,"Por ahora, la consulta fue enviada",neutral,augmented,v2_augmented
+757,"Por ahora, el reporte contiene informacion general",neutral,augmented,v2_augmented
+758,"Por ahora, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+759,"Por ahora, la orden permanece abierta",neutral,augmented,v2_augmented
+760,"Por ahora, el mensaje quedo guardado",neutral,augmented,v2_augmented
+761,"Por ahora, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+762,"Por ahora, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+763,"Por ahora, la revision fue asignada",neutral,augmented,v2_augmented
+764,"Por ahora, el tramite continua en curso",neutral,augmented,v2_augmented
+765,"Por ahora, la pantalla muestra los datos",neutral,augmented,v2_augmented
+766,"Por ahora, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+767,"Por ahora, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+768,"Por ahora, el registro incluye fecha",neutral,augmented,v2_augmented
+769,"Por ahora, la entrega esta programada",neutral,augmented,v2_augmented
+770,"Por ahora, el sistema genero una notificacion",neutral,augmented,v2_augmented
+771,"Por ahora, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+772,"Por ahora, el producto aparece en inventario",neutral,augmented,v2_augmented
+773,"Por ahora, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+774,"Por ahora, el reporte fue generado",neutral,augmented,v2_augmented
+775,"Por ahora, la informacion se mantiene igual",neutral,augmented,v2_augmented
+776,"Por ahora, el tramite quedo documentado",neutral,augmented,v2_augmented
+777,"Por ahora, la consulta esta disponible",neutral,augmented,v2_augmented
+778,"Por ahora, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+779,"Por ahora, la orden quedo en cola",neutral,augmented,v2_augmented
+780,"Por ahora, el documento contiene datos generales",neutral,augmented,v2_augmented
+781,"Por ahora, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+782,"Por ahora, el sistema conserva el registro",neutral,augmented,v2_augmented
+783,"Por ahora, la entrega fue programada",neutral,augmented,v2_augmented
+784,"Por ahora, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+785,"Por ahora, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+786,"Por ahora, la respuesta fue registrada",neutral,augmented,v2_augmented
+787,"Por ahora, el estado se muestra activo",neutral,augmented,v2_augmented
+788,"Por ahora, la solicitud esta documentada",neutral,augmented,v2_augmented
+789,"Por ahora, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+790,"Por ahora, la informacion fue recibida",neutral,augmented,v2_augmented
+791,"Por ahora, el tramite espera confirmacion",neutral,augmented,v2_augmented
+792,"Por ahora, la consulta fue guardada",neutral,augmented,v2_augmented
+793,"Por ahora, el producto se encuentra reservado",neutral,augmented,v2_augmented
+794,"Por ahora, el sistema muestra el detalle",neutral,augmented,v2_augmented
+795,"Por ahora, la orden sigue activa",neutral,augmented,v2_augmented
+796,"Por ahora, el panel contiene el resumen",neutral,augmented,v2_augmented
+797,"Por ahora, la notificacion queda visible",neutral,augmented,v2_augmented
+798,"Por ahora, el formulario conserva los campos",neutral,augmented,v2_augmented
+799,"Por ahora, la fecha aparece en el registro",neutral,augmented,v2_augmented
+800,"Por ahora, el caso queda para revision",neutral,augmented,v2_augmented
+801,"Mmm, el pedido aparece registrado",neutral,augmented,v2_augmented
+802,"Mmm, la solicitud sigue en revision",neutral,augmented,v2_augmented
+803,"Mmm, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+804,"Mmm, la factura esta disponible",neutral,augmented,v2_augmented
+805,"Mmm, el documento quedo cargado",neutral,augmented,v2_augmented
+806,"Mmm, la consulta fue enviada",neutral,augmented,v2_augmented
+807,"Mmm, el reporte contiene informacion general",neutral,augmented,v2_augmented
+808,"Mmm, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+809,"Mmm, la orden permanece abierta",neutral,augmented,v2_augmented
+810,"Mmm, el mensaje quedo guardado",neutral,augmented,v2_augmented
+811,"Mmm, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+812,"Mmm, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+813,"Mmm, la revision fue asignada",neutral,augmented,v2_augmented
+814,"Mmm, el tramite continua en curso",neutral,augmented,v2_augmented
+815,"Mmm, la pantalla muestra los datos",neutral,augmented,v2_augmented
+816,"Mmm, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+817,"Mmm, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+818,"Mmm, el registro incluye fecha",neutral,augmented,v2_augmented
+819,"Mmm, la entrega esta programada",neutral,augmented,v2_augmented
+820,"Mmm, el sistema genero una notificacion",neutral,augmented,v2_augmented
+821,"Mmm, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+822,"Mmm, el producto aparece en inventario",neutral,augmented,v2_augmented
+823,"Mmm, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+824,"Mmm, el reporte fue generado",neutral,augmented,v2_augmented
+825,"Mmm, la informacion se mantiene igual",neutral,augmented,v2_augmented
+826,"Mmm, el tramite quedo documentado",neutral,augmented,v2_augmented
+827,"Mmm, la consulta esta disponible",neutral,augmented,v2_augmented
+828,"Mmm, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+829,"Mmm, la orden quedo en cola",neutral,augmented,v2_augmented
+830,"Mmm, el documento contiene datos generales",neutral,augmented,v2_augmented
+831,"Mmm, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+832,"Mmm, el sistema conserva el registro",neutral,augmented,v2_augmented
+833,"Mmm, la entrega fue programada",neutral,augmented,v2_augmented
+834,"Mmm, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+835,"Mmm, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+836,"Mmm, la respuesta fue registrada",neutral,augmented,v2_augmented
+837,"Mmm, el estado se muestra activo",neutral,augmented,v2_augmented
+838,"Mmm, la solicitud esta documentada",neutral,augmented,v2_augmented
+839,"Mmm, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+840,"Mmm, la informacion fue recibida",neutral,augmented,v2_augmented
+841,"Mmm, el tramite espera confirmacion",neutral,augmented,v2_augmented
+842,"Mmm, la consulta fue guardada",neutral,augmented,v2_augmented
+843,"Mmm, el producto se encuentra reservado",neutral,augmented,v2_augmented
+844,"Mmm, el sistema muestra el detalle",neutral,augmented,v2_augmented
+845,"Mmm, la orden sigue activa",neutral,augmented,v2_augmented
+846,"Mmm, el panel contiene el resumen",neutral,augmented,v2_augmented
+847,"Mmm, la notificacion queda visible",neutral,augmented,v2_augmented
+848,"Mmm, el formulario conserva los campos",neutral,augmented,v2_augmented
+849,"Mmm, la fecha aparece en el registro",neutral,augmented,v2_augmented
+850,"Mmm, el caso queda para revision",neutral,augmented,v2_augmented
+851,"Despues de revisar, el pedido aparece registrado",neutral,augmented,v2_augmented
+852,"Despues de revisar, la solicitud sigue en revision",neutral,augmented,v2_augmented
+853,"Despues de revisar, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+854,"Despues de revisar, la factura esta disponible",neutral,augmented,v2_augmented
+855,"Despues de revisar, el documento quedo cargado",neutral,augmented,v2_augmented
+856,"Despues de revisar, la consulta fue enviada",neutral,augmented,v2_augmented
+857,"Despues de revisar, el reporte contiene informacion general",neutral,augmented,v2_augmented
+858,"Despues de revisar, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+859,"Despues de revisar, la orden permanece abierta",neutral,augmented,v2_augmented
+860,"Despues de revisar, el mensaje quedo guardado",neutral,augmented,v2_augmented
+861,"Despues de revisar, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+862,"Despues de revisar, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+863,"Despues de revisar, la revision fue asignada",neutral,augmented,v2_augmented
+864,"Despues de revisar, el tramite continua en curso",neutral,augmented,v2_augmented
+865,"Despues de revisar, la pantalla muestra los datos",neutral,augmented,v2_augmented
+866,"Despues de revisar, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+867,"Despues de revisar, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+868,"Despues de revisar, el registro incluye fecha",neutral,augmented,v2_augmented
+869,"Despues de revisar, la entrega esta programada",neutral,augmented,v2_augmented
+870,"Despues de revisar, el sistema genero una notificacion",neutral,augmented,v2_augmented
+871,"Despues de revisar, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+872,"Despues de revisar, el producto aparece en inventario",neutral,augmented,v2_augmented
+873,"Despues de revisar, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+874,"Despues de revisar, el reporte fue generado",neutral,augmented,v2_augmented
+875,"Despues de revisar, la informacion se mantiene igual",neutral,augmented,v2_augmented
+876,"Despues de revisar, el tramite quedo documentado",neutral,augmented,v2_augmented
+877,"Despues de revisar, la consulta esta disponible",neutral,augmented,v2_augmented
+878,"Despues de revisar, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+879,"Despues de revisar, la orden quedo en cola",neutral,augmented,v2_augmented
+880,"Despues de revisar, el documento contiene datos generales",neutral,augmented,v2_augmented
+881,"Despues de revisar, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+882,"Despues de revisar, el sistema conserva el registro",neutral,augmented,v2_augmented
+883,"Despues de revisar, la entrega fue programada",neutral,augmented,v2_augmented
+884,"Despues de revisar, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+885,"Despues de revisar, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+886,"Despues de revisar, la respuesta fue registrada",neutral,augmented,v2_augmented
+887,"Despues de revisar, el estado se muestra activo",neutral,augmented,v2_augmented
+888,"Despues de revisar, la solicitud esta documentada",neutral,augmented,v2_augmented
+889,"Despues de revisar, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+890,"Despues de revisar, la informacion fue recibida",neutral,augmented,v2_augmented
+891,"Despues de revisar, el tramite espera confirmacion",neutral,augmented,v2_augmented
+892,"Despues de revisar, la consulta fue guardada",neutral,augmented,v2_augmented
+893,"Despues de revisar, el producto se encuentra reservado",neutral,augmented,v2_augmented
+894,"Despues de revisar, el sistema muestra el detalle",neutral,augmented,v2_augmented
+895,"Despues de revisar, la orden sigue activa",neutral,augmented,v2_augmented
+896,"Despues de revisar, el panel contiene el resumen",neutral,augmented,v2_augmented
+897,"Despues de revisar, la notificacion queda visible",neutral,augmented,v2_augmented
+898,"Despues de revisar, el formulario conserva los campos",neutral,augmented,v2_augmented
+899,"Despues de revisar, la fecha aparece en el registro",neutral,augmented,v2_augmented
+900,"Despues de revisar, el caso queda para revision",neutral,augmented,v2_augmented
+901,"Con lo visto, el pedido aparece registrado",neutral,augmented,v2_augmented
+902,"Con lo visto, la solicitud sigue en revision",neutral,augmented,v2_augmented
+903,"Con lo visto, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+904,"Con lo visto, la factura esta disponible",neutral,augmented,v2_augmented
+905,"Con lo visto, el documento quedo cargado",neutral,augmented,v2_augmented
+906,"Con lo visto, la consulta fue enviada",neutral,augmented,v2_augmented
+907,"Con lo visto, el reporte contiene informacion general",neutral,augmented,v2_augmented
+908,"Con lo visto, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+909,"Con lo visto, la orden permanece abierta",neutral,augmented,v2_augmented
+910,"Con lo visto, el mensaje quedo guardado",neutral,augmented,v2_augmented
+911,"Con lo visto, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+912,"Con lo visto, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+913,"Con lo visto, la revision fue asignada",neutral,augmented,v2_augmented
+914,"Con lo visto, el tramite continua en curso",neutral,augmented,v2_augmented
+915,"Con lo visto, la pantalla muestra los datos",neutral,augmented,v2_augmented
+916,"Con lo visto, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+917,"Con lo visto, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+918,"Con lo visto, el registro incluye fecha",neutral,augmented,v2_augmented
+919,"Con lo visto, la entrega esta programada",neutral,augmented,v2_augmented
+920,"Con lo visto, el sistema genero una notificacion",neutral,augmented,v2_augmented
+921,"Con lo visto, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+922,"Con lo visto, el producto aparece en inventario",neutral,augmented,v2_augmented
+923,"Con lo visto, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+924,"Con lo visto, el reporte fue generado",neutral,augmented,v2_augmented
+925,"Con lo visto, la informacion se mantiene igual",neutral,augmented,v2_augmented
+926,"Con lo visto, el tramite quedo documentado",neutral,augmented,v2_augmented
+927,"Con lo visto, la consulta esta disponible",neutral,augmented,v2_augmented
+928,"Con lo visto, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+929,"Con lo visto, la orden quedo en cola",neutral,augmented,v2_augmented
+930,"Con lo visto, el documento contiene datos generales",neutral,augmented,v2_augmented
+931,"Con lo visto, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+932,"Con lo visto, el sistema conserva el registro",neutral,augmented,v2_augmented
+933,"Con lo visto, la entrega fue programada",neutral,augmented,v2_augmented
+934,"Con lo visto, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+935,"Con lo visto, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+936,"Con lo visto, la respuesta fue registrada",neutral,augmented,v2_augmented
+937,"Con lo visto, el estado se muestra activo",neutral,augmented,v2_augmented
+938,"Con lo visto, la solicitud esta documentada",neutral,augmented,v2_augmented
+939,"Con lo visto, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+940,"Con lo visto, la informacion fue recibida",neutral,augmented,v2_augmented
+941,"Con lo visto, el tramite espera confirmacion",neutral,augmented,v2_augmented
+942,"Con lo visto, la consulta fue guardada",neutral,augmented,v2_augmented
+943,"Con lo visto, el producto se encuentra reservado",neutral,augmented,v2_augmented
+944,"Con lo visto, el sistema muestra el detalle",neutral,augmented,v2_augmented
+945,"Con lo visto, la orden sigue activa",neutral,augmented,v2_augmented
+946,"Con lo visto, el panel contiene el resumen",neutral,augmented,v2_augmented
+947,"Con lo visto, la notificacion queda visible",neutral,augmented,v2_augmented
+948,"Con lo visto, el formulario conserva los campos",neutral,augmented,v2_augmented
+949,"Con lo visto, la fecha aparece en el registro",neutral,augmented,v2_augmented
+950,"Con lo visto, el caso queda para revision",neutral,augmented,v2_augmented
+951,"Para este caso, el pedido aparece registrado",neutral,augmented,v2_augmented
+952,"Para este caso, la solicitud sigue en revision",neutral,augmented,v2_augmented
+953,"Para este caso, el sistema muestra el estado actual",neutral,augmented,v2_augmented
+954,"Para este caso, la factura esta disponible",neutral,augmented,v2_augmented
+955,"Para este caso, el documento quedo cargado",neutral,augmented,v2_augmented
+956,"Para este caso, la consulta fue enviada",neutral,augmented,v2_augmented
+957,"Para este caso, el reporte contiene informacion general",neutral,augmented,v2_augmented
+958,"Para este caso, la entrega figura en seguimiento",neutral,augmented,v2_augmented
+959,"Para este caso, la orden permanece abierta",neutral,augmented,v2_augmented
+960,"Para este caso, el mensaje quedo guardado",neutral,augmented,v2_augmented
+961,"Para este caso, la respuesta indica proceso activo",neutral,augmented,v2_augmented
+962,"Para este caso, el producto tiene descripcion breve",neutral,augmented,v2_augmented
+963,"Para este caso, la revision fue asignada",neutral,augmented,v2_augmented
+964,"Para este caso, el tramite continua en curso",neutral,augmented,v2_augmented
+965,"Para este caso, la pantalla muestra los datos",neutral,augmented,v2_augmented
+966,"Para este caso, el archivo esta listo para descarga",neutral,augmented,v2_augmented
+967,"Para este caso, la consulta tiene prioridad normal",neutral,augmented,v2_augmented
+968,"Para este caso, el registro incluye fecha",neutral,augmented,v2_augmented
+969,"Para este caso, la entrega esta programada",neutral,augmented,v2_augmented
+970,"Para este caso, el sistema genero una notificacion",neutral,augmented,v2_augmented
+971,"Para este caso, la solicitud fue recibida hoy",neutral,augmented,v2_augmented
+972,"Para este caso, el producto aparece en inventario",neutral,augmented,v2_augmented
+973,"Para este caso, la respuesta espera confirmacion",neutral,augmented,v2_augmented
+974,"Para este caso, el reporte fue generado",neutral,augmented,v2_augmented
+975,"Para este caso, la informacion se mantiene igual",neutral,augmented,v2_augmented
+976,"Para este caso, el tramite quedo documentado",neutral,augmented,v2_augmented
+977,"Para este caso, la consulta esta disponible",neutral,augmented,v2_augmented
+978,"Para este caso, el panel muestra actividad reciente",neutral,augmented,v2_augmented
+979,"Para este caso, la orden quedo en cola",neutral,augmented,v2_augmented
+980,"Para este caso, el documento contiene datos generales",neutral,augmented,v2_augmented
+981,"Para este caso, la solicitud tiene respuesta parcial",neutral,augmented,v2_augmented
+982,"Para este caso, el sistema conserva el registro",neutral,augmented,v2_augmented
+983,"Para este caso, la entrega fue programada",neutral,augmented,v2_augmented
+984,"Para este caso, el producto tiene dos alternativas",neutral,augmented,v2_augmented
+985,"Para este caso, la consulta quedo sin asignar",neutral,augmented,v2_augmented
+986,"Para este caso, la respuesta fue registrada",neutral,augmented,v2_augmented
+987,"Para este caso, el estado se muestra activo",neutral,augmented,v2_augmented
+988,"Para este caso, la solicitud esta documentada",neutral,augmented,v2_augmented
+989,"Para este caso, el reporte incluye varias secciones",neutral,augmented,v2_augmented
+990,"Para este caso, la informacion fue recibida",neutral,augmented,v2_augmented
+991,"Para este caso, el tramite espera confirmacion",neutral,augmented,v2_augmented
+992,"Para este caso, la consulta fue guardada",neutral,augmented,v2_augmented
+993,"Para este caso, el producto se encuentra reservado",neutral,augmented,v2_augmented
+994,"Para este caso, el sistema muestra el detalle",neutral,augmented,v2_augmented
+995,"Para este caso, la orden sigue activa",neutral,augmented,v2_augmented
+996,"Para este caso, el panel contiene el resumen",neutral,augmented,v2_augmented
+997,"Para este caso, la notificacion queda visible",neutral,augmented,v2_augmented
+998,"Para este caso, el formulario conserva los campos",neutral,augmented,v2_augmented
+999,"Para este caso, la fecha aparece en el registro",neutral,augmented,v2_augmented
+1000,"Para este caso, el caso queda para revision",neutral,augmented,v2_augmented
+1001,llego tarde y con problemas,negativo,augmented,v2_augmented
+1002,no aclaro nada importante,negativo,augmented,v2_augmented
+1003,fue mas confuso de lo necesario,negativo,augmented,v2_augmented
+1004,se cerro mientras avanzaba,negativo,augmented,v2_augmented
+1005,tardo y no resolvio el caso,negativo,augmented,v2_augmented
+1006,fallo durante la primera prueba,negativo,augmented,v2_augmented
+1007,no coincidia con lo indicado,negativo,augmented,v2_augmented
+1008,llego incompleto,negativo,augmented,v2_augmented
+1009,perdio los cambios realizados,negativo,augmented,v2_augmented
+1010,termino siendo complicado,negativo,augmented,v2_augmented
+1011,fue poco claro,negativo,augmented,v2_augmented
+1012,no mostro los datos esperados,negativo,augmented,v2_augmented
+1013,dejo dudas sin resolver,negativo,augmented,v2_augmented
+1014,se quedo detenido,negativo,augmented,v2_augmented
+1015,llego demasiado tarde,negativo,augmented,v2_augmented
+1016,fue inestable durante la solicitud,negativo,augmented,v2_augmented
+1017,no cumplio con lo indicado,negativo,augmented,v2_augmented
+1018,no permitio terminar el proceso,negativo,augmented,v2_augmented
+1019,fue insuficiente para continuar,negativo,augmented,v2_augmented
+1020,fue cancelado sin aviso claro,negativo,augmented,v2_augmented
+1021,dejo una sensacion negativa,negativo,augmented,v2_augmented
+1022,mostro errores al guardar,negativo,augmented,v2_augmented
+1023,no avanzo despues de varios intentos,negativo,augmented,v2_augmented
+1024,quedo sin seguimiento,negativo,augmented,v2_augmented
+1025,respondio con informacion incompleta,negativo,augmented,v2_augmented
+1026,tomo mas tiempo del esperado,negativo,augmented,v2_augmented
+1027,fue dificil de usar,negativo,augmented,v2_augmented
+1028,genero varios inconvenientes,negativo,augmented,v2_augmented
+1029,llego con fallas visibles,negativo,augmented,v2_augmented
+1030,fue breve pero poco util,negativo,augmented,v2_augmented
+1031,no dio confianza,negativo,augmented,v2_augmented
+1032,fue contradictorio,negativo,augmented,v2_augmented
+1033,tuvo demasiados pasos,negativo,augmented,v2_augmented
+1034,cargo muy lento,negativo,augmented,v2_augmented
+1035,no coincidio con la solicitud,negativo,augmented,v2_augmented
+1036,no explico el problema principal,negativo,augmented,v2_augmented
+1037,termino de forma decepcionante,negativo,augmented,v2_augmented
+1038,fue desordenado,negativo,augmented,v2_augmented
+1039,dejo el caso abierto,negativo,augmented,v2_augmented
+1040,fallo al finalizar,negativo,augmented,v2_augmented
+1041,tuvo bajo rendimiento,negativo,augmented,v2_augmented
+1042,no fue cuidadoso,negativo,augmented,v2_augmented
+1043,fue lento desde el inicio,negativo,augmented,v2_augmented
+1044,quedo sin resolver,negativo,augmented,v2_augmented
+1045,no fue suficiente,negativo,augmented,v2_augmented
+1046,termino con error,negativo,augmented,v2_augmented
+1047,no respondia bien,negativo,augmented,v2_augmented
+1048,no explico los pasos,negativo,augmented,v2_augmented
+1049,tuvo retrasos repetidos,negativo,augmented,v2_augmented
+1050,fue frustrante,negativo,augmented,v2_augmented
+1051,"La verdad, llego tarde y con problemas",negativo,augmented,v2_augmented
+1052,"La verdad, no aclaro nada importante",negativo,augmented,v2_augmented
+1053,"La verdad, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1054,"La verdad, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1055,"La verdad, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1056,"La verdad, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1057,"La verdad, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1058,"La verdad, llego incompleto",negativo,augmented,v2_augmented
+1059,"La verdad, perdio los cambios realizados",negativo,augmented,v2_augmented
+1060,"La verdad, termino siendo complicado",negativo,augmented,v2_augmented
+1061,"La verdad, fue poco claro",negativo,augmented,v2_augmented
+1062,"La verdad, no mostro los datos esperados",negativo,augmented,v2_augmented
+1063,"La verdad, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1064,"La verdad, se quedo detenido",negativo,augmented,v2_augmented
+1065,"La verdad, llego demasiado tarde",negativo,augmented,v2_augmented
+1066,"La verdad, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1067,"La verdad, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1068,"La verdad, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1069,"La verdad, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1070,"La verdad, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1071,"La verdad, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1072,"La verdad, mostro errores al guardar",negativo,augmented,v2_augmented
+1073,"La verdad, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1074,"La verdad, quedo sin seguimiento",negativo,augmented,v2_augmented
+1075,"La verdad, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1076,"La verdad, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1077,"La verdad, fue dificil de usar",negativo,augmented,v2_augmented
+1078,"La verdad, genero varios inconvenientes",negativo,augmented,v2_augmented
+1079,"La verdad, llego con fallas visibles",negativo,augmented,v2_augmented
+1080,"La verdad, fue breve pero poco util",negativo,augmented,v2_augmented
+1081,"La verdad, no dio confianza",negativo,augmented,v2_augmented
+1082,"La verdad, fue contradictorio",negativo,augmented,v2_augmented
+1083,"La verdad, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1084,"La verdad, cargo muy lento",negativo,augmented,v2_augmented
+1085,"La verdad, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1086,"La verdad, no explico el problema principal",negativo,augmented,v2_augmented
+1087,"La verdad, termino de forma decepcionante",negativo,augmented,v2_augmented
+1088,"La verdad, fue desordenado",negativo,augmented,v2_augmented
+1089,"La verdad, dejo el caso abierto",negativo,augmented,v2_augmented
+1090,"La verdad, fallo al finalizar",negativo,augmented,v2_augmented
+1091,"La verdad, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1092,"La verdad, no fue cuidadoso",negativo,augmented,v2_augmented
+1093,"La verdad, fue lento desde el inicio",negativo,augmented,v2_augmented
+1094,"La verdad, quedo sin resolver",negativo,augmented,v2_augmented
+1095,"La verdad, no fue suficiente",negativo,augmented,v2_augmented
+1096,"La verdad, termino con error",negativo,augmented,v2_augmented
+1097,"La verdad, no respondia bien",negativo,augmented,v2_augmented
+1098,"La verdad, no explico los pasos",negativo,augmented,v2_augmented
+1099,"La verdad, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1100,"La verdad, fue frustrante",negativo,augmented,v2_augmented
+1101,"En general, llego tarde y con problemas",negativo,augmented,v2_augmented
+1102,"En general, no aclaro nada importante",negativo,augmented,v2_augmented
+1103,"En general, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1104,"En general, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1105,"En general, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1106,"En general, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1107,"En general, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1108,"En general, llego incompleto",negativo,augmented,v2_augmented
+1109,"En general, perdio los cambios realizados",negativo,augmented,v2_augmented
+1110,"En general, termino siendo complicado",negativo,augmented,v2_augmented
+1111,"En general, fue poco claro",negativo,augmented,v2_augmented
+1112,"En general, no mostro los datos esperados",negativo,augmented,v2_augmented
+1113,"En general, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1114,"En general, se quedo detenido",negativo,augmented,v2_augmented
+1115,"En general, llego demasiado tarde",negativo,augmented,v2_augmented
+1116,"En general, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1117,"En general, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1118,"En general, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1119,"En general, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1120,"En general, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1121,"En general, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1122,"En general, mostro errores al guardar",negativo,augmented,v2_augmented
+1123,"En general, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1124,"En general, quedo sin seguimiento",negativo,augmented,v2_augmented
+1125,"En general, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1126,"En general, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1127,"En general, fue dificil de usar",negativo,augmented,v2_augmented
+1128,"En general, genero varios inconvenientes",negativo,augmented,v2_augmented
+1129,"En general, llego con fallas visibles",negativo,augmented,v2_augmented
+1130,"En general, fue breve pero poco util",negativo,augmented,v2_augmented
+1131,"En general, no dio confianza",negativo,augmented,v2_augmented
+1132,"En general, fue contradictorio",negativo,augmented,v2_augmented
+1133,"En general, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1134,"En general, cargo muy lento",negativo,augmented,v2_augmented
+1135,"En general, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1136,"En general, no explico el problema principal",negativo,augmented,v2_augmented
+1137,"En general, termino de forma decepcionante",negativo,augmented,v2_augmented
+1138,"En general, fue desordenado",negativo,augmented,v2_augmented
+1139,"En general, dejo el caso abierto",negativo,augmented,v2_augmented
+1140,"En general, fallo al finalizar",negativo,augmented,v2_augmented
+1141,"En general, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1142,"En general, no fue cuidadoso",negativo,augmented,v2_augmented
+1143,"En general, fue lento desde el inicio",negativo,augmented,v2_augmented
+1144,"En general, quedo sin resolver",negativo,augmented,v2_augmented
+1145,"En general, no fue suficiente",negativo,augmented,v2_augmented
+1146,"En general, termino con error",negativo,augmented,v2_augmented
+1147,"En general, no respondia bien",negativo,augmented,v2_augmented
+1148,"En general, no explico los pasos",negativo,augmented,v2_augmented
+1149,"En general, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1150,"En general, fue frustrante",negativo,augmented,v2_augmented
+1151,"Bueno, llego tarde y con problemas",negativo,augmented,v2_augmented
+1152,"Bueno, no aclaro nada importante",negativo,augmented,v2_augmented
+1153,"Bueno, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1154,"Bueno, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1155,"Bueno, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1156,"Bueno, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1157,"Bueno, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1158,"Bueno, llego incompleto",negativo,augmented,v2_augmented
+1159,"Bueno, perdio los cambios realizados",negativo,augmented,v2_augmented
+1160,"Bueno, termino siendo complicado",negativo,augmented,v2_augmented
+1161,"Bueno, fue poco claro",negativo,augmented,v2_augmented
+1162,"Bueno, no mostro los datos esperados",negativo,augmented,v2_augmented
+1163,"Bueno, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1164,"Bueno, se quedo detenido",negativo,augmented,v2_augmented
+1165,"Bueno, llego demasiado tarde",negativo,augmented,v2_augmented
+1166,"Bueno, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1167,"Bueno, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1168,"Bueno, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1169,"Bueno, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1170,"Bueno, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1171,"Bueno, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1172,"Bueno, mostro errores al guardar",negativo,augmented,v2_augmented
+1173,"Bueno, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1174,"Bueno, quedo sin seguimiento",negativo,augmented,v2_augmented
+1175,"Bueno, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1176,"Bueno, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1177,"Bueno, fue dificil de usar",negativo,augmented,v2_augmented
+1178,"Bueno, genero varios inconvenientes",negativo,augmented,v2_augmented
+1179,"Bueno, llego con fallas visibles",negativo,augmented,v2_augmented
+1180,"Bueno, fue breve pero poco util",negativo,augmented,v2_augmented
+1181,"Bueno, no dio confianza",negativo,augmented,v2_augmented
+1182,"Bueno, fue contradictorio",negativo,augmented,v2_augmented
+1183,"Bueno, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1184,"Bueno, cargo muy lento",negativo,augmented,v2_augmented
+1185,"Bueno, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1186,"Bueno, no explico el problema principal",negativo,augmented,v2_augmented
+1187,"Bueno, termino de forma decepcionante",negativo,augmented,v2_augmented
+1188,"Bueno, fue desordenado",negativo,augmented,v2_augmented
+1189,"Bueno, dejo el caso abierto",negativo,augmented,v2_augmented
+1190,"Bueno, fallo al finalizar",negativo,augmented,v2_augmented
+1191,"Bueno, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1192,"Bueno, no fue cuidadoso",negativo,augmented,v2_augmented
+1193,"Bueno, fue lento desde el inicio",negativo,augmented,v2_augmented
+1194,"Bueno, quedo sin resolver",negativo,augmented,v2_augmented
+1195,"Bueno, no fue suficiente",negativo,augmented,v2_augmented
+1196,"Bueno, termino con error",negativo,augmented,v2_augmented
+1197,"Bueno, no respondia bien",negativo,augmented,v2_augmented
+1198,"Bueno, no explico los pasos",negativo,augmented,v2_augmented
+1199,"Bueno, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1200,"Bueno, fue frustrante",negativo,augmented,v2_augmented
+1201,"Al final, llego tarde y con problemas",negativo,augmented,v2_augmented
+1202,"Al final, no aclaro nada importante",negativo,augmented,v2_augmented
+1203,"Al final, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1204,"Al final, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1205,"Al final, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1206,"Al final, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1207,"Al final, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1208,"Al final, llego incompleto",negativo,augmented,v2_augmented
+1209,"Al final, perdio los cambios realizados",negativo,augmented,v2_augmented
+1210,"Al final, termino siendo complicado",negativo,augmented,v2_augmented
+1211,"Al final, fue poco claro",negativo,augmented,v2_augmented
+1212,"Al final, no mostro los datos esperados",negativo,augmented,v2_augmented
+1213,"Al final, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1214,"Al final, se quedo detenido",negativo,augmented,v2_augmented
+1215,"Al final, llego demasiado tarde",negativo,augmented,v2_augmented
+1216,"Al final, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1217,"Al final, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1218,"Al final, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1219,"Al final, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1220,"Al final, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1221,"Al final, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1222,"Al final, mostro errores al guardar",negativo,augmented,v2_augmented
+1223,"Al final, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1224,"Al final, quedo sin seguimiento",negativo,augmented,v2_augmented
+1225,"Al final, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1226,"Al final, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1227,"Al final, fue dificil de usar",negativo,augmented,v2_augmented
+1228,"Al final, genero varios inconvenientes",negativo,augmented,v2_augmented
+1229,"Al final, llego con fallas visibles",negativo,augmented,v2_augmented
+1230,"Al final, fue breve pero poco util",negativo,augmented,v2_augmented
+1231,"Al final, no dio confianza",negativo,augmented,v2_augmented
+1232,"Al final, fue contradictorio",negativo,augmented,v2_augmented
+1233,"Al final, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1234,"Al final, cargo muy lento",negativo,augmented,v2_augmented
+1235,"Al final, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1236,"Al final, no explico el problema principal",negativo,augmented,v2_augmented
+1237,"Al final, termino de forma decepcionante",negativo,augmented,v2_augmented
+1238,"Al final, fue desordenado",negativo,augmented,v2_augmented
+1239,"Al final, dejo el caso abierto",negativo,augmented,v2_augmented
+1240,"Al final, fallo al finalizar",negativo,augmented,v2_augmented
+1241,"Al final, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1242,"Al final, no fue cuidadoso",negativo,augmented,v2_augmented
+1243,"Al final, fue lento desde el inicio",negativo,augmented,v2_augmented
+1244,"Al final, quedo sin resolver",negativo,augmented,v2_augmented
+1245,"Al final, no fue suficiente",negativo,augmented,v2_augmented
+1246,"Al final, termino con error",negativo,augmented,v2_augmented
+1247,"Al final, no respondia bien",negativo,augmented,v2_augmented
+1248,"Al final, no explico los pasos",negativo,augmented,v2_augmented
+1249,"Al final, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1250,"Al final, fue frustrante",negativo,augmented,v2_augmented
+1251,"Por ahora, llego tarde y con problemas",negativo,augmented,v2_augmented
+1252,"Por ahora, no aclaro nada importante",negativo,augmented,v2_augmented
+1253,"Por ahora, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1254,"Por ahora, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1255,"Por ahora, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1256,"Por ahora, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1257,"Por ahora, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1258,"Por ahora, llego incompleto",negativo,augmented,v2_augmented
+1259,"Por ahora, perdio los cambios realizados",negativo,augmented,v2_augmented
+1260,"Por ahora, termino siendo complicado",negativo,augmented,v2_augmented
+1261,"Por ahora, fue poco claro",negativo,augmented,v2_augmented
+1262,"Por ahora, no mostro los datos esperados",negativo,augmented,v2_augmented
+1263,"Por ahora, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1264,"Por ahora, se quedo detenido",negativo,augmented,v2_augmented
+1265,"Por ahora, llego demasiado tarde",negativo,augmented,v2_augmented
+1266,"Por ahora, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1267,"Por ahora, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1268,"Por ahora, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1269,"Por ahora, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1270,"Por ahora, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1271,"Por ahora, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1272,"Por ahora, mostro errores al guardar",negativo,augmented,v2_augmented
+1273,"Por ahora, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1274,"Por ahora, quedo sin seguimiento",negativo,augmented,v2_augmented
+1275,"Por ahora, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1276,"Por ahora, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1277,"Por ahora, fue dificil de usar",negativo,augmented,v2_augmented
+1278,"Por ahora, genero varios inconvenientes",negativo,augmented,v2_augmented
+1279,"Por ahora, llego con fallas visibles",negativo,augmented,v2_augmented
+1280,"Por ahora, fue breve pero poco util",negativo,augmented,v2_augmented
+1281,"Por ahora, no dio confianza",negativo,augmented,v2_augmented
+1282,"Por ahora, fue contradictorio",negativo,augmented,v2_augmented
+1283,"Por ahora, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1284,"Por ahora, cargo muy lento",negativo,augmented,v2_augmented
+1285,"Por ahora, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1286,"Por ahora, no explico el problema principal",negativo,augmented,v2_augmented
+1287,"Por ahora, termino de forma decepcionante",negativo,augmented,v2_augmented
+1288,"Por ahora, fue desordenado",negativo,augmented,v2_augmented
+1289,"Por ahora, dejo el caso abierto",negativo,augmented,v2_augmented
+1290,"Por ahora, fallo al finalizar",negativo,augmented,v2_augmented
+1291,"Por ahora, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1292,"Por ahora, no fue cuidadoso",negativo,augmented,v2_augmented
+1293,"Por ahora, fue lento desde el inicio",negativo,augmented,v2_augmented
+1294,"Por ahora, quedo sin resolver",negativo,augmented,v2_augmented
+1295,"Por ahora, no fue suficiente",negativo,augmented,v2_augmented
+1296,"Por ahora, termino con error",negativo,augmented,v2_augmented
+1297,"Por ahora, no respondia bien",negativo,augmented,v2_augmented
+1298,"Por ahora, no explico los pasos",negativo,augmented,v2_augmented
+1299,"Por ahora, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1300,"Por ahora, fue frustrante",negativo,augmented,v2_augmented
+1301,"Mmm, llego tarde y con problemas",negativo,augmented,v2_augmented
+1302,"Mmm, no aclaro nada importante",negativo,augmented,v2_augmented
+1303,"Mmm, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1304,"Mmm, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1305,"Mmm, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1306,"Mmm, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1307,"Mmm, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1308,"Mmm, llego incompleto",negativo,augmented,v2_augmented
+1309,"Mmm, perdio los cambios realizados",negativo,augmented,v2_augmented
+1310,"Mmm, termino siendo complicado",negativo,augmented,v2_augmented
+1311,"Mmm, fue poco claro",negativo,augmented,v2_augmented
+1312,"Mmm, no mostro los datos esperados",negativo,augmented,v2_augmented
+1313,"Mmm, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1314,"Mmm, se quedo detenido",negativo,augmented,v2_augmented
+1315,"Mmm, llego demasiado tarde",negativo,augmented,v2_augmented
+1316,"Mmm, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1317,"Mmm, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1318,"Mmm, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1319,"Mmm, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1320,"Mmm, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1321,"Mmm, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1322,"Mmm, mostro errores al guardar",negativo,augmented,v2_augmented
+1323,"Mmm, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1324,"Mmm, quedo sin seguimiento",negativo,augmented,v2_augmented
+1325,"Mmm, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1326,"Mmm, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1327,"Mmm, fue dificil de usar",negativo,augmented,v2_augmented
+1328,"Mmm, genero varios inconvenientes",negativo,augmented,v2_augmented
+1329,"Mmm, llego con fallas visibles",negativo,augmented,v2_augmented
+1330,"Mmm, fue breve pero poco util",negativo,augmented,v2_augmented
+1331,"Mmm, no dio confianza",negativo,augmented,v2_augmented
+1332,"Mmm, fue contradictorio",negativo,augmented,v2_augmented
+1333,"Mmm, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1334,"Mmm, cargo muy lento",negativo,augmented,v2_augmented
+1335,"Mmm, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1336,"Mmm, no explico el problema principal",negativo,augmented,v2_augmented
+1337,"Mmm, termino de forma decepcionante",negativo,augmented,v2_augmented
+1338,"Mmm, fue desordenado",negativo,augmented,v2_augmented
+1339,"Mmm, dejo el caso abierto",negativo,augmented,v2_augmented
+1340,"Mmm, fallo al finalizar",negativo,augmented,v2_augmented
+1341,"Mmm, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1342,"Mmm, no fue cuidadoso",negativo,augmented,v2_augmented
+1343,"Mmm, fue lento desde el inicio",negativo,augmented,v2_augmented
+1344,"Mmm, quedo sin resolver",negativo,augmented,v2_augmented
+1345,"Mmm, no fue suficiente",negativo,augmented,v2_augmented
+1346,"Mmm, termino con error",negativo,augmented,v2_augmented
+1347,"Mmm, no respondia bien",negativo,augmented,v2_augmented
+1348,"Mmm, no explico los pasos",negativo,augmented,v2_augmented
+1349,"Mmm, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1350,"Mmm, fue frustrante",negativo,augmented,v2_augmented
+1351,"Despues de revisar, llego tarde y con problemas",negativo,augmented,v2_augmented
+1352,"Despues de revisar, no aclaro nada importante",negativo,augmented,v2_augmented
+1353,"Despues de revisar, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1354,"Despues de revisar, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1355,"Despues de revisar, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1356,"Despues de revisar, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1357,"Despues de revisar, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1358,"Despues de revisar, llego incompleto",negativo,augmented,v2_augmented
+1359,"Despues de revisar, perdio los cambios realizados",negativo,augmented,v2_augmented
+1360,"Despues de revisar, termino siendo complicado",negativo,augmented,v2_augmented
+1361,"Despues de revisar, fue poco claro",negativo,augmented,v2_augmented
+1362,"Despues de revisar, no mostro los datos esperados",negativo,augmented,v2_augmented
+1363,"Despues de revisar, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1364,"Despues de revisar, se quedo detenido",negativo,augmented,v2_augmented
+1365,"Despues de revisar, llego demasiado tarde",negativo,augmented,v2_augmented
+1366,"Despues de revisar, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1367,"Despues de revisar, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1368,"Despues de revisar, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1369,"Despues de revisar, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1370,"Despues de revisar, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1371,"Despues de revisar, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1372,"Despues de revisar, mostro errores al guardar",negativo,augmented,v2_augmented
+1373,"Despues de revisar, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1374,"Despues de revisar, quedo sin seguimiento",negativo,augmented,v2_augmented
+1375,"Despues de revisar, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1376,"Despues de revisar, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1377,"Despues de revisar, fue dificil de usar",negativo,augmented,v2_augmented
+1378,"Despues de revisar, genero varios inconvenientes",negativo,augmented,v2_augmented
+1379,"Despues de revisar, llego con fallas visibles",negativo,augmented,v2_augmented
+1380,"Despues de revisar, fue breve pero poco util",negativo,augmented,v2_augmented
+1381,"Despues de revisar, no dio confianza",negativo,augmented,v2_augmented
+1382,"Despues de revisar, fue contradictorio",negativo,augmented,v2_augmented
+1383,"Despues de revisar, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1384,"Despues de revisar, cargo muy lento",negativo,augmented,v2_augmented
+1385,"Despues de revisar, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1386,"Despues de revisar, no explico el problema principal",negativo,augmented,v2_augmented
+1387,"Despues de revisar, termino de forma decepcionante",negativo,augmented,v2_augmented
+1388,"Despues de revisar, fue desordenado",negativo,augmented,v2_augmented
+1389,"Despues de revisar, dejo el caso abierto",negativo,augmented,v2_augmented
+1390,"Despues de revisar, fallo al finalizar",negativo,augmented,v2_augmented
+1391,"Despues de revisar, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1392,"Despues de revisar, no fue cuidadoso",negativo,augmented,v2_augmented
+1393,"Despues de revisar, fue lento desde el inicio",negativo,augmented,v2_augmented
+1394,"Despues de revisar, quedo sin resolver",negativo,augmented,v2_augmented
+1395,"Despues de revisar, no fue suficiente",negativo,augmented,v2_augmented
+1396,"Despues de revisar, termino con error",negativo,augmented,v2_augmented
+1397,"Despues de revisar, no respondia bien",negativo,augmented,v2_augmented
+1398,"Despues de revisar, no explico los pasos",negativo,augmented,v2_augmented
+1399,"Despues de revisar, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1400,"Despues de revisar, fue frustrante",negativo,augmented,v2_augmented
+1401,"Con lo visto, llego tarde y con problemas",negativo,augmented,v2_augmented
+1402,"Con lo visto, no aclaro nada importante",negativo,augmented,v2_augmented
+1403,"Con lo visto, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1404,"Con lo visto, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1405,"Con lo visto, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1406,"Con lo visto, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1407,"Con lo visto, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1408,"Con lo visto, llego incompleto",negativo,augmented,v2_augmented
+1409,"Con lo visto, perdio los cambios realizados",negativo,augmented,v2_augmented
+1410,"Con lo visto, termino siendo complicado",negativo,augmented,v2_augmented
+1411,"Con lo visto, fue poco claro",negativo,augmented,v2_augmented
+1412,"Con lo visto, no mostro los datos esperados",negativo,augmented,v2_augmented
+1413,"Con lo visto, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1414,"Con lo visto, se quedo detenido",negativo,augmented,v2_augmented
+1415,"Con lo visto, llego demasiado tarde",negativo,augmented,v2_augmented
+1416,"Con lo visto, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1417,"Con lo visto, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1418,"Con lo visto, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1419,"Con lo visto, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1420,"Con lo visto, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1421,"Con lo visto, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1422,"Con lo visto, mostro errores al guardar",negativo,augmented,v2_augmented
+1423,"Con lo visto, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1424,"Con lo visto, quedo sin seguimiento",negativo,augmented,v2_augmented
+1425,"Con lo visto, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1426,"Con lo visto, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1427,"Con lo visto, fue dificil de usar",negativo,augmented,v2_augmented
+1428,"Con lo visto, genero varios inconvenientes",negativo,augmented,v2_augmented
+1429,"Con lo visto, llego con fallas visibles",negativo,augmented,v2_augmented
+1430,"Con lo visto, fue breve pero poco util",negativo,augmented,v2_augmented
+1431,"Con lo visto, no dio confianza",negativo,augmented,v2_augmented
+1432,"Con lo visto, fue contradictorio",negativo,augmented,v2_augmented
+1433,"Con lo visto, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1434,"Con lo visto, cargo muy lento",negativo,augmented,v2_augmented
+1435,"Con lo visto, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1436,"Con lo visto, no explico el problema principal",negativo,augmented,v2_augmented
+1437,"Con lo visto, termino de forma decepcionante",negativo,augmented,v2_augmented
+1438,"Con lo visto, fue desordenado",negativo,augmented,v2_augmented
+1439,"Con lo visto, dejo el caso abierto",negativo,augmented,v2_augmented
+1440,"Con lo visto, fallo al finalizar",negativo,augmented,v2_augmented
+1441,"Con lo visto, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1442,"Con lo visto, no fue cuidadoso",negativo,augmented,v2_augmented
+1443,"Con lo visto, fue lento desde el inicio",negativo,augmented,v2_augmented
+1444,"Con lo visto, quedo sin resolver",negativo,augmented,v2_augmented
+1445,"Con lo visto, no fue suficiente",negativo,augmented,v2_augmented
+1446,"Con lo visto, termino con error",negativo,augmented,v2_augmented
+1447,"Con lo visto, no respondia bien",negativo,augmented,v2_augmented
+1448,"Con lo visto, no explico los pasos",negativo,augmented,v2_augmented
+1449,"Con lo visto, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1450,"Con lo visto, fue frustrante",negativo,augmented,v2_augmented
+1451,"Para este caso, llego tarde y con problemas",negativo,augmented,v2_augmented
+1452,"Para este caso, no aclaro nada importante",negativo,augmented,v2_augmented
+1453,"Para este caso, fue mas confuso de lo necesario",negativo,augmented,v2_augmented
+1454,"Para este caso, se cerro mientras avanzaba",negativo,augmented,v2_augmented
+1455,"Para este caso, tardo y no resolvio el caso",negativo,augmented,v2_augmented
+1456,"Para este caso, fallo durante la primera prueba",negativo,augmented,v2_augmented
+1457,"Para este caso, no coincidia con lo indicado",negativo,augmented,v2_augmented
+1458,"Para este caso, llego incompleto",negativo,augmented,v2_augmented
+1459,"Para este caso, perdio los cambios realizados",negativo,augmented,v2_augmented
+1460,"Para este caso, termino siendo complicado",negativo,augmented,v2_augmented
+1461,"Para este caso, fue poco claro",negativo,augmented,v2_augmented
+1462,"Para este caso, no mostro los datos esperados",negativo,augmented,v2_augmented
+1463,"Para este caso, dejo dudas sin resolver",negativo,augmented,v2_augmented
+1464,"Para este caso, se quedo detenido",negativo,augmented,v2_augmented
+1465,"Para este caso, llego demasiado tarde",negativo,augmented,v2_augmented
+1466,"Para este caso, fue inestable durante la solicitud",negativo,augmented,v2_augmented
+1467,"Para este caso, no cumplio con lo indicado",negativo,augmented,v2_augmented
+1468,"Para este caso, no permitio terminar el proceso",negativo,augmented,v2_augmented
+1469,"Para este caso, fue insuficiente para continuar",negativo,augmented,v2_augmented
+1470,"Para este caso, fue cancelado sin aviso claro",negativo,augmented,v2_augmented
+1471,"Para este caso, dejo una sensacion negativa",negativo,augmented,v2_augmented
+1472,"Para este caso, mostro errores al guardar",negativo,augmented,v2_augmented
+1473,"Para este caso, no avanzo despues de varios intentos",negativo,augmented,v2_augmented
+1474,"Para este caso, quedo sin seguimiento",negativo,augmented,v2_augmented
+1475,"Para este caso, respondio con informacion incompleta",negativo,augmented,v2_augmented
+1476,"Para este caso, tomo mas tiempo del esperado",negativo,augmented,v2_augmented
+1477,"Para este caso, fue dificil de usar",negativo,augmented,v2_augmented
+1478,"Para este caso, genero varios inconvenientes",negativo,augmented,v2_augmented
+1479,"Para este caso, llego con fallas visibles",negativo,augmented,v2_augmented
+1480,"Para este caso, fue breve pero poco util",negativo,augmented,v2_augmented
+1481,"Para este caso, no dio confianza",negativo,augmented,v2_augmented
+1482,"Para este caso, fue contradictorio",negativo,augmented,v2_augmented
+1483,"Para este caso, tuvo demasiados pasos",negativo,augmented,v2_augmented
+1484,"Para este caso, cargo muy lento",negativo,augmented,v2_augmented
+1485,"Para este caso, no coincidio con la solicitud",negativo,augmented,v2_augmented
+1486,"Para este caso, no explico el problema principal",negativo,augmented,v2_augmented
+1487,"Para este caso, termino de forma decepcionante",negativo,augmented,v2_augmented
+1488,"Para este caso, fue desordenado",negativo,augmented,v2_augmented
+1489,"Para este caso, dejo el caso abierto",negativo,augmented,v2_augmented
+1490,"Para este caso, fallo al finalizar",negativo,augmented,v2_augmented
+1491,"Para este caso, tuvo bajo rendimiento",negativo,augmented,v2_augmented
+1492,"Para este caso, no fue cuidadoso",negativo,augmented,v2_augmented
+1493,"Para este caso, fue lento desde el inicio",negativo,augmented,v2_augmented
+1494,"Para este caso, quedo sin resolver",negativo,augmented,v2_augmented
+1495,"Para este caso, no fue suficiente",negativo,augmented,v2_augmented
+1496,"Para este caso, termino con error",negativo,augmented,v2_augmented
+1497,"Para este caso, no respondia bien",negativo,augmented,v2_augmented
+1498,"Para este caso, no explico los pasos",negativo,augmented,v2_augmented
+1499,"Para este caso, tuvo retrasos repetidos",negativo,augmented,v2_augmented
+1500,"Para este caso, fue frustrante",negativo,augmented,v2_augmented
+1501,no estuvo mal y al final me sirvio y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1502,no estuvo mal y al final me sirvio sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1503,no estuvo mal y al final me sirvio para lo que necesitaba,positivo,augmented,v2_augmented
+1504,no estuvo mal y al final me sirvio con un cierre correcto,positivo,augmented,v2_augmented
+1505,no estuvo mal y al final me sirvio y pude continuar,positivo,augmented,v2_augmented
+1506,"no me disgusto la respuesta, fue clara y eso dejo una buena impresion",positivo,augmented,v2_augmented
+1507,"no me disgusto la respuesta, fue clara sin generar mas inconvenientes",positivo,augmented,v2_augmented
+1508,"no me disgusto la respuesta, fue clara para lo que necesitaba",positivo,augmented,v2_augmented
+1509,"no me disgusto la respuesta, fue clara con un cierre correcto",positivo,augmented,v2_augmented
+1510,"no me disgusto la respuesta, fue clara y pude continuar",positivo,augmented,v2_augmented
+1511,tenia dudas pero la solucion funciono y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1512,tenia dudas pero la solucion funciono sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1513,tenia dudas pero la solucion funciono para lo que necesitaba,positivo,augmented,v2_augmented
+1514,tenia dudas pero la solucion funciono con un cierre correcto,positivo,augmented,v2_augmented
+1515,tenia dudas pero la solucion funciono y pude continuar,positivo,augmented,v2_augmented
+1516,demoro un poco aunque llego completo y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1517,demoro un poco aunque llego completo sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1518,demoro un poco aunque llego completo para lo que necesitaba,positivo,augmented,v2_augmented
+1519,demoro un poco aunque llego completo con un cierre correcto,positivo,augmented,v2_augmented
+1520,demoro un poco aunque llego completo y pude continuar,positivo,augmented,v2_augmented
+1521,no fue perfecto pero resolvio lo importante y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1522,no fue perfecto pero resolvio lo importante sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1523,no fue perfecto pero resolvio lo importante para lo que necesitaba,positivo,augmented,v2_augmented
+1524,no fue perfecto pero resolvio lo importante con un cierre correcto,positivo,augmented,v2_augmented
+1525,no fue perfecto pero resolvio lo importante y pude continuar,positivo,augmented,v2_augmented
+1526,la espera fue aceptable porque cerraron el caso y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1527,la espera fue aceptable porque cerraron el caso sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1528,la espera fue aceptable porque cerraron el caso para lo que necesitaba,positivo,augmented,v2_augmented
+1529,la espera fue aceptable porque cerraron el caso con un cierre correcto,positivo,augmented,v2_augmented
+1530,la espera fue aceptable porque cerraron el caso y pude continuar,positivo,augmented,v2_augmented
+1531,me ayudo bastante aunque era algo breve y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1532,me ayudo bastante aunque era algo breve sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1533,me ayudo bastante aunque era algo breve para lo que necesitaba,positivo,augmented,v2_augmented
+1534,me ayudo bastante aunque era algo breve con un cierre correcto,positivo,augmented,v2_augmented
+1535,me ayudo bastante aunque era algo breve y pude continuar,positivo,augmented,v2_augmented
+1536,el proceso tuvo detalles pero termino bien y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1537,el proceso tuvo detalles pero termino bien sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1538,el proceso tuvo detalles pero termino bien para lo que necesitaba,positivo,augmented,v2_augmented
+1539,el proceso tuvo detalles pero termino bien con un cierre correcto,positivo,augmented,v2_augmented
+1540,el proceso tuvo detalles pero termino bien y pude continuar,positivo,augmented,v2_augmented
+1541,la atencion fue sencilla y util y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1542,la atencion fue sencilla y util sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1543,la atencion fue sencilla y util para lo que necesitaba,positivo,augmented,v2_augmented
+1544,la atencion fue sencilla y util con un cierre correcto,positivo,augmented,v2_augmented
+1545,la atencion fue sencilla y util y pude continuar,positivo,augmented,v2_augmented
+1546,pude terminar sin pedir mas ayuda y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1547,pude terminar sin pedir mas ayuda sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1548,pude terminar sin pedir mas ayuda para lo que necesitaba,positivo,augmented,v2_augmented
+1549,pude terminar sin pedir mas ayuda con un cierre correcto,positivo,augmented,v2_augmented
+1550,pude terminar sin pedir mas ayuda y pude continuar,positivo,augmented,v2_augmented
+1551,"la compra salio bien, cero drama y eso dejo una buena impresion",positivo,augmented,v2_augmented
+1552,"la compra salio bien, cero drama sin generar mas inconvenientes",positivo,augmented,v2_augmented
+1553,"la compra salio bien, cero drama para lo que necesitaba",positivo,augmented,v2_augmented
+1554,"la compra salio bien, cero drama con un cierre correcto",positivo,augmented,v2_augmented
+1555,"la compra salio bien, cero drama y pude continuar",positivo,augmented,v2_augmented
+1556,el producto cumplio incluso con dudas iniciales y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1557,el producto cumplio incluso con dudas iniciales sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1558,el producto cumplio incluso con dudas iniciales para lo que necesitaba,positivo,augmented,v2_augmented
+1559,el producto cumplio incluso con dudas iniciales con un cierre correcto,positivo,augmented,v2_augmented
+1560,el producto cumplio incluso con dudas iniciales y pude continuar,positivo,augmented,v2_augmented
+1561,la pagina estaba lenta pero dejo finalizar y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1562,la pagina estaba lenta pero dejo finalizar sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1563,la pagina estaba lenta pero dejo finalizar para lo que necesitaba,positivo,augmented,v2_augmented
+1564,la pagina estaba lenta pero dejo finalizar con un cierre correcto,positivo,augmented,v2_augmented
+1565,la pagina estaba lenta pero dejo finalizar y pude continuar,positivo,augmented,v2_augmented
+1566,la guia fue corta y aun asi clara y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1567,la guia fue corta y aun asi clara sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1568,la guia fue corta y aun asi clara para lo que necesitaba,positivo,augmented,v2_augmented
+1569,la guia fue corta y aun asi clara con un cierre correcto,positivo,augmented,v2_augmented
+1570,la guia fue corta y aun asi clara y pude continuar,positivo,augmented,v2_augmented
+1571,el pedido no llego rapido pero llego bien y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1572,el pedido no llego rapido pero llego bien sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1573,el pedido no llego rapido pero llego bien para lo que necesitaba,positivo,augmented,v2_augmented
+1574,el pedido no llego rapido pero llego bien con un cierre correcto,positivo,augmented,v2_augmented
+1575,el pedido no llego rapido pero llego bien y pude continuar,positivo,augmented,v2_augmented
+1576,la respuesta fue simple pero suficiente y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1577,la respuesta fue simple pero suficiente sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1578,la respuesta fue simple pero suficiente para lo que necesitaba,positivo,augmented,v2_augmented
+1579,la respuesta fue simple pero suficiente con un cierre correcto,positivo,augmented,v2_augmented
+1580,la respuesta fue simple pero suficiente y pude continuar,positivo,augmented,v2_augmented
+1581,no tuve que insistir para resolverlo y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1582,no tuve que insistir para resolverlo sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1583,no tuve que insistir para resolverlo para lo que necesitaba,positivo,augmented,v2_augmented
+1584,no tuve que insistir para resolverlo con un cierre correcto,positivo,augmented,v2_augmented
+1585,no tuve que insistir para resolverlo y pude continuar,positivo,augmented,v2_augmented
+1586,la herramienta me facilito el trabajo y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1587,la herramienta me facilito el trabajo sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1588,la herramienta me facilito el trabajo para lo que necesitaba,positivo,augmented,v2_augmented
+1589,la herramienta me facilito el trabajo con un cierre correcto,positivo,augmented,v2_augmented
+1590,la herramienta me facilito el trabajo y pude continuar,positivo,augmented,v2_augmented
+1591,el seguimiento fue tranquilo y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1592,el seguimiento fue tranquilo sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1593,el seguimiento fue tranquilo para lo que necesitaba,positivo,augmented,v2_augmented
+1594,el seguimiento fue tranquilo con un cierre correcto,positivo,augmented,v2_augmented
+1595,el seguimiento fue tranquilo y pude continuar,positivo,augmented,v2_augmented
+1596,la experiencia fue buena en general y eso dejo una buena impresion,positivo,augmented,v2_augmented
+1597,la experiencia fue buena en general sin generar mas inconvenientes,positivo,augmented,v2_augmented
+1598,la experiencia fue buena en general para lo que necesitaba,positivo,augmented,v2_augmented
+1599,la experiencia fue buena en general con un cierre correcto,positivo,augmented,v2_augmented
+1600,la experiencia fue buena en general y pude continuar,positivo,augmented,v2_augmented
+1601,el pedido sigue registrado sin valorar el resultado,neutral,augmented,v2_augmented
+1602,el pedido sigue registrado como dato informativo,neutral,augmented,v2_augmented
+1603,el pedido sigue registrado para seguimiento posterior,neutral,augmented,v2_augmented
+1604,el pedido sigue registrado sin comentario adicional,neutral,augmented,v2_augmented
+1605,el pedido sigue registrado en el panel actual,neutral,augmented,v2_augmented
+1606,la solicitud esta en revision sin valorar el resultado,neutral,augmented,v2_augmented
+1607,la solicitud esta en revision como dato informativo,neutral,augmented,v2_augmented
+1608,la solicitud esta en revision para seguimiento posterior,neutral,augmented,v2_augmented
+1609,la solicitud esta en revision sin comentario adicional,neutral,augmented,v2_augmented
+1610,la solicitud esta en revision en el panel actual,neutral,augmented,v2_augmented
+1611,el sistema muestra un estado sin valorar el resultado,neutral,augmented,v2_augmented
+1612,el sistema muestra un estado como dato informativo,neutral,augmented,v2_augmented
+1613,el sistema muestra un estado para seguimiento posterior,neutral,augmented,v2_augmented
+1614,el sistema muestra un estado sin comentario adicional,neutral,augmented,v2_augmented
+1615,el sistema muestra un estado en el panel actual,neutral,augmented,v2_augmented
+1616,la factura quedo disponible sin valorar el resultado,neutral,augmented,v2_augmented
+1617,la factura quedo disponible como dato informativo,neutral,augmented,v2_augmented
+1618,la factura quedo disponible para seguimiento posterior,neutral,augmented,v2_augmented
+1619,la factura quedo disponible sin comentario adicional,neutral,augmented,v2_augmented
+1620,la factura quedo disponible en el panel actual,neutral,augmented,v2_augmented
+1621,el documento aparece cargado sin valorar el resultado,neutral,augmented,v2_augmented
+1622,el documento aparece cargado como dato informativo,neutral,augmented,v2_augmented
+1623,el documento aparece cargado para seguimiento posterior,neutral,augmented,v2_augmented
+1624,el documento aparece cargado sin comentario adicional,neutral,augmented,v2_augmented
+1625,el documento aparece cargado en el panel actual,neutral,augmented,v2_augmented
+1626,la consulta fue enviada sin valorar el resultado,neutral,augmented,v2_augmented
+1627,la consulta fue enviada como dato informativo,neutral,augmented,v2_augmented
+1628,la consulta fue enviada para seguimiento posterior,neutral,augmented,v2_augmented
+1629,la consulta fue enviada sin comentario adicional,neutral,augmented,v2_augmented
+1630,la consulta fue enviada en el panel actual,neutral,augmented,v2_augmented
+1631,el reporte tiene datos generales sin valorar el resultado,neutral,augmented,v2_augmented
+1632,el reporte tiene datos generales como dato informativo,neutral,augmented,v2_augmented
+1633,el reporte tiene datos generales para seguimiento posterior,neutral,augmented,v2_augmented
+1634,el reporte tiene datos generales sin comentario adicional,neutral,augmented,v2_augmented
+1635,el reporte tiene datos generales en el panel actual,neutral,augmented,v2_augmented
+1636,la entrega figura en ruta sin valorar el resultado,neutral,augmented,v2_augmented
+1637,la entrega figura en ruta como dato informativo,neutral,augmented,v2_augmented
+1638,la entrega figura en ruta para seguimiento posterior,neutral,augmented,v2_augmented
+1639,la entrega figura en ruta sin comentario adicional,neutral,augmented,v2_augmented
+1640,la entrega figura en ruta en el panel actual,neutral,augmented,v2_augmented
+1641,la orden permanece abierta sin valorar el resultado,neutral,augmented,v2_augmented
+1642,la orden permanece abierta como dato informativo,neutral,augmented,v2_augmented
+1643,la orden permanece abierta para seguimiento posterior,neutral,augmented,v2_augmented
+1644,la orden permanece abierta sin comentario adicional,neutral,augmented,v2_augmented
+1645,la orden permanece abierta en el panel actual,neutral,augmented,v2_augmented
+1646,el mensaje quedo guardado sin valorar el resultado,neutral,augmented,v2_augmented
+1647,el mensaje quedo guardado como dato informativo,neutral,augmented,v2_augmented
+1648,el mensaje quedo guardado para seguimiento posterior,neutral,augmented,v2_augmented
+1649,el mensaje quedo guardado sin comentario adicional,neutral,augmented,v2_augmented
+1650,el mensaje quedo guardado en el panel actual,neutral,augmented,v2_augmented
+1651,la respuesta indica continuidad sin valorar el resultado,neutral,augmented,v2_augmented
+1652,la respuesta indica continuidad como dato informativo,neutral,augmented,v2_augmented
+1653,la respuesta indica continuidad para seguimiento posterior,neutral,augmented,v2_augmented
+1654,la respuesta indica continuidad sin comentario adicional,neutral,augmented,v2_augmented
+1655,la respuesta indica continuidad en el panel actual,neutral,augmented,v2_augmented
+1656,el producto tiene descripcion sin valorar el resultado,neutral,augmented,v2_augmented
+1657,el producto tiene descripcion como dato informativo,neutral,augmented,v2_augmented
+1658,el producto tiene descripcion para seguimiento posterior,neutral,augmented,v2_augmented
+1659,el producto tiene descripcion sin comentario adicional,neutral,augmented,v2_augmented
+1660,el producto tiene descripcion en el panel actual,neutral,augmented,v2_augmented
+1661,el tramite continua en proceso sin valorar el resultado,neutral,augmented,v2_augmented
+1662,el tramite continua en proceso como dato informativo,neutral,augmented,v2_augmented
+1663,el tramite continua en proceso para seguimiento posterior,neutral,augmented,v2_augmented
+1664,el tramite continua en proceso sin comentario adicional,neutral,augmented,v2_augmented
+1665,el tramite continua en proceso en el panel actual,neutral,augmented,v2_augmented
+1666,la pantalla muestra informacion sin valorar el resultado,neutral,augmented,v2_augmented
+1667,la pantalla muestra informacion como dato informativo,neutral,augmented,v2_augmented
+1668,la pantalla muestra informacion para seguimiento posterior,neutral,augmented,v2_augmented
+1669,la pantalla muestra informacion sin comentario adicional,neutral,augmented,v2_augmented
+1670,la pantalla muestra informacion en el panel actual,neutral,augmented,v2_augmented
+1671,el archivo esta disponible sin valorar el resultado,neutral,augmented,v2_augmented
+1672,el archivo esta disponible como dato informativo,neutral,augmented,v2_augmented
+1673,el archivo esta disponible para seguimiento posterior,neutral,augmented,v2_augmented
+1674,el archivo esta disponible sin comentario adicional,neutral,augmented,v2_augmented
+1675,el archivo esta disponible en el panel actual,neutral,augmented,v2_augmented
+1676,la consulta tiene prioridad normal sin valorar el resultado,neutral,augmented,v2_augmented
+1677,la consulta tiene prioridad normal como dato informativo,neutral,augmented,v2_augmented
+1678,la consulta tiene prioridad normal para seguimiento posterior,neutral,augmented,v2_augmented
+1679,la consulta tiene prioridad normal sin comentario adicional,neutral,augmented,v2_augmented
+1680,la consulta tiene prioridad normal en el panel actual,neutral,augmented,v2_augmented
+1681,el registro incluye fecha sin valorar el resultado,neutral,augmented,v2_augmented
+1682,el registro incluye fecha como dato informativo,neutral,augmented,v2_augmented
+1683,el registro incluye fecha para seguimiento posterior,neutral,augmented,v2_augmented
+1684,el registro incluye fecha sin comentario adicional,neutral,augmented,v2_augmented
+1685,el registro incluye fecha en el panel actual,neutral,augmented,v2_augmented
+1686,la notificacion fue emitida sin valorar el resultado,neutral,augmented,v2_augmented
+1687,la notificacion fue emitida como dato informativo,neutral,augmented,v2_augmented
+1688,la notificacion fue emitida para seguimiento posterior,neutral,augmented,v2_augmented
+1689,la notificacion fue emitida sin comentario adicional,neutral,augmented,v2_augmented
+1690,la notificacion fue emitida en el panel actual,neutral,augmented,v2_augmented
+1691,el caso queda para revision sin valorar el resultado,neutral,augmented,v2_augmented
+1692,el caso queda para revision como dato informativo,neutral,augmented,v2_augmented
+1693,el caso queda para revision para seguimiento posterior,neutral,augmented,v2_augmented
+1694,el caso queda para revision sin comentario adicional,neutral,augmented,v2_augmented
+1695,el caso queda para revision en el panel actual,neutral,augmented,v2_augmented
+1696,el formulario conserva los campos sin valorar el resultado,neutral,augmented,v2_augmented
+1697,el formulario conserva los campos como dato informativo,neutral,augmented,v2_augmented
+1698,el formulario conserva los campos para seguimiento posterior,neutral,augmented,v2_augmented
+1699,el formulario conserva los campos sin comentario adicional,neutral,augmented,v2_augmented
+1700,el formulario conserva los campos en el panel actual,neutral,augmented,v2_augmented
+1701,no me gusto como cerraron el caso y eso afecto la experiencia,negativo,augmented,v2_augmented
+1702,no me gusto como cerraron el caso sin una salida concreta,negativo,augmented,v2_augmented
+1703,no me gusto como cerraron el caso cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1704,no me gusto como cerraron el caso despues de varios intentos,negativo,augmented,v2_augmented
+1705,no me gusto como cerraron el caso con poca claridad,negativo,augmented,v2_augmented
+1706,la respuesta no aclaro lo importante y eso afecto la experiencia,negativo,augmented,v2_augmented
+1707,la respuesta no aclaro lo importante sin una salida concreta,negativo,augmented,v2_augmented
+1708,la respuesta no aclaro lo importante cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1709,la respuesta no aclaro lo importante despues de varios intentos,negativo,augmented,v2_augmented
+1710,la respuesta no aclaro lo importante con poca claridad,negativo,augmented,v2_augmented
+1711,el proceso fue confuso y lento y eso afecto la experiencia,negativo,augmented,v2_augmented
+1712,el proceso fue confuso y lento sin una salida concreta,negativo,augmented,v2_augmented
+1713,el proceso fue confuso y lento cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1714,el proceso fue confuso y lento despues de varios intentos,negativo,augmented,v2_augmented
+1715,el proceso fue confuso y lento con poca claridad,negativo,augmented,v2_augmented
+1716,la plataforma se trabo varias veces y eso afecto la experiencia,negativo,augmented,v2_augmented
+1717,la plataforma se trabo varias veces sin una salida concreta,negativo,augmented,v2_augmented
+1718,la plataforma se trabo varias veces cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1719,la plataforma se trabo varias veces despues de varios intentos,negativo,augmented,v2_augmented
+1720,la plataforma se trabo varias veces con poca claridad,negativo,augmented,v2_augmented
+1721,el soporte tardo y no soluciono y eso afecto la experiencia,negativo,augmented,v2_augmented
+1722,el soporte tardo y no soluciono sin una salida concreta,negativo,augmented,v2_augmented
+1723,el soporte tardo y no soluciono cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1724,el soporte tardo y no soluciono despues de varios intentos,negativo,augmented,v2_augmented
+1725,el soporte tardo y no soluciono con poca claridad,negativo,augmented,v2_augmented
+1726,el producto fallo al probarlo y eso afecto la experiencia,negativo,augmented,v2_augmented
+1727,el producto fallo al probarlo sin una salida concreta,negativo,augmented,v2_augmented
+1728,el producto fallo al probarlo cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1729,el producto fallo al probarlo despues de varios intentos,negativo,augmented,v2_augmented
+1730,el producto fallo al probarlo con poca claridad,negativo,augmented,v2_augmented
+1731,la informacion no coincidia y eso afecto la experiencia,negativo,augmented,v2_augmented
+1732,la informacion no coincidia sin una salida concreta,negativo,augmented,v2_augmented
+1733,la informacion no coincidia cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1734,la informacion no coincidia despues de varios intentos,negativo,augmented,v2_augmented
+1735,la informacion no coincidia con poca claridad,negativo,augmented,v2_augmented
+1736,la entrega llego incompleta y eso afecto la experiencia,negativo,augmented,v2_augmented
+1737,la entrega llego incompleta sin una salida concreta,negativo,augmented,v2_augmented
+1738,la entrega llego incompleta cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1739,la entrega llego incompleta despues de varios intentos,negativo,augmented,v2_augmented
+1740,la entrega llego incompleta con poca claridad,negativo,augmented,v2_augmented
+1741,el sistema perdio cambios y eso afecto la experiencia,negativo,augmented,v2_augmented
+1742,el sistema perdio cambios sin una salida concreta,negativo,augmented,v2_augmented
+1743,el sistema perdio cambios cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1744,el sistema perdio cambios despues de varios intentos,negativo,augmented,v2_augmented
+1745,el sistema perdio cambios con poca claridad,negativo,augmented,v2_augmented
+1746,la compra se volvio complicada y eso afecto la experiencia,negativo,augmented,v2_augmented
+1747,la compra se volvio complicada sin una salida concreta,negativo,augmented,v2_augmented
+1748,la compra se volvio complicada cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1749,la compra se volvio complicada despues de varios intentos,negativo,augmented,v2_augmented
+1750,la compra se volvio complicada con poca claridad,negativo,augmented,v2_augmented
+1751,la atencion fue fria y poco clara y eso afecto la experiencia,negativo,augmented,v2_augmented
+1752,la atencion fue fria y poco clara sin una salida concreta,negativo,augmented,v2_augmented
+1753,la atencion fue fria y poco clara cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1754,la atencion fue fria y poco clara despues de varios intentos,negativo,augmented,v2_augmented
+1755,la atencion fue fria y poco clara con poca claridad,negativo,augmented,v2_augmented
+1756,el reporte no mostro lo esperado y eso afecto la experiencia,negativo,augmented,v2_augmented
+1757,el reporte no mostro lo esperado sin una salida concreta,negativo,augmented,v2_augmented
+1758,el reporte no mostro lo esperado cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1759,el reporte no mostro lo esperado despues de varios intentos,negativo,augmented,v2_augmented
+1760,el reporte no mostro lo esperado con poca claridad,negativo,augmented,v2_augmented
+1761,la guia dejo dudas abiertas y eso afecto la experiencia,negativo,augmented,v2_augmented
+1762,la guia dejo dudas abiertas sin una salida concreta,negativo,augmented,v2_augmented
+1763,la guia dejo dudas abiertas cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1764,la guia dejo dudas abiertas despues de varios intentos,negativo,augmented,v2_augmented
+1765,la guia dejo dudas abiertas con poca claridad,negativo,augmented,v2_augmented
+1766,el tramite quedo detenido y eso afecto la experiencia,negativo,augmented,v2_augmented
+1767,el tramite quedo detenido sin una salida concreta,negativo,augmented,v2_augmented
+1768,el tramite quedo detenido cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1769,el tramite quedo detenido despues de varios intentos,negativo,augmented,v2_augmented
+1770,el tramite quedo detenido con poca claridad,negativo,augmented,v2_augmented
+1771,la respuesta llego tarde y eso afecto la experiencia,negativo,augmented,v2_augmented
+1772,la respuesta llego tarde sin una salida concreta,negativo,augmented,v2_augmented
+1773,la respuesta llego tarde cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1774,la respuesta llego tarde despues de varios intentos,negativo,augmented,v2_augmented
+1775,la respuesta llego tarde con poca claridad,negativo,augmented,v2_augmented
+1776,el servicio fue inestable y eso afecto la experiencia,negativo,augmented,v2_augmented
+1777,el servicio fue inestable sin una salida concreta,negativo,augmented,v2_augmented
+1778,el servicio fue inestable cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1779,el servicio fue inestable despues de varios intentos,negativo,augmented,v2_augmented
+1780,el servicio fue inestable con poca claridad,negativo,augmented,v2_augmented
+1781,el producto no cumplio lo basico y eso afecto la experiencia,negativo,augmented,v2_augmented
+1782,el producto no cumplio lo basico sin una salida concreta,negativo,augmented,v2_augmented
+1783,el producto no cumplio lo basico cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1784,el producto no cumplio lo basico despues de varios intentos,negativo,augmented,v2_augmented
+1785,el producto no cumplio lo basico con poca claridad,negativo,augmented,v2_augmented
+1786,la plataforma no dejo terminar y eso afecto la experiencia,negativo,augmented,v2_augmented
+1787,la plataforma no dejo terminar sin una salida concreta,negativo,augmented,v2_augmented
+1788,la plataforma no dejo terminar cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1789,la plataforma no dejo terminar despues de varios intentos,negativo,augmented,v2_augmented
+1790,la plataforma no dejo terminar con poca claridad,negativo,augmented,v2_augmented
+1791,la orientacion fue insuficiente y eso afecto la experiencia,negativo,augmented,v2_augmented
+1792,la orientacion fue insuficiente sin una salida concreta,negativo,augmented,v2_augmented
+1793,la orientacion fue insuficiente cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1794,la orientacion fue insuficiente despues de varios intentos,negativo,augmented,v2_augmented
+1795,la orientacion fue insuficiente con poca claridad,negativo,augmented,v2_augmented
+1796,el pedido tuvo retrasos repetidos y eso afecto la experiencia,negativo,augmented,v2_augmented
+1797,el pedido tuvo retrasos repetidos sin una salida concreta,negativo,augmented,v2_augmented
+1798,el pedido tuvo retrasos repetidos cuando mas lo necesitaba,negativo,augmented,v2_augmented
+1799,el pedido tuvo retrasos repetidos despues de varios intentos,negativo,augmented,v2_augmented
+1800,el pedido tuvo retrasos repetidos con poca claridad,negativo,augmented,v2_augmented
+1801,no fue terrible pero esperaba mas claridad y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1802,no fue terrible pero esperaba mas claridad para lo que necesitaba,negativo,augmented,v2_augmented
+1803,no fue terrible pero esperaba mas claridad despues de esperar bastante,negativo,augmented,v2_augmented
+1804,no fue terrible pero esperaba mas claridad sin una mejora clara,negativo,augmented,v2_augmented
+1805,no estuvo fatal pero me dejo dudas y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1806,no estuvo fatal pero me dejo dudas para lo que necesitaba,negativo,augmented,v2_augmented
+1807,no estuvo fatal pero me dejo dudas despues de esperar bastante,negativo,augmented,v2_augmented
+1808,no estuvo fatal pero me dejo dudas sin una mejora clara,negativo,augmented,v2_augmented
+1809,no fue un desastre aunque si resulto flojo y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1810,no fue un desastre aunque si resulto flojo para lo que necesitaba,negativo,augmented,v2_augmented
+1811,no fue un desastre aunque si resulto flojo despues de esperar bastante,negativo,augmented,v2_augmented
+1812,no fue un desastre aunque si resulto flojo sin una mejora clara,negativo,augmented,v2_augmented
+1813,pudo ser peor pero no resolvio lo importante y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1814,pudo ser peor pero no resolvio lo importante para lo que necesitaba,negativo,augmented,v2_augmented
+1815,pudo ser peor pero no resolvio lo importante despues de esperar bastante,negativo,augmented,v2_augmented
+1816,pudo ser peor pero no resolvio lo importante sin una mejora clara,negativo,augmented,v2_augmented
+1817,la respuesta sirvio poco y tarde y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1818,la respuesta sirvio poco y tarde para lo que necesitaba,negativo,augmented,v2_augmented
+1819,la respuesta sirvio poco y tarde despues de esperar bastante,negativo,augmented,v2_augmented
+1820,la respuesta sirvio poco y tarde sin una mejora clara,negativo,augmented,v2_augmented
+1821,el servicio fue correcto en forma pero no en fondo y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1822,el servicio fue correcto en forma pero no en fondo para lo que necesitaba,negativo,augmented,v2_augmented
+1823,el servicio fue correcto en forma pero no en fondo despues de esperar bastante,negativo,augmented,v2_augmented
+1824,el servicio fue correcto en forma pero no en fondo sin una mejora clara,negativo,augmented,v2_augmented
+1825,la entrega llego pero con detalles molestos y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1826,la entrega llego pero con detalles molestos para lo que necesitaba,negativo,augmented,v2_augmented
+1827,la entrega llego pero con detalles molestos despues de esperar bastante,negativo,augmented,v2_augmented
+1828,la entrega llego pero con detalles molestos sin una mejora clara,negativo,augmented,v2_augmented
+1829,el producto funciona a ratos y eso incomoda y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1830,el producto funciona a ratos y eso incomoda para lo que necesitaba,negativo,augmented,v2_augmented
+1831,el producto funciona a ratos y eso incomoda despues de esperar bastante,negativo,augmented,v2_augmented
+1832,el producto funciona a ratos y eso incomoda sin una mejora clara,negativo,augmented,v2_augmented
+1833,la atencion fue amable pero no soluciono y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1834,la atencion fue amable pero no soluciono para lo que necesitaba,negativo,augmented,v2_augmented
+1835,la atencion fue amable pero no soluciono despues de esperar bastante,negativo,augmented,v2_augmented
+1836,la atencion fue amable pero no soluciono sin una mejora clara,negativo,augmented,v2_augmented
+1837,el proceso avanzo pero demasiado lento y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1838,el proceso avanzo pero demasiado lento para lo que necesitaba,negativo,augmented,v2_augmented
+1839,el proceso avanzo pero demasiado lento despues de esperar bastante,negativo,augmented,v2_augmented
+1840,el proceso avanzo pero demasiado lento sin una mejora clara,negativo,augmented,v2_augmented
+1841,la plataforma abre pero se vuelve confusa y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1842,la plataforma abre pero se vuelve confusa para lo que necesitaba,negativo,augmented,v2_augmented
+1843,la plataforma abre pero se vuelve confusa despues de esperar bastante,negativo,augmented,v2_augmented
+1844,la plataforma abre pero se vuelve confusa sin una mejora clara,negativo,augmented,v2_augmented
+1845,la compra se completo aunque con varios tropiezos y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1846,la compra se completo aunque con varios tropiezos para lo que necesitaba,negativo,augmented,v2_augmented
+1847,la compra se completo aunque con varios tropiezos despues de esperar bastante,negativo,augmented,v2_augmented
+1848,la compra se completo aunque con varios tropiezos sin una mejora clara,negativo,augmented,v2_augmented
+1849,el reporte aparece pero no ayuda mucho y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1850,el reporte aparece pero no ayuda mucho para lo que necesitaba,negativo,augmented,v2_augmented
+1851,el reporte aparece pero no ayuda mucho despues de esperar bastante,negativo,augmented,v2_augmented
+1852,el reporte aparece pero no ayuda mucho sin una mejora clara,negativo,augmented,v2_augmented
+1853,la guia explica algo pero deja lo principal afuera y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1854,la guia explica algo pero deja lo principal afuera para lo que necesitaba,negativo,augmented,v2_augmented
+1855,la guia explica algo pero deja lo principal afuera despues de esperar bastante,negativo,augmented,v2_augmented
+1856,la guia explica algo pero deja lo principal afuera sin una mejora clara,negativo,augmented,v2_augmented
+1857,el soporte contesto pero sin resolver y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1858,el soporte contesto pero sin resolver para lo que necesitaba,negativo,augmented,v2_augmented
+1859,el soporte contesto pero sin resolver despues de esperar bastante,negativo,augmented,v2_augmented
+1860,el soporte contesto pero sin resolver sin una mejora clara,negativo,augmented,v2_augmented
+1861,el pedido llego pero no como esperaba y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1862,el pedido llego pero no como esperaba para lo que necesitaba,negativo,augmented,v2_augmented
+1863,el pedido llego pero no como esperaba despues de esperar bastante,negativo,augmented,v2_augmented
+1864,el pedido llego pero no como esperaba sin una mejora clara,negativo,augmented,v2_augmented
+1865,la informacion estaba pero no era suficiente y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1866,la informacion estaba pero no era suficiente para lo que necesitaba,negativo,augmented,v2_augmented
+1867,la informacion estaba pero no era suficiente despues de esperar bastante,negativo,augmented,v2_augmented
+1868,la informacion estaba pero no era suficiente sin una mejora clara,negativo,augmented,v2_augmented
+1869,el sistema guardo parte de los cambios y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1870,el sistema guardo parte de los cambios para lo que necesitaba,negativo,augmented,v2_augmented
+1871,el sistema guardo parte de los cambios despues de esperar bastante,negativo,augmented,v2_augmented
+1872,el sistema guardo parte de los cambios sin una mejora clara,negativo,augmented,v2_augmented
+1873,la experiencia no fue mala del todo pero decepciono y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1874,la experiencia no fue mala del todo pero decepciono para lo que necesitaba,negativo,augmented,v2_augmented
+1875,la experiencia no fue mala del todo pero decepciono despues de esperar bastante,negativo,augmented,v2_augmented
+1876,la experiencia no fue mala del todo pero decepciono sin una mejora clara,negativo,augmented,v2_augmented
+1877,la solucion quedo a medias y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1878,la solucion quedo a medias para lo que necesitaba,negativo,augmented,v2_augmented
+1879,la solucion quedo a medias despues de esperar bastante,negativo,augmented,v2_augmented
+1880,la solucion quedo a medias sin una mejora clara,negativo,augmented,v2_augmented
+1881,el tramite termino pero fue desgastante y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1882,el tramite termino pero fue desgastante para lo que necesitaba,negativo,augmented,v2_augmented
+1883,el tramite termino pero fue desgastante despues de esperar bastante,negativo,augmented,v2_augmented
+1884,el tramite termino pero fue desgastante sin una mejora clara,negativo,augmented,v2_augmented
+1885,la entrega cumplio tarde y con dudas y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1886,la entrega cumplio tarde y con dudas para lo que necesitaba,negativo,augmented,v2_augmented
+1887,la entrega cumplio tarde y con dudas despues de esperar bastante,negativo,augmented,v2_augmented
+1888,la entrega cumplio tarde y con dudas sin una mejora clara,negativo,augmented,v2_augmented
+1889,la respuesta fue educada pero poco util y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1890,la respuesta fue educada pero poco util para lo que necesitaba,negativo,augmented,v2_augmented
+1891,la respuesta fue educada pero poco util despues de esperar bastante,negativo,augmented,v2_augmented
+1892,la respuesta fue educada pero poco util sin una mejora clara,negativo,augmented,v2_augmented
+1893,el producto sirve pero se siente limitado y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1894,el producto sirve pero se siente limitado para lo que necesitaba,negativo,augmented,v2_augmented
+1895,el producto sirve pero se siente limitado despues de esperar bastante,negativo,augmented,v2_augmented
+1896,el producto sirve pero se siente limitado sin una mejora clara,negativo,augmented,v2_augmented
+1897,el servicio no fallo completo pero quedo corto y eso pesa en la experiencia,negativo,augmented,v2_augmented
+1898,el servicio no fallo completo pero quedo corto para lo que necesitaba,negativo,augmented,v2_augmented
+1899,el servicio no fallo completo pero quedo corto despues de esperar bastante,negativo,augmented,v2_augmented
+1900,el servicio no fallo completo pero quedo corto sin una mejora clara,negativo,augmented,v2_augmented
+1901,no fue perfecto pero me sirvio bastante,positivo,augmented,v2_augmented
+1902,la entrega demoro y aun asi llego bien,positivo,augmented,v2_augmented
+1903,tuvo detalles menores pero resolvio,positivo,augmented,v2_augmented
+1904,la respuesta fue breve pero suficiente,positivo,augmented,v2_augmented
+1905,el proceso empezo confuso y termino claro,positivo,augmented,v2_augmented
+1906,no me encanto todo pero cumplio,positivo,augmented,v2_augmented
+1907,la plataforma estaba lenta pero funciono,positivo,augmented,v2_augmented
+1908,el soporte tardo un poco pero ayudo,positivo,augmented,v2_augmented
+1909,el producto tenia detalles pero cumplio,positivo,augmented,v2_augmented
+1910,la compra fue regular al inicio y buena al final,positivo,augmented,v2_augmented
+1911,la guia no era larga pero si clara,positivo,augmented,v2_augmented
+1912,el pedido llego tarde pero completo,positivo,augmented,v2_augmented
+1913,la atencion fue simple y efectiva,positivo,augmented,v2_augmented
+1914,no tuve una gran experiencia pero salio bien,positivo,augmented,v2_augmented
+1915,el tramite tuvo pausas pero quedo resuelto,positivo,augmented,v2_augmented
+1916,la informacion era poca pero precisa,positivo,augmented,v2_augmented
+1917,el sistema se demoro pero guardo todo,positivo,augmented,v2_augmented
+1918,la solucion fue sencilla y funciono,positivo,augmented,v2_augmented
+1919,la respuesta aclaro lo necesario,positivo,augmented,v2_augmented
+1920,el servicio cerro bien el caso,positivo,augmented,v2_augmented
+1921,la experiencia mejoro al final,positivo,augmented,v2_augmented
+1922,el seguimiento fue suficiente,positivo,augmented,v2_augmented
+1923,el producto funciono mejor de lo esperado,positivo,augmented,v2_augmented
+1924,la entrega llego cuidada,positivo,augmented,v2_augmented
+1925,la herramienta ayudo con la tarea,positivo,augmented,v2_augmented
+1926,el pedido llego despues de la hora estimada,neutral,augmented,v2_augmented
+1927,la solicitud sigue abierta sin comentario adicional,neutral,augmented,v2_augmented
+1928,el sistema muestra un aviso de revision,neutral,augmented,v2_augmented
+1929,la factura quedo disponible despues del cierre,neutral,augmented,v2_augmented
+1930,el documento aparece con estado pendiente,neutral,augmented,v2_augmented
+1931,la consulta fue enviada nuevamente,neutral,augmented,v2_augmented
+1932,el reporte muestra datos parciales,neutral,augmented,v2_augmented
+1933,la entrega figura como reprogramada,neutral,augmented,v2_augmented
+1934,la orden permanece en seguimiento,neutral,augmented,v2_augmented
+1935,el mensaje quedo marcado para revision,neutral,augmented,v2_augmented
+1936,la respuesta indica que falta validacion,neutral,augmented,v2_augmented
+1937,el producto aparece con observaciones,neutral,augmented,v2_augmented
+1938,el tramite continua sin cambio visible,neutral,augmented,v2_augmented
+1939,la pantalla muestra una alerta informativa,neutral,augmented,v2_augmented
+1940,el archivo esta disponible con nota,neutral,augmented,v2_augmented
+1941,la consulta quedo en espera,neutral,augmented,v2_augmented
+1942,el registro incluye una actualizacion,neutral,augmented,v2_augmented
+1943,la entrega tiene nueva fecha,neutral,augmented,v2_augmented
+1944,el sistema genero un estado intermedio,neutral,augmented,v2_augmented
+1945,la solicitud fue recibida sin decision,neutral,augmented,v2_augmented
+1946,el producto sigue reservado,neutral,augmented,v2_augmented
+1947,la respuesta esta pendiente,neutral,augmented,v2_augmented
+1948,el reporte fue actualizado parcialmente,neutral,augmented,v2_augmented
+1949,la informacion queda para revision,neutral,augmented,v2_augmented
+1950,el caso sigue abierto,neutral,augmented,v2_augmented
