@@ -1,0 +1,60 @@
+{
+  "generated_at_utc": "2026-04-27T05:55:09.598914+00:00",
+  "train_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_curated_1500.csv",
+  "realistic_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_realistic_validation.csv",
+  "train_records": 1500,
+  "realistic_records": 300,
+  "realistic_distribution": {
+    "negativo": 100,
+    "neutral": 100,
+    "positivo": 100
+  },
+  "references": {
+    "v2_300": {
+      "f1": 0.622983,
+      "nota": "baseline interno 300"
+    },
+    "v2_1500_sintetico_externo": {
+      "f1": 0.735499,
+      "nota": "validacion externa previa"
+    },
+    "v2_curated_externo": {
+      "f1": 0.932261,
+      "nota": "validacion externa curated"
+    }
+  },
+  "realistic_metrics": {
+    "accuracy": 0.746667,
+    "precision_ponderada": 0.768151,
+    "recall_ponderado": 0.746667,
+    "f1_ponderado": 0.737524,
+    "matriz_confusion": [
+      [
+        53,
+        15,
+        32
+      ],
+      [
+        2,
+        95,
+        3
+      ],
+      [
+        5,
+        19,
+        76
+      ]
+    ],
+    "labels_matriz_confusion": [
+      "negativo",
+      "neutral",
+      "positivo"
+    ]
+  },
+  "decision": "No integrar. Se debe mejorar el dataset antes de promover el modelo.",
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_curated_realistic.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_curated_realistic.md",
+    "predicciones_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\predicciones_modelo_v2_curated_realistic.csv"
+  }
+}

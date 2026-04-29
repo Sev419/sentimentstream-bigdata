@@ -254,6 +254,11 @@ Reportes principales:
 - `reporte_dashboard_powerbi.md`
 - `reporte_jenkins_pipeline.md`
 - `reporte_preparacion_github.md`
+- `reporte_consolidado_mejora_dataset_v2.md`
+- `reporte_validacion_documental_final.md`
+- `guia_visualizacion_temporal_powerbi.md`
+- `guia_demo_jenkins.md`
+- `guion_video_final.md`
 
 ## Plan De Mejora Experimental Del Dataset
 
@@ -293,6 +298,14 @@ data/experiments/dataset_v2/
 |-- reports/
 `-- README.md
 ```
+
+Los scripts asociados a esta fase se mantienen en:
+
+```text
+spark/experiments/
+```
+
+Esta zona contiene datasets, auditorias, entrenamientos y evaluaciones de validacion realistic. No alimenta el pipeline productivo.
 
 ### Reglas De Proteccion
 
@@ -432,6 +445,16 @@ La mejor referencia experimental actual es `v2_augmented_1800`, con F1 realistic
 La version `v2_focused_negative_1950` no se adopta porque no mejoro frente a `v2_augmented_1800`: obtuvo F1 realistic de `0.781374` y recall negativo de `0.64`.
 
 El pipeline productivo sigue siendo la version estable de SentimentStream. Ningun dataset ni modelo experimental debe reemplazar componentes actuales hasta cumplir criterios de generalizacion mas robustos.
+
+Resumen de versiones evaluadas:
+
+| Version | Resultado principal | Decision |
+| --- | ---: | --- |
+| `v2_300` | F1 `0.622983` | Superada por versiones posteriores |
+| `v2_1500` sintetico | F1 externo `0.735499` | No integrar por riesgo de sobreajuste |
+| `v2_curated_1500` | F1 realistic `0.737524` | Mejora parcial |
+| `v2_augmented_1800` | F1 realistic `0.792533` | Mejor referencia experimental actual |
+| `v2_focused_negative_1950` | F1 realistic `0.781374` | No se adopta frente a `v2_augmented_1800` |
 
 ### Integracion Controlada
 

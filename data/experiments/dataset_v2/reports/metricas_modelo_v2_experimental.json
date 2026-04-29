@@ -1,0 +1,92 @@
+{
+  "generated_at_utc": "2026-04-27T05:18:40.895318+00:00",
+  "input_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_labeled_300.csv",
+  "total_registros": 300,
+  "train_registros": 240,
+  "test_registros": 60,
+  "estratificacion": true,
+  "distribucion_total": {
+    "negativo": 100,
+    "neutral": 100,
+    "positivo": 100
+  },
+  "distribucion_train": {
+    "negativo": 80,
+    "neutral": 80,
+    "positivo": 80
+  },
+  "distribucion_test": {
+    "negativo": 20,
+    "neutral": 20,
+    "positivo": 20
+  },
+  "baseline_v1": {
+    "filas_usadas": 30,
+    "accuracy": 0.111111,
+    "f1_ponderado": 0.066667
+  },
+  "modelos": {
+    "naive_bayes": {
+      "accuracy": 0.616667,
+      "precision_ponderada": 0.634697,
+      "recall_ponderado": 0.616667,
+      "f1_ponderado": 0.622983,
+      "matriz_confusion": [
+        [
+          12,
+          0,
+          8
+        ],
+        [
+          3,
+          15,
+          2
+        ],
+        [
+          8,
+          2,
+          10
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    },
+    "logistic_regression": {
+      "accuracy": 0.616667,
+      "precision_ponderada": 0.632767,
+      "recall_ponderado": 0.616667,
+      "f1_ponderado": 0.620642,
+      "matriz_confusion": [
+        [
+          9,
+          0,
+          11
+        ],
+        [
+          2,
+          16,
+          2
+        ],
+        [
+          6,
+          2,
+          12
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    }
+  },
+  "mejor_modelo": "naive_bayes",
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_experimental.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_experimental.md",
+    "predicciones_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\predicciones_modelo_v2_experimental.csv"
+  }
+}

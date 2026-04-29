@@ -1,0 +1,1501 @@
+id,texto,sentimiento,fuente,version
+1,El servicio fue excelente y clara,positivo,manual,v2
+2,El servicio funciono de manera correcta,positivo,manual,v2
+3,El servicio supero las expectativas,positivo,manual,v2
+4,El servicio resulto muy satisfactoria,positivo,manual,v2
+5,El servicio fue rapida y ordenada,positivo,manual,v2
+6,El servicio cumplio lo prometido,positivo,manual,v2
+7,El servicio se completo sin inconvenientes,positivo,manual,v2
+8,El servicio fue facil de entender,positivo,manual,v2
+9,El servicio ofrecio una solucion util,positivo,manual,v2
+10,El servicio mantuvo buena calidad,positivo,manual,v2
+11,El servicio fue precisa y oportuna,positivo,manual,v2
+12,El servicio ayudo a resolver la duda,positivo,manual,v2
+13,El servicio se desarrollo con eficiencia,positivo,manual,v2
+14,El servicio dejo una buena impresion,positivo,manual,v2
+15,El servicio fue confiable durante el uso,positivo,manual,v2
+16,El servicio respondio de forma adecuada,positivo,manual,v2
+17,El servicio mejoro la experiencia general,positivo,manual,v2
+18,El servicio fue amable y profesional,positivo,manual,v2
+19,El servicio permitio avanzar sin problemas,positivo,manual,v2
+20,El servicio tuvo un resultado positivo,positivo,manual,v2
+21,El servicio llego en buen estado,positivo,manual,v2
+22,El servicio se gestiono correctamente,positivo,manual,v2
+23,El servicio fue simple y practica,positivo,manual,v2
+24,El servicio entrego informacion completa,positivo,manual,v2
+25,El servicio mostro un desempeno estable,positivo,manual,v2
+26,La atencion fue excelente y clara,positivo,manual,v2
+27,La atencion funciono de manera correcta,positivo,manual,v2
+28,La atencion supero las expectativas,positivo,manual,v2
+29,La atencion resulto muy satisfactoria,positivo,manual,v2
+30,La atencion fue rapida y ordenada,positivo,manual,v2
+31,La atencion cumplio lo prometido,positivo,manual,v2
+32,La atencion se completo sin inconvenientes,positivo,manual,v2
+33,La atencion fue facil de entender,positivo,manual,v2
+34,La atencion ofrecio una solucion util,positivo,manual,v2
+35,La atencion mantuvo buena calidad,positivo,manual,v2
+36,La atencion fue precisa y oportuna,positivo,manual,v2
+37,La atencion ayudo a resolver la duda,positivo,manual,v2
+38,La atencion se desarrollo con eficiencia,positivo,manual,v2
+39,La atencion dejo una buena impresion,positivo,manual,v2
+40,La atencion fue confiable durante el uso,positivo,manual,v2
+41,La atencion respondio de forma adecuada,positivo,manual,v2
+42,La atencion mejoro la experiencia general,positivo,manual,v2
+43,La atencion fue amable y profesional,positivo,manual,v2
+44,La atencion permitio avanzar sin problemas,positivo,manual,v2
+45,La atencion tuvo un resultado positivo,positivo,manual,v2
+46,La atencion llego en buen estado,positivo,manual,v2
+47,La atencion se gestiono correctamente,positivo,manual,v2
+48,La atencion fue simple y practica,positivo,manual,v2
+49,La atencion entrego informacion completa,positivo,manual,v2
+50,La atencion mostro un desempeno estable,positivo,manual,v2
+51,El producto fue excelente y clara,positivo,manual,v2
+52,El producto funciono de manera correcta,positivo,manual,v2
+53,El producto supero las expectativas,positivo,manual,v2
+54,El producto resulto muy satisfactoria,positivo,manual,v2
+55,El producto fue rapida y ordenada,positivo,manual,v2
+56,El producto cumplio lo prometido,positivo,manual,v2
+57,El producto se completo sin inconvenientes,positivo,manual,v2
+58,El producto fue facil de entender,positivo,manual,v2
+59,El producto ofrecio una solucion util,positivo,manual,v2
+60,El producto mantuvo buena calidad,positivo,manual,v2
+61,El producto fue precisa y oportuna,positivo,manual,v2
+62,El producto ayudo a resolver la duda,positivo,manual,v2
+63,El producto se desarrollo con eficiencia,positivo,manual,v2
+64,El producto dejo una buena impresion,positivo,manual,v2
+65,El producto fue confiable durante el uso,positivo,manual,v2
+66,El producto respondio de forma adecuada,positivo,manual,v2
+67,El producto mejoro la experiencia general,positivo,manual,v2
+68,El producto fue amable y profesional,positivo,manual,v2
+69,El producto permitio avanzar sin problemas,positivo,manual,v2
+70,El producto tuvo un resultado positivo,positivo,manual,v2
+71,El producto llego en buen estado,positivo,manual,v2
+72,El producto se gestiono correctamente,positivo,manual,v2
+73,El producto fue simple y practica,positivo,manual,v2
+74,El producto entrego informacion completa,positivo,manual,v2
+75,El producto mostro un desempeno estable,positivo,manual,v2
+76,La entrega fue excelente y clara,positivo,manual,v2
+77,La entrega funciono de manera correcta,positivo,manual,v2
+78,La entrega supero las expectativas,positivo,manual,v2
+79,La entrega resulto muy satisfactoria,positivo,manual,v2
+80,La entrega fue rapida y ordenada,positivo,manual,v2
+81,La entrega cumplio lo prometido,positivo,manual,v2
+82,La entrega se completo sin inconvenientes,positivo,manual,v2
+83,La entrega fue facil de entender,positivo,manual,v2
+84,La entrega ofrecio una solucion util,positivo,manual,v2
+85,La entrega mantuvo buena calidad,positivo,manual,v2
+86,La entrega fue precisa y oportuna,positivo,manual,v2
+87,La entrega ayudo a resolver la duda,positivo,manual,v2
+88,La entrega se desarrollo con eficiencia,positivo,manual,v2
+89,La entrega dejo una buena impresion,positivo,manual,v2
+90,La entrega fue confiable durante el uso,positivo,manual,v2
+91,La entrega respondio de forma adecuada,positivo,manual,v2
+92,La entrega mejoro la experiencia general,positivo,manual,v2
+93,La entrega fue amable y profesional,positivo,manual,v2
+94,La entrega permitio avanzar sin problemas,positivo,manual,v2
+95,La entrega tuvo un resultado positivo,positivo,manual,v2
+96,La entrega llego en buen estado,positivo,manual,v2
+97,La entrega se gestiono correctamente,positivo,manual,v2
+98,La entrega fue simple y practica,positivo,manual,v2
+99,La entrega entrego informacion completa,positivo,manual,v2
+100,La entrega mostro un desempeno estable,positivo,manual,v2
+101,El soporte fue excelente y clara,positivo,manual,v2
+102,El soporte funciono de manera correcta,positivo,manual,v2
+103,El soporte supero las expectativas,positivo,manual,v2
+104,El soporte resulto muy satisfactoria,positivo,manual,v2
+105,El soporte fue rapida y ordenada,positivo,manual,v2
+106,El soporte cumplio lo prometido,positivo,manual,v2
+107,El soporte se completo sin inconvenientes,positivo,manual,v2
+108,El soporte fue facil de entender,positivo,manual,v2
+109,El soporte ofrecio una solucion util,positivo,manual,v2
+110,El soporte mantuvo buena calidad,positivo,manual,v2
+111,El soporte fue precisa y oportuna,positivo,manual,v2
+112,El soporte ayudo a resolver la duda,positivo,manual,v2
+113,El soporte se desarrollo con eficiencia,positivo,manual,v2
+114,El soporte dejo una buena impresion,positivo,manual,v2
+115,El soporte fue confiable durante el uso,positivo,manual,v2
+116,El soporte respondio de forma adecuada,positivo,manual,v2
+117,El soporte mejoro la experiencia general,positivo,manual,v2
+118,El soporte fue amable y profesional,positivo,manual,v2
+119,El soporte permitio avanzar sin problemas,positivo,manual,v2
+120,El soporte tuvo un resultado positivo,positivo,manual,v2
+121,El soporte llego en buen estado,positivo,manual,v2
+122,El soporte se gestiono correctamente,positivo,manual,v2
+123,El soporte fue simple y practica,positivo,manual,v2
+124,El soporte entrego informacion completa,positivo,manual,v2
+125,El soporte mostro un desempeno estable,positivo,manual,v2
+126,La plataforma fue excelente y clara,positivo,manual,v2
+127,La plataforma funciono de manera correcta,positivo,manual,v2
+128,La plataforma supero las expectativas,positivo,manual,v2
+129,La plataforma resulto muy satisfactoria,positivo,manual,v2
+130,La plataforma fue rapida y ordenada,positivo,manual,v2
+131,La plataforma cumplio lo prometido,positivo,manual,v2
+132,La plataforma se completo sin inconvenientes,positivo,manual,v2
+133,La plataforma fue facil de entender,positivo,manual,v2
+134,La plataforma ofrecio una solucion util,positivo,manual,v2
+135,La plataforma mantuvo buena calidad,positivo,manual,v2
+136,La plataforma fue precisa y oportuna,positivo,manual,v2
+137,La plataforma ayudo a resolver la duda,positivo,manual,v2
+138,La plataforma se desarrollo con eficiencia,positivo,manual,v2
+139,La plataforma dejo una buena impresion,positivo,manual,v2
+140,La plataforma fue confiable durante el uso,positivo,manual,v2
+141,La plataforma respondio de forma adecuada,positivo,manual,v2
+142,La plataforma mejoro la experiencia general,positivo,manual,v2
+143,La plataforma fue amable y profesional,positivo,manual,v2
+144,La plataforma permitio avanzar sin problemas,positivo,manual,v2
+145,La plataforma tuvo un resultado positivo,positivo,manual,v2
+146,La plataforma llego en buen estado,positivo,manual,v2
+147,La plataforma se gestiono correctamente,positivo,manual,v2
+148,La plataforma fue simple y practica,positivo,manual,v2
+149,La plataforma entrego informacion completa,positivo,manual,v2
+150,La plataforma mostro un desempeno estable,positivo,manual,v2
+151,El sistema fue excelente y clara,positivo,manual,v2
+152,El sistema funciono de manera correcta,positivo,manual,v2
+153,El sistema supero las expectativas,positivo,manual,v2
+154,El sistema resulto muy satisfactoria,positivo,manual,v2
+155,El sistema fue rapida y ordenada,positivo,manual,v2
+156,El sistema cumplio lo prometido,positivo,manual,v2
+157,El sistema se completo sin inconvenientes,positivo,manual,v2
+158,El sistema fue facil de entender,positivo,manual,v2
+159,El sistema ofrecio una solucion util,positivo,manual,v2
+160,El sistema mantuvo buena calidad,positivo,manual,v2
+161,El sistema fue precisa y oportuna,positivo,manual,v2
+162,El sistema ayudo a resolver la duda,positivo,manual,v2
+163,El sistema se desarrollo con eficiencia,positivo,manual,v2
+164,El sistema dejo una buena impresion,positivo,manual,v2
+165,El sistema fue confiable durante el uso,positivo,manual,v2
+166,El sistema respondio de forma adecuada,positivo,manual,v2
+167,El sistema mejoro la experiencia general,positivo,manual,v2
+168,El sistema fue amable y profesional,positivo,manual,v2
+169,El sistema permitio avanzar sin problemas,positivo,manual,v2
+170,El sistema tuvo un resultado positivo,positivo,manual,v2
+171,El sistema llego en buen estado,positivo,manual,v2
+172,El sistema se gestiono correctamente,positivo,manual,v2
+173,El sistema fue simple y practica,positivo,manual,v2
+174,El sistema entrego informacion completa,positivo,manual,v2
+175,El sistema mostro un desempeno estable,positivo,manual,v2
+176,La compra fue excelente y clara,positivo,manual,v2
+177,La compra funciono de manera correcta,positivo,manual,v2
+178,La compra supero las expectativas,positivo,manual,v2
+179,La compra resulto muy satisfactoria,positivo,manual,v2
+180,La compra fue rapida y ordenada,positivo,manual,v2
+181,La compra cumplio lo prometido,positivo,manual,v2
+182,La compra se completo sin inconvenientes,positivo,manual,v2
+183,La compra fue facil de entender,positivo,manual,v2
+184,La compra ofrecio una solucion util,positivo,manual,v2
+185,La compra mantuvo buena calidad,positivo,manual,v2
+186,La compra fue precisa y oportuna,positivo,manual,v2
+187,La compra ayudo a resolver la duda,positivo,manual,v2
+188,La compra se desarrollo con eficiencia,positivo,manual,v2
+189,La compra dejo una buena impresion,positivo,manual,v2
+190,La compra fue confiable durante el uso,positivo,manual,v2
+191,La compra respondio de forma adecuada,positivo,manual,v2
+192,La compra mejoro la experiencia general,positivo,manual,v2
+193,La compra fue amable y profesional,positivo,manual,v2
+194,La compra permitio avanzar sin problemas,positivo,manual,v2
+195,La compra tuvo un resultado positivo,positivo,manual,v2
+196,La compra llego en buen estado,positivo,manual,v2
+197,La compra se gestiono correctamente,positivo,manual,v2
+198,La compra fue simple y practica,positivo,manual,v2
+199,La compra entrego informacion completa,positivo,manual,v2
+200,La compra mostro un desempeno estable,positivo,manual,v2
+201,El proceso fue excelente y clara,positivo,manual,v2
+202,El proceso funciono de manera correcta,positivo,manual,v2
+203,El proceso supero las expectativas,positivo,manual,v2
+204,El proceso resulto muy satisfactoria,positivo,manual,v2
+205,El proceso fue rapida y ordenada,positivo,manual,v2
+206,El proceso cumplio lo prometido,positivo,manual,v2
+207,El proceso se completo sin inconvenientes,positivo,manual,v2
+208,El proceso fue facil de entender,positivo,manual,v2
+209,El proceso ofrecio una solucion util,positivo,manual,v2
+210,El proceso mantuvo buena calidad,positivo,manual,v2
+211,El proceso fue precisa y oportuna,positivo,manual,v2
+212,El proceso ayudo a resolver la duda,positivo,manual,v2
+213,El proceso se desarrollo con eficiencia,positivo,manual,v2
+214,El proceso dejo una buena impresion,positivo,manual,v2
+215,El proceso fue confiable durante el uso,positivo,manual,v2
+216,El proceso respondio de forma adecuada,positivo,manual,v2
+217,El proceso mejoro la experiencia general,positivo,manual,v2
+218,El proceso fue amable y profesional,positivo,manual,v2
+219,El proceso permitio avanzar sin problemas,positivo,manual,v2
+220,El proceso tuvo un resultado positivo,positivo,manual,v2
+221,El proceso llego en buen estado,positivo,manual,v2
+222,El proceso se gestiono correctamente,positivo,manual,v2
+223,El proceso fue simple y practica,positivo,manual,v2
+224,El proceso entrego informacion completa,positivo,manual,v2
+225,El proceso mostro un desempeno estable,positivo,manual,v2
+226,La informacion fue excelente y clara,positivo,manual,v2
+227,La informacion funciono de manera correcta,positivo,manual,v2
+228,La informacion supero las expectativas,positivo,manual,v2
+229,La informacion resulto muy satisfactoria,positivo,manual,v2
+230,La informacion fue rapida y ordenada,positivo,manual,v2
+231,La informacion cumplio lo prometido,positivo,manual,v2
+232,La informacion se completo sin inconvenientes,positivo,manual,v2
+233,La informacion fue facil de entender,positivo,manual,v2
+234,La informacion ofrecio una solucion util,positivo,manual,v2
+235,La informacion mantuvo buena calidad,positivo,manual,v2
+236,La informacion fue precisa y oportuna,positivo,manual,v2
+237,La informacion ayudo a resolver la duda,positivo,manual,v2
+238,La informacion se desarrollo con eficiencia,positivo,manual,v2
+239,La informacion dejo una buena impresion,positivo,manual,v2
+240,La informacion fue confiable durante el uso,positivo,manual,v2
+241,La informacion respondio de forma adecuada,positivo,manual,v2
+242,La informacion mejoro la experiencia general,positivo,manual,v2
+243,La informacion fue amable y profesional,positivo,manual,v2
+244,La informacion permitio avanzar sin problemas,positivo,manual,v2
+245,La informacion tuvo un resultado positivo,positivo,manual,v2
+246,La informacion llego en buen estado,positivo,manual,v2
+247,La informacion se gestiono correctamente,positivo,manual,v2
+248,La informacion fue simple y practica,positivo,manual,v2
+249,La informacion entrego informacion completa,positivo,manual,v2
+250,La informacion mostro un desempeno estable,positivo,manual,v2
+251,La respuesta fue excelente y clara,positivo,manual,v2
+252,La respuesta funciono de manera correcta,positivo,manual,v2
+253,La respuesta supero las expectativas,positivo,manual,v2
+254,La respuesta resulto muy satisfactoria,positivo,manual,v2
+255,La respuesta fue rapida y ordenada,positivo,manual,v2
+256,La respuesta cumplio lo prometido,positivo,manual,v2
+257,La respuesta se completo sin inconvenientes,positivo,manual,v2
+258,La respuesta fue facil de entender,positivo,manual,v2
+259,La respuesta ofrecio una solucion util,positivo,manual,v2
+260,La respuesta mantuvo buena calidad,positivo,manual,v2
+261,La respuesta fue precisa y oportuna,positivo,manual,v2
+262,La respuesta ayudo a resolver la duda,positivo,manual,v2
+263,La respuesta se desarrollo con eficiencia,positivo,manual,v2
+264,La respuesta dejo una buena impresion,positivo,manual,v2
+265,La respuesta fue confiable durante el uso,positivo,manual,v2
+266,La respuesta respondio de forma adecuada,positivo,manual,v2
+267,La respuesta mejoro la experiencia general,positivo,manual,v2
+268,La respuesta fue amable y profesional,positivo,manual,v2
+269,La respuesta permitio avanzar sin problemas,positivo,manual,v2
+270,La respuesta tuvo un resultado positivo,positivo,manual,v2
+271,La respuesta llego en buen estado,positivo,manual,v2
+272,La respuesta se gestiono correctamente,positivo,manual,v2
+273,La respuesta fue simple y practica,positivo,manual,v2
+274,La respuesta entrego informacion completa,positivo,manual,v2
+275,La respuesta mostro un desempeno estable,positivo,manual,v2
+276,El tramite fue excelente y clara,positivo,manual,v2
+277,El tramite funciono de manera correcta,positivo,manual,v2
+278,El tramite supero las expectativas,positivo,manual,v2
+279,El tramite resulto muy satisfactoria,positivo,manual,v2
+280,El tramite fue rapida y ordenada,positivo,manual,v2
+281,El tramite cumplio lo prometido,positivo,manual,v2
+282,El tramite se completo sin inconvenientes,positivo,manual,v2
+283,El tramite fue facil de entender,positivo,manual,v2
+284,El tramite ofrecio una solucion util,positivo,manual,v2
+285,El tramite mantuvo buena calidad,positivo,manual,v2
+286,El tramite fue precisa y oportuna,positivo,manual,v2
+287,El tramite ayudo a resolver la duda,positivo,manual,v2
+288,El tramite se desarrollo con eficiencia,positivo,manual,v2
+289,El tramite dejo una buena impresion,positivo,manual,v2
+290,El tramite fue confiable durante el uso,positivo,manual,v2
+291,El tramite respondio de forma adecuada,positivo,manual,v2
+292,El tramite mejoro la experiencia general,positivo,manual,v2
+293,El tramite fue amable y profesional,positivo,manual,v2
+294,El tramite permitio avanzar sin problemas,positivo,manual,v2
+295,El tramite tuvo un resultado positivo,positivo,manual,v2
+296,El tramite llego en buen estado,positivo,manual,v2
+297,El tramite se gestiono correctamente,positivo,manual,v2
+298,El tramite fue simple y practica,positivo,manual,v2
+299,El tramite entrego informacion completa,positivo,manual,v2
+300,El tramite mostro un desempeno estable,positivo,manual,v2
+301,La herramienta fue excelente y clara,positivo,manual,v2
+302,La herramienta funciono de manera correcta,positivo,manual,v2
+303,La herramienta supero las expectativas,positivo,manual,v2
+304,La herramienta resulto muy satisfactoria,positivo,manual,v2
+305,La herramienta fue rapida y ordenada,positivo,manual,v2
+306,La herramienta cumplio lo prometido,positivo,manual,v2
+307,La herramienta se completo sin inconvenientes,positivo,manual,v2
+308,La herramienta fue facil de entender,positivo,manual,v2
+309,La herramienta ofrecio una solucion util,positivo,manual,v2
+310,La herramienta mantuvo buena calidad,positivo,manual,v2
+311,La herramienta fue precisa y oportuna,positivo,manual,v2
+312,La herramienta ayudo a resolver la duda,positivo,manual,v2
+313,La herramienta se desarrollo con eficiencia,positivo,manual,v2
+314,La herramienta dejo una buena impresion,positivo,manual,v2
+315,La herramienta fue confiable durante el uso,positivo,manual,v2
+316,La herramienta respondio de forma adecuada,positivo,manual,v2
+317,La herramienta mejoro la experiencia general,positivo,manual,v2
+318,La herramienta fue amable y profesional,positivo,manual,v2
+319,La herramienta permitio avanzar sin problemas,positivo,manual,v2
+320,La herramienta tuvo un resultado positivo,positivo,manual,v2
+321,La herramienta llego en buen estado,positivo,manual,v2
+322,La herramienta se gestiono correctamente,positivo,manual,v2
+323,La herramienta fue simple y practica,positivo,manual,v2
+324,La herramienta entrego informacion completa,positivo,manual,v2
+325,La herramienta mostro un desempeno estable,positivo,manual,v2
+326,El pedido fue excelente y clara,positivo,manual,v2
+327,El pedido funciono de manera correcta,positivo,manual,v2
+328,El pedido supero las expectativas,positivo,manual,v2
+329,El pedido resulto muy satisfactoria,positivo,manual,v2
+330,El pedido fue rapida y ordenada,positivo,manual,v2
+331,El pedido cumplio lo prometido,positivo,manual,v2
+332,El pedido se completo sin inconvenientes,positivo,manual,v2
+333,El pedido fue facil de entender,positivo,manual,v2
+334,El pedido ofrecio una solucion util,positivo,manual,v2
+335,El pedido mantuvo buena calidad,positivo,manual,v2
+336,El pedido fue precisa y oportuna,positivo,manual,v2
+337,El pedido ayudo a resolver la duda,positivo,manual,v2
+338,El pedido se desarrollo con eficiencia,positivo,manual,v2
+339,El pedido dejo una buena impresion,positivo,manual,v2
+340,El pedido fue confiable durante el uso,positivo,manual,v2
+341,El pedido respondio de forma adecuada,positivo,manual,v2
+342,El pedido mejoro la experiencia general,positivo,manual,v2
+343,El pedido fue amable y profesional,positivo,manual,v2
+344,El pedido permitio avanzar sin problemas,positivo,manual,v2
+345,El pedido tuvo un resultado positivo,positivo,manual,v2
+346,El pedido llego en buen estado,positivo,manual,v2
+347,El pedido se gestiono correctamente,positivo,manual,v2
+348,El pedido fue simple y practica,positivo,manual,v2
+349,El pedido entrego informacion completa,positivo,manual,v2
+350,El pedido mostro un desempeno estable,positivo,manual,v2
+351,La experiencia fue excelente y clara,positivo,manual,v2
+352,La experiencia funciono de manera correcta,positivo,manual,v2
+353,La experiencia supero las expectativas,positivo,manual,v2
+354,La experiencia resulto muy satisfactoria,positivo,manual,v2
+355,La experiencia fue rapida y ordenada,positivo,manual,v2
+356,La experiencia cumplio lo prometido,positivo,manual,v2
+357,La experiencia se completo sin inconvenientes,positivo,manual,v2
+358,La experiencia fue facil de entender,positivo,manual,v2
+359,La experiencia ofrecio una solucion util,positivo,manual,v2
+360,La experiencia mantuvo buena calidad,positivo,manual,v2
+361,La experiencia fue precisa y oportuna,positivo,manual,v2
+362,La experiencia ayudo a resolver la duda,positivo,manual,v2
+363,La experiencia se desarrollo con eficiencia,positivo,manual,v2
+364,La experiencia dejo una buena impresion,positivo,manual,v2
+365,La experiencia fue confiable durante el uso,positivo,manual,v2
+366,La experiencia respondio de forma adecuada,positivo,manual,v2
+367,La experiencia mejoro la experiencia general,positivo,manual,v2
+368,La experiencia fue amable y profesional,positivo,manual,v2
+369,La experiencia permitio avanzar sin problemas,positivo,manual,v2
+370,La experiencia tuvo un resultado positivo,positivo,manual,v2
+371,La experiencia llego en buen estado,positivo,manual,v2
+372,La experiencia se gestiono correctamente,positivo,manual,v2
+373,La experiencia fue simple y practica,positivo,manual,v2
+374,La experiencia entrego informacion completa,positivo,manual,v2
+375,La experiencia mostro un desempeno estable,positivo,manual,v2
+376,La guia fue excelente y clara,positivo,manual,v2
+377,La guia funciono de manera correcta,positivo,manual,v2
+378,La guia supero las expectativas,positivo,manual,v2
+379,La guia resulto muy satisfactoria,positivo,manual,v2
+380,La guia fue rapida y ordenada,positivo,manual,v2
+381,La guia cumplio lo prometido,positivo,manual,v2
+382,La guia se completo sin inconvenientes,positivo,manual,v2
+383,La guia fue facil de entender,positivo,manual,v2
+384,La guia ofrecio una solucion util,positivo,manual,v2
+385,La guia mantuvo buena calidad,positivo,manual,v2
+386,La guia fue precisa y oportuna,positivo,manual,v2
+387,La guia ayudo a resolver la duda,positivo,manual,v2
+388,La guia se desarrollo con eficiencia,positivo,manual,v2
+389,La guia dejo una buena impresion,positivo,manual,v2
+390,La guia fue confiable durante el uso,positivo,manual,v2
+391,La guia respondio de forma adecuada,positivo,manual,v2
+392,La guia mejoro la experiencia general,positivo,manual,v2
+393,La guia fue amable y profesional,positivo,manual,v2
+394,La guia permitio avanzar sin problemas,positivo,manual,v2
+395,La guia tuvo un resultado positivo,positivo,manual,v2
+396,La guia llego en buen estado,positivo,manual,v2
+397,La guia se gestiono correctamente,positivo,manual,v2
+398,La guia fue simple y practica,positivo,manual,v2
+399,La guia entrego informacion completa,positivo,manual,v2
+400,La guia mostro un desempeno estable,positivo,manual,v2
+401,La solicitud fue excelente y clara,positivo,manual,v2
+402,La solicitud funciono de manera correcta,positivo,manual,v2
+403,La solicitud supero las expectativas,positivo,manual,v2
+404,La solicitud resulto muy satisfactoria,positivo,manual,v2
+405,La solicitud fue rapida y ordenada,positivo,manual,v2
+406,La solicitud cumplio lo prometido,positivo,manual,v2
+407,La solicitud se completo sin inconvenientes,positivo,manual,v2
+408,La solicitud fue facil de entender,positivo,manual,v2
+409,La solicitud ofrecio una solucion util,positivo,manual,v2
+410,La solicitud mantuvo buena calidad,positivo,manual,v2
+411,La solicitud fue precisa y oportuna,positivo,manual,v2
+412,La solicitud ayudo a resolver la duda,positivo,manual,v2
+413,La solicitud se desarrollo con eficiencia,positivo,manual,v2
+414,La solicitud dejo una buena impresion,positivo,manual,v2
+415,La solicitud fue confiable durante el uso,positivo,manual,v2
+416,La solicitud respondio de forma adecuada,positivo,manual,v2
+417,La solicitud mejoro la experiencia general,positivo,manual,v2
+418,La solicitud fue amable y profesional,positivo,manual,v2
+419,La solicitud permitio avanzar sin problemas,positivo,manual,v2
+420,La solicitud tuvo un resultado positivo,positivo,manual,v2
+421,La solicitud llego en buen estado,positivo,manual,v2
+422,La solicitud se gestiono correctamente,positivo,manual,v2
+423,La solicitud fue simple y practica,positivo,manual,v2
+424,La solicitud entrego informacion completa,positivo,manual,v2
+425,La solicitud mostro un desempeno estable,positivo,manual,v2
+426,El reporte fue excelente y clara,positivo,manual,v2
+427,El reporte funciono de manera correcta,positivo,manual,v2
+428,El reporte supero las expectativas,positivo,manual,v2
+429,El reporte resulto muy satisfactoria,positivo,manual,v2
+430,El reporte fue rapida y ordenada,positivo,manual,v2
+431,El reporte cumplio lo prometido,positivo,manual,v2
+432,El reporte se completo sin inconvenientes,positivo,manual,v2
+433,El reporte fue facil de entender,positivo,manual,v2
+434,El reporte ofrecio una solucion util,positivo,manual,v2
+435,El reporte mantuvo buena calidad,positivo,manual,v2
+436,El reporte fue precisa y oportuna,positivo,manual,v2
+437,El reporte ayudo a resolver la duda,positivo,manual,v2
+438,El reporte se desarrollo con eficiencia,positivo,manual,v2
+439,El reporte dejo una buena impresion,positivo,manual,v2
+440,El reporte fue confiable durante el uso,positivo,manual,v2
+441,El reporte respondio de forma adecuada,positivo,manual,v2
+442,El reporte mejoro la experiencia general,positivo,manual,v2
+443,El reporte fue amable y profesional,positivo,manual,v2
+444,El reporte permitio avanzar sin problemas,positivo,manual,v2
+445,El reporte tuvo un resultado positivo,positivo,manual,v2
+446,El reporte llego en buen estado,positivo,manual,v2
+447,El reporte se gestiono correctamente,positivo,manual,v2
+448,El reporte fue simple y practica,positivo,manual,v2
+449,El reporte entrego informacion completa,positivo,manual,v2
+450,El reporte mostro un desempeno estable,positivo,manual,v2
+451,La orientacion fue excelente y clara,positivo,manual,v2
+452,La orientacion funciono de manera correcta,positivo,manual,v2
+453,La orientacion supero las expectativas,positivo,manual,v2
+454,La orientacion resulto muy satisfactoria,positivo,manual,v2
+455,La orientacion fue rapida y ordenada,positivo,manual,v2
+456,La orientacion cumplio lo prometido,positivo,manual,v2
+457,La orientacion se completo sin inconvenientes,positivo,manual,v2
+458,La orientacion fue facil de entender,positivo,manual,v2
+459,La orientacion ofrecio una solucion util,positivo,manual,v2
+460,La orientacion mantuvo buena calidad,positivo,manual,v2
+461,La orientacion fue precisa y oportuna,positivo,manual,v2
+462,La orientacion ayudo a resolver la duda,positivo,manual,v2
+463,La orientacion se desarrollo con eficiencia,positivo,manual,v2
+464,La orientacion dejo una buena impresion,positivo,manual,v2
+465,La orientacion fue confiable durante el uso,positivo,manual,v2
+466,La orientacion respondio de forma adecuada,positivo,manual,v2
+467,La orientacion mejoro la experiencia general,positivo,manual,v2
+468,La orientacion fue amable y profesional,positivo,manual,v2
+469,La orientacion permitio avanzar sin problemas,positivo,manual,v2
+470,La orientacion tuvo un resultado positivo,positivo,manual,v2
+471,La orientacion llego en buen estado,positivo,manual,v2
+472,La orientacion se gestiono correctamente,positivo,manual,v2
+473,La orientacion fue simple y practica,positivo,manual,v2
+474,La orientacion entrego informacion completa,positivo,manual,v2
+475,La orientacion mostro un desempeno estable,positivo,manual,v2
+476,La gestion fue excelente y clara,positivo,manual,v2
+477,La gestion funciono de manera correcta,positivo,manual,v2
+478,La gestion supero las expectativas,positivo,manual,v2
+479,La gestion resulto muy satisfactoria,positivo,manual,v2
+480,La gestion fue rapida y ordenada,positivo,manual,v2
+481,La gestion cumplio lo prometido,positivo,manual,v2
+482,La gestion se completo sin inconvenientes,positivo,manual,v2
+483,La gestion fue facil de entender,positivo,manual,v2
+484,La gestion ofrecio una solucion util,positivo,manual,v2
+485,La gestion mantuvo buena calidad,positivo,manual,v2
+486,La gestion fue precisa y oportuna,positivo,manual,v2
+487,La gestion ayudo a resolver la duda,positivo,manual,v2
+488,La gestion se desarrollo con eficiencia,positivo,manual,v2
+489,La gestion dejo una buena impresion,positivo,manual,v2
+490,La gestion fue confiable durante el uso,positivo,manual,v2
+491,La gestion respondio de forma adecuada,positivo,manual,v2
+492,La gestion mejoro la experiencia general,positivo,manual,v2
+493,La gestion fue amable y profesional,positivo,manual,v2
+494,La gestion permitio avanzar sin problemas,positivo,manual,v2
+495,La gestion tuvo un resultado positivo,positivo,manual,v2
+496,La gestion llego en buen estado,positivo,manual,v2
+497,La gestion se gestiono correctamente,positivo,manual,v2
+498,La gestion fue simple y practica,positivo,manual,v2
+499,La gestion entrego informacion completa,positivo,manual,v2
+500,La gestion mostro un desempeno estable,positivo,manual,v2
+501,El pedido quedo registrado en el sistema,neutral,manual,v2
+502,El pedido se encuentra en revision,neutral,manual,v2
+503,El pedido muestra el estado actual,neutral,manual,v2
+504,El pedido fue recibido correctamente,neutral,manual,v2
+505,El pedido esta disponible para consulta,neutral,manual,v2
+506,El pedido permanece en proceso,neutral,manual,v2
+507,El pedido tiene informacion general,neutral,manual,v2
+508,El pedido fue actualizado en la plataforma,neutral,manual,v2
+509,El pedido aparece en el historial,neutral,manual,v2
+510,El pedido mantiene estado activo,neutral,manual,v2
+511,El pedido fue clasificado para revision,neutral,manual,v2
+512,El pedido esta programado para seguimiento,neutral,manual,v2
+513,El pedido quedo guardado sin cambios,neutral,manual,v2
+514,El pedido incluye datos descriptivos,neutral,manual,v2
+515,El pedido se muestra en el panel,neutral,manual,v2
+516,El pedido fue enviado para validacion,neutral,manual,v2
+517,El pedido esta pendiente de confirmacion,neutral,manual,v2
+518,El pedido contiene una descripcion breve,neutral,manual,v2
+519,El pedido se encuentra en la lista,neutral,manual,v2
+520,El pedido fue marcado como recibido,neutral,manual,v2
+521,El pedido tiene una fecha asignada,neutral,manual,v2
+522,El pedido continua abierto en el sistema,neutral,manual,v2
+523,El pedido presenta opciones disponibles,neutral,manual,v2
+524,El pedido quedo documentado en el reporte,neutral,manual,v2
+525,El pedido se mantiene sin novedad,neutral,manual,v2
+526,La solicitud quedo registrado en el sistema,neutral,manual,v2
+527,La solicitud se encuentra en revision,neutral,manual,v2
+528,La solicitud muestra el estado actual,neutral,manual,v2
+529,La solicitud fue recibido correctamente,neutral,manual,v2
+530,La solicitud esta disponible para consulta,neutral,manual,v2
+531,La solicitud permanece en proceso,neutral,manual,v2
+532,La solicitud tiene informacion general,neutral,manual,v2
+533,La solicitud fue actualizado en la plataforma,neutral,manual,v2
+534,La solicitud aparece en el historial,neutral,manual,v2
+535,La solicitud mantiene estado activo,neutral,manual,v2
+536,La solicitud fue clasificado para revision,neutral,manual,v2
+537,La solicitud esta programado para seguimiento,neutral,manual,v2
+538,La solicitud quedo guardado sin cambios,neutral,manual,v2
+539,La solicitud incluye datos descriptivos,neutral,manual,v2
+540,La solicitud se muestra en el panel,neutral,manual,v2
+541,La solicitud fue enviado para validacion,neutral,manual,v2
+542,La solicitud esta pendiente de confirmacion,neutral,manual,v2
+543,La solicitud contiene una descripcion breve,neutral,manual,v2
+544,La solicitud se encuentra en la lista,neutral,manual,v2
+545,La solicitud fue marcado como recibido,neutral,manual,v2
+546,La solicitud tiene una fecha asignada,neutral,manual,v2
+547,La solicitud continua abierto en el sistema,neutral,manual,v2
+548,La solicitud presenta opciones disponibles,neutral,manual,v2
+549,La solicitud quedo documentado en el reporte,neutral,manual,v2
+550,La solicitud se mantiene sin novedad,neutral,manual,v2
+551,El producto quedo registrado en el sistema,neutral,manual,v2
+552,El producto se encuentra en revision,neutral,manual,v2
+553,El producto muestra el estado actual,neutral,manual,v2
+554,El producto fue recibido correctamente,neutral,manual,v2
+555,El producto esta disponible para consulta,neutral,manual,v2
+556,El producto permanece en proceso,neutral,manual,v2
+557,El producto tiene informacion general,neutral,manual,v2
+558,El producto fue actualizado en la plataforma,neutral,manual,v2
+559,El producto aparece en el historial,neutral,manual,v2
+560,El producto mantiene estado activo,neutral,manual,v2
+561,El producto fue clasificado para revision,neutral,manual,v2
+562,El producto esta programado para seguimiento,neutral,manual,v2
+563,El producto quedo guardado sin cambios,neutral,manual,v2
+564,El producto incluye datos descriptivos,neutral,manual,v2
+565,El producto se muestra en el panel,neutral,manual,v2
+566,El producto fue enviado para validacion,neutral,manual,v2
+567,El producto esta pendiente de confirmacion,neutral,manual,v2
+568,El producto contiene una descripcion breve,neutral,manual,v2
+569,El producto se encuentra en la lista,neutral,manual,v2
+570,El producto fue marcado como recibido,neutral,manual,v2
+571,El producto tiene una fecha asignada,neutral,manual,v2
+572,El producto continua abierto en el sistema,neutral,manual,v2
+573,El producto presenta opciones disponibles,neutral,manual,v2
+574,El producto quedo documentado en el reporte,neutral,manual,v2
+575,El producto se mantiene sin novedad,neutral,manual,v2
+576,El reporte quedo registrado en el sistema,neutral,manual,v2
+577,El reporte se encuentra en revision,neutral,manual,v2
+578,El reporte muestra el estado actual,neutral,manual,v2
+579,El reporte fue recibido correctamente,neutral,manual,v2
+580,El reporte esta disponible para consulta,neutral,manual,v2
+581,El reporte permanece en proceso,neutral,manual,v2
+582,El reporte tiene informacion general,neutral,manual,v2
+583,El reporte fue actualizado en la plataforma,neutral,manual,v2
+584,El reporte aparece en el historial,neutral,manual,v2
+585,El reporte mantiene estado activo,neutral,manual,v2
+586,El reporte fue clasificado para revision,neutral,manual,v2
+587,El reporte esta programado para seguimiento,neutral,manual,v2
+588,El reporte quedo guardado sin cambios,neutral,manual,v2
+589,El reporte incluye datos descriptivos,neutral,manual,v2
+590,El reporte se muestra en el panel,neutral,manual,v2
+591,El reporte fue enviado para validacion,neutral,manual,v2
+592,El reporte esta pendiente de confirmacion,neutral,manual,v2
+593,El reporte contiene una descripcion breve,neutral,manual,v2
+594,El reporte se encuentra en la lista,neutral,manual,v2
+595,El reporte fue marcado como recibido,neutral,manual,v2
+596,El reporte tiene una fecha asignada,neutral,manual,v2
+597,El reporte continua abierto en el sistema,neutral,manual,v2
+598,El reporte presenta opciones disponibles,neutral,manual,v2
+599,El reporte quedo documentado en el reporte,neutral,manual,v2
+600,El reporte se mantiene sin novedad,neutral,manual,v2
+601,La factura quedo registrado en el sistema,neutral,manual,v2
+602,La factura se encuentra en revision,neutral,manual,v2
+603,La factura muestra el estado actual,neutral,manual,v2
+604,La factura fue recibido correctamente,neutral,manual,v2
+605,La factura esta disponible para consulta,neutral,manual,v2
+606,La factura permanece en proceso,neutral,manual,v2
+607,La factura tiene informacion general,neutral,manual,v2
+608,La factura fue actualizado en la plataforma,neutral,manual,v2
+609,La factura aparece en el historial,neutral,manual,v2
+610,La factura mantiene estado activo,neutral,manual,v2
+611,La factura fue clasificado para revision,neutral,manual,v2
+612,La factura esta programado para seguimiento,neutral,manual,v2
+613,La factura quedo guardado sin cambios,neutral,manual,v2
+614,La factura incluye datos descriptivos,neutral,manual,v2
+615,La factura se muestra en el panel,neutral,manual,v2
+616,La factura fue enviado para validacion,neutral,manual,v2
+617,La factura esta pendiente de confirmacion,neutral,manual,v2
+618,La factura contiene una descripcion breve,neutral,manual,v2
+619,La factura se encuentra en la lista,neutral,manual,v2
+620,La factura fue marcado como recibido,neutral,manual,v2
+621,La factura tiene una fecha asignada,neutral,manual,v2
+622,La factura continua abierto en el sistema,neutral,manual,v2
+623,La factura presenta opciones disponibles,neutral,manual,v2
+624,La factura quedo documentado en el reporte,neutral,manual,v2
+625,La factura se mantiene sin novedad,neutral,manual,v2
+626,El documento quedo registrado en el sistema,neutral,manual,v2
+627,El documento se encuentra en revision,neutral,manual,v2
+628,El documento muestra el estado actual,neutral,manual,v2
+629,El documento fue recibido correctamente,neutral,manual,v2
+630,El documento esta disponible para consulta,neutral,manual,v2
+631,El documento permanece en proceso,neutral,manual,v2
+632,El documento tiene informacion general,neutral,manual,v2
+633,El documento fue actualizado en la plataforma,neutral,manual,v2
+634,El documento aparece en el historial,neutral,manual,v2
+635,El documento mantiene estado activo,neutral,manual,v2
+636,El documento fue clasificado para revision,neutral,manual,v2
+637,El documento esta programado para seguimiento,neutral,manual,v2
+638,El documento quedo guardado sin cambios,neutral,manual,v2
+639,El documento incluye datos descriptivos,neutral,manual,v2
+640,El documento se muestra en el panel,neutral,manual,v2
+641,El documento fue enviado para validacion,neutral,manual,v2
+642,El documento esta pendiente de confirmacion,neutral,manual,v2
+643,El documento contiene una descripcion breve,neutral,manual,v2
+644,El documento se encuentra en la lista,neutral,manual,v2
+645,El documento fue marcado como recibido,neutral,manual,v2
+646,El documento tiene una fecha asignada,neutral,manual,v2
+647,El documento continua abierto en el sistema,neutral,manual,v2
+648,El documento presenta opciones disponibles,neutral,manual,v2
+649,El documento quedo documentado en el reporte,neutral,manual,v2
+650,El documento se mantiene sin novedad,neutral,manual,v2
+651,La consulta quedo registrado en el sistema,neutral,manual,v2
+652,La consulta se encuentra en revision,neutral,manual,v2
+653,La consulta muestra el estado actual,neutral,manual,v2
+654,La consulta fue recibido correctamente,neutral,manual,v2
+655,La consulta esta disponible para consulta,neutral,manual,v2
+656,La consulta permanece en proceso,neutral,manual,v2
+657,La consulta tiene informacion general,neutral,manual,v2
+658,La consulta fue actualizado en la plataforma,neutral,manual,v2
+659,La consulta aparece en el historial,neutral,manual,v2
+660,La consulta mantiene estado activo,neutral,manual,v2
+661,La consulta fue clasificado para revision,neutral,manual,v2
+662,La consulta esta programado para seguimiento,neutral,manual,v2
+663,La consulta quedo guardado sin cambios,neutral,manual,v2
+664,La consulta incluye datos descriptivos,neutral,manual,v2
+665,La consulta se muestra en el panel,neutral,manual,v2
+666,La consulta fue enviado para validacion,neutral,manual,v2
+667,La consulta esta pendiente de confirmacion,neutral,manual,v2
+668,La consulta contiene una descripcion breve,neutral,manual,v2
+669,La consulta se encuentra en la lista,neutral,manual,v2
+670,La consulta fue marcado como recibido,neutral,manual,v2
+671,La consulta tiene una fecha asignada,neutral,manual,v2
+672,La consulta continua abierto en el sistema,neutral,manual,v2
+673,La consulta presenta opciones disponibles,neutral,manual,v2
+674,La consulta quedo documentado en el reporte,neutral,manual,v2
+675,La consulta se mantiene sin novedad,neutral,manual,v2
+676,La entrega quedo registrado en el sistema,neutral,manual,v2
+677,La entrega se encuentra en revision,neutral,manual,v2
+678,La entrega muestra el estado actual,neutral,manual,v2
+679,La entrega fue recibido correctamente,neutral,manual,v2
+680,La entrega esta disponible para consulta,neutral,manual,v2
+681,La entrega permanece en proceso,neutral,manual,v2
+682,La entrega tiene informacion general,neutral,manual,v2
+683,La entrega fue actualizado en la plataforma,neutral,manual,v2
+684,La entrega aparece en el historial,neutral,manual,v2
+685,La entrega mantiene estado activo,neutral,manual,v2
+686,La entrega fue clasificado para revision,neutral,manual,v2
+687,La entrega esta programado para seguimiento,neutral,manual,v2
+688,La entrega quedo guardado sin cambios,neutral,manual,v2
+689,La entrega incluye datos descriptivos,neutral,manual,v2
+690,La entrega se muestra en el panel,neutral,manual,v2
+691,La entrega fue enviado para validacion,neutral,manual,v2
+692,La entrega esta pendiente de confirmacion,neutral,manual,v2
+693,La entrega contiene una descripcion breve,neutral,manual,v2
+694,La entrega se encuentra en la lista,neutral,manual,v2
+695,La entrega fue marcado como recibido,neutral,manual,v2
+696,La entrega tiene una fecha asignada,neutral,manual,v2
+697,La entrega continua abierto en el sistema,neutral,manual,v2
+698,La entrega presenta opciones disponibles,neutral,manual,v2
+699,La entrega quedo documentado en el reporte,neutral,manual,v2
+700,La entrega se mantiene sin novedad,neutral,manual,v2
+701,El sistema quedo registrado en el sistema,neutral,manual,v2
+702,El sistema se encuentra en revision,neutral,manual,v2
+703,El sistema muestra el estado actual,neutral,manual,v2
+704,El sistema fue recibido correctamente,neutral,manual,v2
+705,El sistema esta disponible para consulta,neutral,manual,v2
+706,El sistema permanece en proceso,neutral,manual,v2
+707,El sistema tiene informacion general,neutral,manual,v2
+708,El sistema fue actualizado en la plataforma,neutral,manual,v2
+709,El sistema aparece en el historial,neutral,manual,v2
+710,El sistema mantiene estado activo,neutral,manual,v2
+711,El sistema fue clasificado para revision,neutral,manual,v2
+712,El sistema esta programado para seguimiento,neutral,manual,v2
+713,El sistema quedo guardado sin cambios,neutral,manual,v2
+714,El sistema incluye datos descriptivos,neutral,manual,v2
+715,El sistema se muestra en el panel,neutral,manual,v2
+716,El sistema fue enviado para validacion,neutral,manual,v2
+717,El sistema esta pendiente de confirmacion,neutral,manual,v2
+718,El sistema contiene una descripcion breve,neutral,manual,v2
+719,El sistema se encuentra en la lista,neutral,manual,v2
+720,El sistema fue marcado como recibido,neutral,manual,v2
+721,El sistema tiene una fecha asignada,neutral,manual,v2
+722,El sistema continua abierto en el sistema,neutral,manual,v2
+723,El sistema presenta opciones disponibles,neutral,manual,v2
+724,El sistema quedo documentado en el reporte,neutral,manual,v2
+725,El sistema se mantiene sin novedad,neutral,manual,v2
+726,La orden quedo registrado en el sistema,neutral,manual,v2
+727,La orden se encuentra en revision,neutral,manual,v2
+728,La orden muestra el estado actual,neutral,manual,v2
+729,La orden fue recibido correctamente,neutral,manual,v2
+730,La orden esta disponible para consulta,neutral,manual,v2
+731,La orden permanece en proceso,neutral,manual,v2
+732,La orden tiene informacion general,neutral,manual,v2
+733,La orden fue actualizado en la plataforma,neutral,manual,v2
+734,La orden aparece en el historial,neutral,manual,v2
+735,La orden mantiene estado activo,neutral,manual,v2
+736,La orden fue clasificado para revision,neutral,manual,v2
+737,La orden esta programado para seguimiento,neutral,manual,v2
+738,La orden quedo guardado sin cambios,neutral,manual,v2
+739,La orden incluye datos descriptivos,neutral,manual,v2
+740,La orden se muestra en el panel,neutral,manual,v2
+741,La orden fue enviado para validacion,neutral,manual,v2
+742,La orden esta pendiente de confirmacion,neutral,manual,v2
+743,La orden contiene una descripcion breve,neutral,manual,v2
+744,La orden se encuentra en la lista,neutral,manual,v2
+745,La orden fue marcado como recibido,neutral,manual,v2
+746,La orden tiene una fecha asignada,neutral,manual,v2
+747,La orden continua abierto en el sistema,neutral,manual,v2
+748,La orden presenta opciones disponibles,neutral,manual,v2
+749,La orden quedo documentado en el reporte,neutral,manual,v2
+750,La orden se mantiene sin novedad,neutral,manual,v2
+751,El archivo quedo registrado en el sistema,neutral,manual,v2
+752,El archivo se encuentra en revision,neutral,manual,v2
+753,El archivo muestra el estado actual,neutral,manual,v2
+754,El archivo fue recibido correctamente,neutral,manual,v2
+755,El archivo esta disponible para consulta,neutral,manual,v2
+756,El archivo permanece en proceso,neutral,manual,v2
+757,El archivo tiene informacion general,neutral,manual,v2
+758,El archivo fue actualizado en la plataforma,neutral,manual,v2
+759,El archivo aparece en el historial,neutral,manual,v2
+760,El archivo mantiene estado activo,neutral,manual,v2
+761,El archivo fue clasificado para revision,neutral,manual,v2
+762,El archivo esta programado para seguimiento,neutral,manual,v2
+763,El archivo quedo guardado sin cambios,neutral,manual,v2
+764,El archivo incluye datos descriptivos,neutral,manual,v2
+765,El archivo se muestra en el panel,neutral,manual,v2
+766,El archivo fue enviado para validacion,neutral,manual,v2
+767,El archivo esta pendiente de confirmacion,neutral,manual,v2
+768,El archivo contiene una descripcion breve,neutral,manual,v2
+769,El archivo se encuentra en la lista,neutral,manual,v2
+770,El archivo fue marcado como recibido,neutral,manual,v2
+771,El archivo tiene una fecha asignada,neutral,manual,v2
+772,El archivo continua abierto en el sistema,neutral,manual,v2
+773,El archivo presenta opciones disponibles,neutral,manual,v2
+774,El archivo quedo documentado en el reporte,neutral,manual,v2
+775,El archivo se mantiene sin novedad,neutral,manual,v2
+776,La plataforma quedo registrado en el sistema,neutral,manual,v2
+777,La plataforma se encuentra en revision,neutral,manual,v2
+778,La plataforma muestra el estado actual,neutral,manual,v2
+779,La plataforma fue recibido correctamente,neutral,manual,v2
+780,La plataforma esta disponible para consulta,neutral,manual,v2
+781,La plataforma permanece en proceso,neutral,manual,v2
+782,La plataforma tiene informacion general,neutral,manual,v2
+783,La plataforma fue actualizado en la plataforma,neutral,manual,v2
+784,La plataforma aparece en el historial,neutral,manual,v2
+785,La plataforma mantiene estado activo,neutral,manual,v2
+786,La plataforma fue clasificado para revision,neutral,manual,v2
+787,La plataforma esta programado para seguimiento,neutral,manual,v2
+788,La plataforma quedo guardado sin cambios,neutral,manual,v2
+789,La plataforma incluye datos descriptivos,neutral,manual,v2
+790,La plataforma se muestra en el panel,neutral,manual,v2
+791,La plataforma fue enviado para validacion,neutral,manual,v2
+792,La plataforma esta pendiente de confirmacion,neutral,manual,v2
+793,La plataforma contiene una descripcion breve,neutral,manual,v2
+794,La plataforma se encuentra en la lista,neutral,manual,v2
+795,La plataforma fue marcado como recibido,neutral,manual,v2
+796,La plataforma tiene una fecha asignada,neutral,manual,v2
+797,La plataforma continua abierto en el sistema,neutral,manual,v2
+798,La plataforma presenta opciones disponibles,neutral,manual,v2
+799,La plataforma quedo documentado en el reporte,neutral,manual,v2
+800,La plataforma se mantiene sin novedad,neutral,manual,v2
+801,El formulario quedo registrado en el sistema,neutral,manual,v2
+802,El formulario se encuentra en revision,neutral,manual,v2
+803,El formulario muestra el estado actual,neutral,manual,v2
+804,El formulario fue recibido correctamente,neutral,manual,v2
+805,El formulario esta disponible para consulta,neutral,manual,v2
+806,El formulario permanece en proceso,neutral,manual,v2
+807,El formulario tiene informacion general,neutral,manual,v2
+808,El formulario fue actualizado en la plataforma,neutral,manual,v2
+809,El formulario aparece en el historial,neutral,manual,v2
+810,El formulario mantiene estado activo,neutral,manual,v2
+811,El formulario fue clasificado para revision,neutral,manual,v2
+812,El formulario esta programado para seguimiento,neutral,manual,v2
+813,El formulario quedo guardado sin cambios,neutral,manual,v2
+814,El formulario incluye datos descriptivos,neutral,manual,v2
+815,El formulario se muestra en el panel,neutral,manual,v2
+816,El formulario fue enviado para validacion,neutral,manual,v2
+817,El formulario esta pendiente de confirmacion,neutral,manual,v2
+818,El formulario contiene una descripcion breve,neutral,manual,v2
+819,El formulario se encuentra en la lista,neutral,manual,v2
+820,El formulario fue marcado como recibido,neutral,manual,v2
+821,El formulario tiene una fecha asignada,neutral,manual,v2
+822,El formulario continua abierto en el sistema,neutral,manual,v2
+823,El formulario presenta opciones disponibles,neutral,manual,v2
+824,El formulario quedo documentado en el reporte,neutral,manual,v2
+825,El formulario se mantiene sin novedad,neutral,manual,v2
+826,La revision quedo registrado en el sistema,neutral,manual,v2
+827,La revision se encuentra en revision,neutral,manual,v2
+828,La revision muestra el estado actual,neutral,manual,v2
+829,La revision fue recibido correctamente,neutral,manual,v2
+830,La revision esta disponible para consulta,neutral,manual,v2
+831,La revision permanece en proceso,neutral,manual,v2
+832,La revision tiene informacion general,neutral,manual,v2
+833,La revision fue actualizado en la plataforma,neutral,manual,v2
+834,La revision aparece en el historial,neutral,manual,v2
+835,La revision mantiene estado activo,neutral,manual,v2
+836,La revision fue clasificado para revision,neutral,manual,v2
+837,La revision esta programado para seguimiento,neutral,manual,v2
+838,La revision quedo guardado sin cambios,neutral,manual,v2
+839,La revision incluye datos descriptivos,neutral,manual,v2
+840,La revision se muestra en el panel,neutral,manual,v2
+841,La revision fue enviado para validacion,neutral,manual,v2
+842,La revision esta pendiente de confirmacion,neutral,manual,v2
+843,La revision contiene una descripcion breve,neutral,manual,v2
+844,La revision se encuentra en la lista,neutral,manual,v2
+845,La revision fue marcado como recibido,neutral,manual,v2
+846,La revision tiene una fecha asignada,neutral,manual,v2
+847,La revision continua abierto en el sistema,neutral,manual,v2
+848,La revision presenta opciones disponibles,neutral,manual,v2
+849,La revision quedo documentado en el reporte,neutral,manual,v2
+850,La revision se mantiene sin novedad,neutral,manual,v2
+851,El registro quedo registrado en el sistema,neutral,manual,v2
+852,El registro se encuentra en revision,neutral,manual,v2
+853,El registro muestra el estado actual,neutral,manual,v2
+854,El registro fue recibido correctamente,neutral,manual,v2
+855,El registro esta disponible para consulta,neutral,manual,v2
+856,El registro permanece en proceso,neutral,manual,v2
+857,El registro tiene informacion general,neutral,manual,v2
+858,El registro fue actualizado en la plataforma,neutral,manual,v2
+859,El registro aparece en el historial,neutral,manual,v2
+860,El registro mantiene estado activo,neutral,manual,v2
+861,El registro fue clasificado para revision,neutral,manual,v2
+862,El registro esta programado para seguimiento,neutral,manual,v2
+863,El registro quedo guardado sin cambios,neutral,manual,v2
+864,El registro incluye datos descriptivos,neutral,manual,v2
+865,El registro se muestra en el panel,neutral,manual,v2
+866,El registro fue enviado para validacion,neutral,manual,v2
+867,El registro esta pendiente de confirmacion,neutral,manual,v2
+868,El registro contiene una descripcion breve,neutral,manual,v2
+869,El registro se encuentra en la lista,neutral,manual,v2
+870,El registro fue marcado como recibido,neutral,manual,v2
+871,El registro tiene una fecha asignada,neutral,manual,v2
+872,El registro continua abierto en el sistema,neutral,manual,v2
+873,El registro presenta opciones disponibles,neutral,manual,v2
+874,El registro quedo documentado en el reporte,neutral,manual,v2
+875,El registro se mantiene sin novedad,neutral,manual,v2
+876,La informacion quedo registrado en el sistema,neutral,manual,v2
+877,La informacion se encuentra en revision,neutral,manual,v2
+878,La informacion muestra el estado actual,neutral,manual,v2
+879,La informacion fue recibido correctamente,neutral,manual,v2
+880,La informacion esta disponible para consulta,neutral,manual,v2
+881,La informacion permanece en proceso,neutral,manual,v2
+882,La informacion tiene informacion general,neutral,manual,v2
+883,La informacion fue actualizado en la plataforma,neutral,manual,v2
+884,La informacion aparece en el historial,neutral,manual,v2
+885,La informacion mantiene estado activo,neutral,manual,v2
+886,La informacion fue clasificado para revision,neutral,manual,v2
+887,La informacion esta programado para seguimiento,neutral,manual,v2
+888,La informacion quedo guardado sin cambios,neutral,manual,v2
+889,La informacion incluye datos descriptivos,neutral,manual,v2
+890,La informacion se muestra en el panel,neutral,manual,v2
+891,La informacion fue enviado para validacion,neutral,manual,v2
+892,La informacion esta pendiente de confirmacion,neutral,manual,v2
+893,La informacion contiene una descripcion breve,neutral,manual,v2
+894,La informacion se encuentra en la lista,neutral,manual,v2
+895,La informacion fue marcado como recibido,neutral,manual,v2
+896,La informacion tiene una fecha asignada,neutral,manual,v2
+897,La informacion continua abierto en el sistema,neutral,manual,v2
+898,La informacion presenta opciones disponibles,neutral,manual,v2
+899,La informacion quedo documentado en el reporte,neutral,manual,v2
+900,La informacion se mantiene sin novedad,neutral,manual,v2
+901,El tramite quedo registrado en el sistema,neutral,manual,v2
+902,El tramite se encuentra en revision,neutral,manual,v2
+903,El tramite muestra el estado actual,neutral,manual,v2
+904,El tramite fue recibido correctamente,neutral,manual,v2
+905,El tramite esta disponible para consulta,neutral,manual,v2
+906,El tramite permanece en proceso,neutral,manual,v2
+907,El tramite tiene informacion general,neutral,manual,v2
+908,El tramite fue actualizado en la plataforma,neutral,manual,v2
+909,El tramite aparece en el historial,neutral,manual,v2
+910,El tramite mantiene estado activo,neutral,manual,v2
+911,El tramite fue clasificado para revision,neutral,manual,v2
+912,El tramite esta programado para seguimiento,neutral,manual,v2
+913,El tramite quedo guardado sin cambios,neutral,manual,v2
+914,El tramite incluye datos descriptivos,neutral,manual,v2
+915,El tramite se muestra en el panel,neutral,manual,v2
+916,El tramite fue enviado para validacion,neutral,manual,v2
+917,El tramite esta pendiente de confirmacion,neutral,manual,v2
+918,El tramite contiene una descripcion breve,neutral,manual,v2
+919,El tramite se encuentra en la lista,neutral,manual,v2
+920,El tramite fue marcado como recibido,neutral,manual,v2
+921,El tramite tiene una fecha asignada,neutral,manual,v2
+922,El tramite continua abierto en el sistema,neutral,manual,v2
+923,El tramite presenta opciones disponibles,neutral,manual,v2
+924,El tramite quedo documentado en el reporte,neutral,manual,v2
+925,El tramite se mantiene sin novedad,neutral,manual,v2
+926,La respuesta quedo registrado en el sistema,neutral,manual,v2
+927,La respuesta se encuentra en revision,neutral,manual,v2
+928,La respuesta muestra el estado actual,neutral,manual,v2
+929,La respuesta fue recibido correctamente,neutral,manual,v2
+930,La respuesta esta disponible para consulta,neutral,manual,v2
+931,La respuesta permanece en proceso,neutral,manual,v2
+932,La respuesta tiene informacion general,neutral,manual,v2
+933,La respuesta fue actualizado en la plataforma,neutral,manual,v2
+934,La respuesta aparece en el historial,neutral,manual,v2
+935,La respuesta mantiene estado activo,neutral,manual,v2
+936,La respuesta fue clasificado para revision,neutral,manual,v2
+937,La respuesta esta programado para seguimiento,neutral,manual,v2
+938,La respuesta quedo guardado sin cambios,neutral,manual,v2
+939,La respuesta incluye datos descriptivos,neutral,manual,v2
+940,La respuesta se muestra en el panel,neutral,manual,v2
+941,La respuesta fue enviado para validacion,neutral,manual,v2
+942,La respuesta esta pendiente de confirmacion,neutral,manual,v2
+943,La respuesta contiene una descripcion breve,neutral,manual,v2
+944,La respuesta se encuentra en la lista,neutral,manual,v2
+945,La respuesta fue marcado como recibido,neutral,manual,v2
+946,La respuesta tiene una fecha asignada,neutral,manual,v2
+947,La respuesta continua abierto en el sistema,neutral,manual,v2
+948,La respuesta presenta opciones disponibles,neutral,manual,v2
+949,La respuesta quedo documentado en el reporte,neutral,manual,v2
+950,La respuesta se mantiene sin novedad,neutral,manual,v2
+951,El panel quedo registrado en el sistema,neutral,manual,v2
+952,El panel se encuentra en revision,neutral,manual,v2
+953,El panel muestra el estado actual,neutral,manual,v2
+954,El panel fue recibido correctamente,neutral,manual,v2
+955,El panel esta disponible para consulta,neutral,manual,v2
+956,El panel permanece en proceso,neutral,manual,v2
+957,El panel tiene informacion general,neutral,manual,v2
+958,El panel fue actualizado en la plataforma,neutral,manual,v2
+959,El panel aparece en el historial,neutral,manual,v2
+960,El panel mantiene estado activo,neutral,manual,v2
+961,El panel fue clasificado para revision,neutral,manual,v2
+962,El panel esta programado para seguimiento,neutral,manual,v2
+963,El panel quedo guardado sin cambios,neutral,manual,v2
+964,El panel incluye datos descriptivos,neutral,manual,v2
+965,El panel se muestra en el panel,neutral,manual,v2
+966,El panel fue enviado para validacion,neutral,manual,v2
+967,El panel esta pendiente de confirmacion,neutral,manual,v2
+968,El panel contiene una descripcion breve,neutral,manual,v2
+969,El panel se encuentra en la lista,neutral,manual,v2
+970,El panel fue marcado como recibido,neutral,manual,v2
+971,El panel tiene una fecha asignada,neutral,manual,v2
+972,El panel continua abierto en el sistema,neutral,manual,v2
+973,El panel presenta opciones disponibles,neutral,manual,v2
+974,El panel quedo documentado en el reporte,neutral,manual,v2
+975,El panel se mantiene sin novedad,neutral,manual,v2
+976,La notificacion quedo registrado en el sistema,neutral,manual,v2
+977,La notificacion se encuentra en revision,neutral,manual,v2
+978,La notificacion muestra el estado actual,neutral,manual,v2
+979,La notificacion fue recibido correctamente,neutral,manual,v2
+980,La notificacion esta disponible para consulta,neutral,manual,v2
+981,La notificacion permanece en proceso,neutral,manual,v2
+982,La notificacion tiene informacion general,neutral,manual,v2
+983,La notificacion fue actualizado en la plataforma,neutral,manual,v2
+984,La notificacion aparece en el historial,neutral,manual,v2
+985,La notificacion mantiene estado activo,neutral,manual,v2
+986,La notificacion fue clasificado para revision,neutral,manual,v2
+987,La notificacion esta programado para seguimiento,neutral,manual,v2
+988,La notificacion quedo guardado sin cambios,neutral,manual,v2
+989,La notificacion incluye datos descriptivos,neutral,manual,v2
+990,La notificacion se muestra en el panel,neutral,manual,v2
+991,La notificacion fue enviado para validacion,neutral,manual,v2
+992,La notificacion esta pendiente de confirmacion,neutral,manual,v2
+993,La notificacion contiene una descripcion breve,neutral,manual,v2
+994,La notificacion se encuentra en la lista,neutral,manual,v2
+995,La notificacion fue marcado como recibido,neutral,manual,v2
+996,La notificacion tiene una fecha asignada,neutral,manual,v2
+997,La notificacion continua abierto en el sistema,neutral,manual,v2
+998,La notificacion presenta opciones disponibles,neutral,manual,v2
+999,La notificacion quedo documentado en el reporte,neutral,manual,v2
+1000,La notificacion se mantiene sin novedad,neutral,manual,v2
+1001,El servicio fue lento y confuso,negativo,manual,v2
+1002,El servicio no resolvio el problema,negativo,manual,v2
+1003,El servicio presento fallas constantes,negativo,manual,v2
+1004,El servicio resulto insatisfactorio,negativo,manual,v2
+1005,El servicio tuvo demasiados errores,negativo,manual,v2
+1006,El servicio no cumplio lo esperado,negativo,manual,v2
+1007,El servicio se interrumpio sin aviso,negativo,manual,v2
+1008,El servicio fue dificil de completar,negativo,manual,v2
+1009,El servicio genero mucha confusion,negativo,manual,v2
+1010,El servicio tuvo baja calidad,negativo,manual,v2
+1011,El servicio fue incompleta y tardia,negativo,manual,v2
+1012,El servicio no ayudo a resolver la duda,negativo,manual,v2
+1013,El servicio se desarrollo con demoras,negativo,manual,v2
+1014,El servicio dejo una mala impresion,negativo,manual,v2
+1015,El servicio fue poco confiable durante el uso,negativo,manual,v2
+1016,El servicio respondio de forma deficiente,negativo,manual,v2
+1017,El servicio empeoro la experiencia general,negativo,manual,v2
+1018,El servicio fue fria y poco clara,negativo,manual,v2
+1019,El servicio impidio avanzar correctamente,negativo,manual,v2
+1020,El servicio tuvo un resultado negativo,negativo,manual,v2
+1021,El servicio llego en mal estado,negativo,manual,v2
+1022,El servicio se gestiono incorrectamente,negativo,manual,v2
+1023,El servicio fue complicada y poco practica,negativo,manual,v2
+1024,El servicio entrego informacion insuficiente,negativo,manual,v2
+1025,El servicio mostro un desempeno inestable,negativo,manual,v2
+1026,La atencion fue lento y confuso,negativo,manual,v2
+1027,La atencion no resolvio el problema,negativo,manual,v2
+1028,La atencion presento fallas constantes,negativo,manual,v2
+1029,La atencion resulto insatisfactorio,negativo,manual,v2
+1030,La atencion tuvo demasiados errores,negativo,manual,v2
+1031,La atencion no cumplio lo esperado,negativo,manual,v2
+1032,La atencion se interrumpio sin aviso,negativo,manual,v2
+1033,La atencion fue dificil de completar,negativo,manual,v2
+1034,La atencion genero mucha confusion,negativo,manual,v2
+1035,La atencion tuvo baja calidad,negativo,manual,v2
+1036,La atencion fue incompleta y tardia,negativo,manual,v2
+1037,La atencion no ayudo a resolver la duda,negativo,manual,v2
+1038,La atencion se desarrollo con demoras,negativo,manual,v2
+1039,La atencion dejo una mala impresion,negativo,manual,v2
+1040,La atencion fue poco confiable durante el uso,negativo,manual,v2
+1041,La atencion respondio de forma deficiente,negativo,manual,v2
+1042,La atencion empeoro la experiencia general,negativo,manual,v2
+1043,La atencion fue fria y poco clara,negativo,manual,v2
+1044,La atencion impidio avanzar correctamente,negativo,manual,v2
+1045,La atencion tuvo un resultado negativo,negativo,manual,v2
+1046,La atencion llego en mal estado,negativo,manual,v2
+1047,La atencion se gestiono incorrectamente,negativo,manual,v2
+1048,La atencion fue complicada y poco practica,negativo,manual,v2
+1049,La atencion entrego informacion insuficiente,negativo,manual,v2
+1050,La atencion mostro un desempeno inestable,negativo,manual,v2
+1051,El producto fue lento y confuso,negativo,manual,v2
+1052,El producto no resolvio el problema,negativo,manual,v2
+1053,El producto presento fallas constantes,negativo,manual,v2
+1054,El producto resulto insatisfactorio,negativo,manual,v2
+1055,El producto tuvo demasiados errores,negativo,manual,v2
+1056,El producto no cumplio lo esperado,negativo,manual,v2
+1057,El producto se interrumpio sin aviso,negativo,manual,v2
+1058,El producto fue dificil de completar,negativo,manual,v2
+1059,El producto genero mucha confusion,negativo,manual,v2
+1060,El producto tuvo baja calidad,negativo,manual,v2
+1061,El producto fue incompleta y tardia,negativo,manual,v2
+1062,El producto no ayudo a resolver la duda,negativo,manual,v2
+1063,El producto se desarrollo con demoras,negativo,manual,v2
+1064,El producto dejo una mala impresion,negativo,manual,v2
+1065,El producto fue poco confiable durante el uso,negativo,manual,v2
+1066,El producto respondio de forma deficiente,negativo,manual,v2
+1067,El producto empeoro la experiencia general,negativo,manual,v2
+1068,El producto fue fria y poco clara,negativo,manual,v2
+1069,El producto impidio avanzar correctamente,negativo,manual,v2
+1070,El producto tuvo un resultado negativo,negativo,manual,v2
+1071,El producto llego en mal estado,negativo,manual,v2
+1072,El producto se gestiono incorrectamente,negativo,manual,v2
+1073,El producto fue complicada y poco practica,negativo,manual,v2
+1074,El producto entrego informacion insuficiente,negativo,manual,v2
+1075,El producto mostro un desempeno inestable,negativo,manual,v2
+1076,La entrega fue lento y confuso,negativo,manual,v2
+1077,La entrega no resolvio el problema,negativo,manual,v2
+1078,La entrega presento fallas constantes,negativo,manual,v2
+1079,La entrega resulto insatisfactorio,negativo,manual,v2
+1080,La entrega tuvo demasiados errores,negativo,manual,v2
+1081,La entrega no cumplio lo esperado,negativo,manual,v2
+1082,La entrega se interrumpio sin aviso,negativo,manual,v2
+1083,La entrega fue dificil de completar,negativo,manual,v2
+1084,La entrega genero mucha confusion,negativo,manual,v2
+1085,La entrega tuvo baja calidad,negativo,manual,v2
+1086,La entrega fue incompleta y tardia,negativo,manual,v2
+1087,La entrega no ayudo a resolver la duda,negativo,manual,v2
+1088,La entrega se desarrollo con demoras,negativo,manual,v2
+1089,La entrega dejo una mala impresion,negativo,manual,v2
+1090,La entrega fue poco confiable durante el uso,negativo,manual,v2
+1091,La entrega respondio de forma deficiente,negativo,manual,v2
+1092,La entrega empeoro la experiencia general,negativo,manual,v2
+1093,La entrega fue fria y poco clara,negativo,manual,v2
+1094,La entrega impidio avanzar correctamente,negativo,manual,v2
+1095,La entrega tuvo un resultado negativo,negativo,manual,v2
+1096,La entrega llego en mal estado,negativo,manual,v2
+1097,La entrega se gestiono incorrectamente,negativo,manual,v2
+1098,La entrega fue complicada y poco practica,negativo,manual,v2
+1099,La entrega entrego informacion insuficiente,negativo,manual,v2
+1100,La entrega mostro un desempeno inestable,negativo,manual,v2
+1101,El soporte fue lento y confuso,negativo,manual,v2
+1102,El soporte no resolvio el problema,negativo,manual,v2
+1103,El soporte presento fallas constantes,negativo,manual,v2
+1104,El soporte resulto insatisfactorio,negativo,manual,v2
+1105,El soporte tuvo demasiados errores,negativo,manual,v2
+1106,El soporte no cumplio lo esperado,negativo,manual,v2
+1107,El soporte se interrumpio sin aviso,negativo,manual,v2
+1108,El soporte fue dificil de completar,negativo,manual,v2
+1109,El soporte genero mucha confusion,negativo,manual,v2
+1110,El soporte tuvo baja calidad,negativo,manual,v2
+1111,El soporte fue incompleta y tardia,negativo,manual,v2
+1112,El soporte no ayudo a resolver la duda,negativo,manual,v2
+1113,El soporte se desarrollo con demoras,negativo,manual,v2
+1114,El soporte dejo una mala impresion,negativo,manual,v2
+1115,El soporte fue poco confiable durante el uso,negativo,manual,v2
+1116,El soporte respondio de forma deficiente,negativo,manual,v2
+1117,El soporte empeoro la experiencia general,negativo,manual,v2
+1118,El soporte fue fria y poco clara,negativo,manual,v2
+1119,El soporte impidio avanzar correctamente,negativo,manual,v2
+1120,El soporte tuvo un resultado negativo,negativo,manual,v2
+1121,El soporte llego en mal estado,negativo,manual,v2
+1122,El soporte se gestiono incorrectamente,negativo,manual,v2
+1123,El soporte fue complicada y poco practica,negativo,manual,v2
+1124,El soporte entrego informacion insuficiente,negativo,manual,v2
+1125,El soporte mostro un desempeno inestable,negativo,manual,v2
+1126,La plataforma fue lento y confuso,negativo,manual,v2
+1127,La plataforma no resolvio el problema,negativo,manual,v2
+1128,La plataforma presento fallas constantes,negativo,manual,v2
+1129,La plataforma resulto insatisfactorio,negativo,manual,v2
+1130,La plataforma tuvo demasiados errores,negativo,manual,v2
+1131,La plataforma no cumplio lo esperado,negativo,manual,v2
+1132,La plataforma se interrumpio sin aviso,negativo,manual,v2
+1133,La plataforma fue dificil de completar,negativo,manual,v2
+1134,La plataforma genero mucha confusion,negativo,manual,v2
+1135,La plataforma tuvo baja calidad,negativo,manual,v2
+1136,La plataforma fue incompleta y tardia,negativo,manual,v2
+1137,La plataforma no ayudo a resolver la duda,negativo,manual,v2
+1138,La plataforma se desarrollo con demoras,negativo,manual,v2
+1139,La plataforma dejo una mala impresion,negativo,manual,v2
+1140,La plataforma fue poco confiable durante el uso,negativo,manual,v2
+1141,La plataforma respondio de forma deficiente,negativo,manual,v2
+1142,La plataforma empeoro la experiencia general,negativo,manual,v2
+1143,La plataforma fue fria y poco clara,negativo,manual,v2
+1144,La plataforma impidio avanzar correctamente,negativo,manual,v2
+1145,La plataforma tuvo un resultado negativo,negativo,manual,v2
+1146,La plataforma llego en mal estado,negativo,manual,v2
+1147,La plataforma se gestiono incorrectamente,negativo,manual,v2
+1148,La plataforma fue complicada y poco practica,negativo,manual,v2
+1149,La plataforma entrego informacion insuficiente,negativo,manual,v2
+1150,La plataforma mostro un desempeno inestable,negativo,manual,v2
+1151,El sistema fue lento y confuso,negativo,manual,v2
+1152,El sistema no resolvio el problema,negativo,manual,v2
+1153,El sistema presento fallas constantes,negativo,manual,v2
+1154,El sistema resulto insatisfactorio,negativo,manual,v2
+1155,El sistema tuvo demasiados errores,negativo,manual,v2
+1156,El sistema no cumplio lo esperado,negativo,manual,v2
+1157,El sistema se interrumpio sin aviso,negativo,manual,v2
+1158,El sistema fue dificil de completar,negativo,manual,v2
+1159,El sistema genero mucha confusion,negativo,manual,v2
+1160,El sistema tuvo baja calidad,negativo,manual,v2
+1161,El sistema fue incompleta y tardia,negativo,manual,v2
+1162,El sistema no ayudo a resolver la duda,negativo,manual,v2
+1163,El sistema se desarrollo con demoras,negativo,manual,v2
+1164,El sistema dejo una mala impresion,negativo,manual,v2
+1165,El sistema fue poco confiable durante el uso,negativo,manual,v2
+1166,El sistema respondio de forma deficiente,negativo,manual,v2
+1167,El sistema empeoro la experiencia general,negativo,manual,v2
+1168,El sistema fue fria y poco clara,negativo,manual,v2
+1169,El sistema impidio avanzar correctamente,negativo,manual,v2
+1170,El sistema tuvo un resultado negativo,negativo,manual,v2
+1171,El sistema llego en mal estado,negativo,manual,v2
+1172,El sistema se gestiono incorrectamente,negativo,manual,v2
+1173,El sistema fue complicada y poco practica,negativo,manual,v2
+1174,El sistema entrego informacion insuficiente,negativo,manual,v2
+1175,El sistema mostro un desempeno inestable,negativo,manual,v2
+1176,La compra fue lento y confuso,negativo,manual,v2
+1177,La compra no resolvio el problema,negativo,manual,v2
+1178,La compra presento fallas constantes,negativo,manual,v2
+1179,La compra resulto insatisfactorio,negativo,manual,v2
+1180,La compra tuvo demasiados errores,negativo,manual,v2
+1181,La compra no cumplio lo esperado,negativo,manual,v2
+1182,La compra se interrumpio sin aviso,negativo,manual,v2
+1183,La compra fue dificil de completar,negativo,manual,v2
+1184,La compra genero mucha confusion,negativo,manual,v2
+1185,La compra tuvo baja calidad,negativo,manual,v2
+1186,La compra fue incompleta y tardia,negativo,manual,v2
+1187,La compra no ayudo a resolver la duda,negativo,manual,v2
+1188,La compra se desarrollo con demoras,negativo,manual,v2
+1189,La compra dejo una mala impresion,negativo,manual,v2
+1190,La compra fue poco confiable durante el uso,negativo,manual,v2
+1191,La compra respondio de forma deficiente,negativo,manual,v2
+1192,La compra empeoro la experiencia general,negativo,manual,v2
+1193,La compra fue fria y poco clara,negativo,manual,v2
+1194,La compra impidio avanzar correctamente,negativo,manual,v2
+1195,La compra tuvo un resultado negativo,negativo,manual,v2
+1196,La compra llego en mal estado,negativo,manual,v2
+1197,La compra se gestiono incorrectamente,negativo,manual,v2
+1198,La compra fue complicada y poco practica,negativo,manual,v2
+1199,La compra entrego informacion insuficiente,negativo,manual,v2
+1200,La compra mostro un desempeno inestable,negativo,manual,v2
+1201,El proceso fue lento y confuso,negativo,manual,v2
+1202,El proceso no resolvio el problema,negativo,manual,v2
+1203,El proceso presento fallas constantes,negativo,manual,v2
+1204,El proceso resulto insatisfactorio,negativo,manual,v2
+1205,El proceso tuvo demasiados errores,negativo,manual,v2
+1206,El proceso no cumplio lo esperado,negativo,manual,v2
+1207,El proceso se interrumpio sin aviso,negativo,manual,v2
+1208,El proceso fue dificil de completar,negativo,manual,v2
+1209,El proceso genero mucha confusion,negativo,manual,v2
+1210,El proceso tuvo baja calidad,negativo,manual,v2
+1211,El proceso fue incompleta y tardia,negativo,manual,v2
+1212,El proceso no ayudo a resolver la duda,negativo,manual,v2
+1213,El proceso se desarrollo con demoras,negativo,manual,v2
+1214,El proceso dejo una mala impresion,negativo,manual,v2
+1215,El proceso fue poco confiable durante el uso,negativo,manual,v2
+1216,El proceso respondio de forma deficiente,negativo,manual,v2
+1217,El proceso empeoro la experiencia general,negativo,manual,v2
+1218,El proceso fue fria y poco clara,negativo,manual,v2
+1219,El proceso impidio avanzar correctamente,negativo,manual,v2
+1220,El proceso tuvo un resultado negativo,negativo,manual,v2
+1221,El proceso llego en mal estado,negativo,manual,v2
+1222,El proceso se gestiono incorrectamente,negativo,manual,v2
+1223,El proceso fue complicada y poco practica,negativo,manual,v2
+1224,El proceso entrego informacion insuficiente,negativo,manual,v2
+1225,El proceso mostro un desempeno inestable,negativo,manual,v2
+1226,La informacion fue lento y confuso,negativo,manual,v2
+1227,La informacion no resolvio el problema,negativo,manual,v2
+1228,La informacion presento fallas constantes,negativo,manual,v2
+1229,La informacion resulto insatisfactorio,negativo,manual,v2
+1230,La informacion tuvo demasiados errores,negativo,manual,v2
+1231,La informacion no cumplio lo esperado,negativo,manual,v2
+1232,La informacion se interrumpio sin aviso,negativo,manual,v2
+1233,La informacion fue dificil de completar,negativo,manual,v2
+1234,La informacion genero mucha confusion,negativo,manual,v2
+1235,La informacion tuvo baja calidad,negativo,manual,v2
+1236,La informacion fue incompleta y tardia,negativo,manual,v2
+1237,La informacion no ayudo a resolver la duda,negativo,manual,v2
+1238,La informacion se desarrollo con demoras,negativo,manual,v2
+1239,La informacion dejo una mala impresion,negativo,manual,v2
+1240,La informacion fue poco confiable durante el uso,negativo,manual,v2
+1241,La informacion respondio de forma deficiente,negativo,manual,v2
+1242,La informacion empeoro la experiencia general,negativo,manual,v2
+1243,La informacion fue fria y poco clara,negativo,manual,v2
+1244,La informacion impidio avanzar correctamente,negativo,manual,v2
+1245,La informacion tuvo un resultado negativo,negativo,manual,v2
+1246,La informacion llego en mal estado,negativo,manual,v2
+1247,La informacion se gestiono incorrectamente,negativo,manual,v2
+1248,La informacion fue complicada y poco practica,negativo,manual,v2
+1249,La informacion entrego informacion insuficiente,negativo,manual,v2
+1250,La informacion mostro un desempeno inestable,negativo,manual,v2
+1251,La respuesta fue lento y confuso,negativo,manual,v2
+1252,La respuesta no resolvio el problema,negativo,manual,v2
+1253,La respuesta presento fallas constantes,negativo,manual,v2
+1254,La respuesta resulto insatisfactorio,negativo,manual,v2
+1255,La respuesta tuvo demasiados errores,negativo,manual,v2
+1256,La respuesta no cumplio lo esperado,negativo,manual,v2
+1257,La respuesta se interrumpio sin aviso,negativo,manual,v2
+1258,La respuesta fue dificil de completar,negativo,manual,v2
+1259,La respuesta genero mucha confusion,negativo,manual,v2
+1260,La respuesta tuvo baja calidad,negativo,manual,v2
+1261,La respuesta fue incompleta y tardia,negativo,manual,v2
+1262,La respuesta no ayudo a resolver la duda,negativo,manual,v2
+1263,La respuesta se desarrollo con demoras,negativo,manual,v2
+1264,La respuesta dejo una mala impresion,negativo,manual,v2
+1265,La respuesta fue poco confiable durante el uso,negativo,manual,v2
+1266,La respuesta respondio de forma deficiente,negativo,manual,v2
+1267,La respuesta empeoro la experiencia general,negativo,manual,v2
+1268,La respuesta fue fria y poco clara,negativo,manual,v2
+1269,La respuesta impidio avanzar correctamente,negativo,manual,v2
+1270,La respuesta tuvo un resultado negativo,negativo,manual,v2
+1271,La respuesta llego en mal estado,negativo,manual,v2
+1272,La respuesta se gestiono incorrectamente,negativo,manual,v2
+1273,La respuesta fue complicada y poco practica,negativo,manual,v2
+1274,La respuesta entrego informacion insuficiente,negativo,manual,v2
+1275,La respuesta mostro un desempeno inestable,negativo,manual,v2
+1276,El tramite fue lento y confuso,negativo,manual,v2
+1277,El tramite no resolvio el problema,negativo,manual,v2
+1278,El tramite presento fallas constantes,negativo,manual,v2
+1279,El tramite resulto insatisfactorio,negativo,manual,v2
+1280,El tramite tuvo demasiados errores,negativo,manual,v2
+1281,El tramite no cumplio lo esperado,negativo,manual,v2
+1282,El tramite se interrumpio sin aviso,negativo,manual,v2
+1283,El tramite fue dificil de completar,negativo,manual,v2
+1284,El tramite genero mucha confusion,negativo,manual,v2
+1285,El tramite tuvo baja calidad,negativo,manual,v2
+1286,El tramite fue incompleta y tardia,negativo,manual,v2
+1287,El tramite no ayudo a resolver la duda,negativo,manual,v2
+1288,El tramite se desarrollo con demoras,negativo,manual,v2
+1289,El tramite dejo una mala impresion,negativo,manual,v2
+1290,El tramite fue poco confiable durante el uso,negativo,manual,v2
+1291,El tramite respondio de forma deficiente,negativo,manual,v2
+1292,El tramite empeoro la experiencia general,negativo,manual,v2
+1293,El tramite fue fria y poco clara,negativo,manual,v2
+1294,El tramite impidio avanzar correctamente,negativo,manual,v2
+1295,El tramite tuvo un resultado negativo,negativo,manual,v2
+1296,El tramite llego en mal estado,negativo,manual,v2
+1297,El tramite se gestiono incorrectamente,negativo,manual,v2
+1298,El tramite fue complicada y poco practica,negativo,manual,v2
+1299,El tramite entrego informacion insuficiente,negativo,manual,v2
+1300,El tramite mostro un desempeno inestable,negativo,manual,v2
+1301,La herramienta fue lento y confuso,negativo,manual,v2
+1302,La herramienta no resolvio el problema,negativo,manual,v2
+1303,La herramienta presento fallas constantes,negativo,manual,v2
+1304,La herramienta resulto insatisfactorio,negativo,manual,v2
+1305,La herramienta tuvo demasiados errores,negativo,manual,v2
+1306,La herramienta no cumplio lo esperado,negativo,manual,v2
+1307,La herramienta se interrumpio sin aviso,negativo,manual,v2
+1308,La herramienta fue dificil de completar,negativo,manual,v2
+1309,La herramienta genero mucha confusion,negativo,manual,v2
+1310,La herramienta tuvo baja calidad,negativo,manual,v2
+1311,La herramienta fue incompleta y tardia,negativo,manual,v2
+1312,La herramienta no ayudo a resolver la duda,negativo,manual,v2
+1313,La herramienta se desarrollo con demoras,negativo,manual,v2
+1314,La herramienta dejo una mala impresion,negativo,manual,v2
+1315,La herramienta fue poco confiable durante el uso,negativo,manual,v2
+1316,La herramienta respondio de forma deficiente,negativo,manual,v2
+1317,La herramienta empeoro la experiencia general,negativo,manual,v2
+1318,La herramienta fue fria y poco clara,negativo,manual,v2
+1319,La herramienta impidio avanzar correctamente,negativo,manual,v2
+1320,La herramienta tuvo un resultado negativo,negativo,manual,v2
+1321,La herramienta llego en mal estado,negativo,manual,v2
+1322,La herramienta se gestiono incorrectamente,negativo,manual,v2
+1323,La herramienta fue complicada y poco practica,negativo,manual,v2
+1324,La herramienta entrego informacion insuficiente,negativo,manual,v2
+1325,La herramienta mostro un desempeno inestable,negativo,manual,v2
+1326,El pedido fue lento y confuso,negativo,manual,v2
+1327,El pedido no resolvio el problema,negativo,manual,v2
+1328,El pedido presento fallas constantes,negativo,manual,v2
+1329,El pedido resulto insatisfactorio,negativo,manual,v2
+1330,El pedido tuvo demasiados errores,negativo,manual,v2
+1331,El pedido no cumplio lo esperado,negativo,manual,v2
+1332,El pedido se interrumpio sin aviso,negativo,manual,v2
+1333,El pedido fue dificil de completar,negativo,manual,v2
+1334,El pedido genero mucha confusion,negativo,manual,v2
+1335,El pedido tuvo baja calidad,negativo,manual,v2
+1336,El pedido fue incompleta y tardia,negativo,manual,v2
+1337,El pedido no ayudo a resolver la duda,negativo,manual,v2
+1338,El pedido se desarrollo con demoras,negativo,manual,v2
+1339,El pedido dejo una mala impresion,negativo,manual,v2
+1340,El pedido fue poco confiable durante el uso,negativo,manual,v2
+1341,El pedido respondio de forma deficiente,negativo,manual,v2
+1342,El pedido empeoro la experiencia general,negativo,manual,v2
+1343,El pedido fue fria y poco clara,negativo,manual,v2
+1344,El pedido impidio avanzar correctamente,negativo,manual,v2
+1345,El pedido tuvo un resultado negativo,negativo,manual,v2
+1346,El pedido llego en mal estado,negativo,manual,v2
+1347,El pedido se gestiono incorrectamente,negativo,manual,v2
+1348,El pedido fue complicada y poco practica,negativo,manual,v2
+1349,El pedido entrego informacion insuficiente,negativo,manual,v2
+1350,El pedido mostro un desempeno inestable,negativo,manual,v2
+1351,La experiencia fue lento y confuso,negativo,manual,v2
+1352,La experiencia no resolvio el problema,negativo,manual,v2
+1353,La experiencia presento fallas constantes,negativo,manual,v2
+1354,La experiencia resulto insatisfactorio,negativo,manual,v2
+1355,La experiencia tuvo demasiados errores,negativo,manual,v2
+1356,La experiencia no cumplio lo esperado,negativo,manual,v2
+1357,La experiencia se interrumpio sin aviso,negativo,manual,v2
+1358,La experiencia fue dificil de completar,negativo,manual,v2
+1359,La experiencia genero mucha confusion,negativo,manual,v2
+1360,La experiencia tuvo baja calidad,negativo,manual,v2
+1361,La experiencia fue incompleta y tardia,negativo,manual,v2
+1362,La experiencia no ayudo a resolver la duda,negativo,manual,v2
+1363,La experiencia se desarrollo con demoras,negativo,manual,v2
+1364,La experiencia dejo una mala impresion,negativo,manual,v2
+1365,La experiencia fue poco confiable durante el uso,negativo,manual,v2
+1366,La experiencia respondio de forma deficiente,negativo,manual,v2
+1367,La experiencia empeoro la experiencia general,negativo,manual,v2
+1368,La experiencia fue fria y poco clara,negativo,manual,v2
+1369,La experiencia impidio avanzar correctamente,negativo,manual,v2
+1370,La experiencia tuvo un resultado negativo,negativo,manual,v2
+1371,La experiencia llego en mal estado,negativo,manual,v2
+1372,La experiencia se gestiono incorrectamente,negativo,manual,v2
+1373,La experiencia fue complicada y poco practica,negativo,manual,v2
+1374,La experiencia entrego informacion insuficiente,negativo,manual,v2
+1375,La experiencia mostro un desempeno inestable,negativo,manual,v2
+1376,La guia fue lento y confuso,negativo,manual,v2
+1377,La guia no resolvio el problema,negativo,manual,v2
+1378,La guia presento fallas constantes,negativo,manual,v2
+1379,La guia resulto insatisfactorio,negativo,manual,v2
+1380,La guia tuvo demasiados errores,negativo,manual,v2
+1381,La guia no cumplio lo esperado,negativo,manual,v2
+1382,La guia se interrumpio sin aviso,negativo,manual,v2
+1383,La guia fue dificil de completar,negativo,manual,v2
+1384,La guia genero mucha confusion,negativo,manual,v2
+1385,La guia tuvo baja calidad,negativo,manual,v2
+1386,La guia fue incompleta y tardia,negativo,manual,v2
+1387,La guia no ayudo a resolver la duda,negativo,manual,v2
+1388,La guia se desarrollo con demoras,negativo,manual,v2
+1389,La guia dejo una mala impresion,negativo,manual,v2
+1390,La guia fue poco confiable durante el uso,negativo,manual,v2
+1391,La guia respondio de forma deficiente,negativo,manual,v2
+1392,La guia empeoro la experiencia general,negativo,manual,v2
+1393,La guia fue fria y poco clara,negativo,manual,v2
+1394,La guia impidio avanzar correctamente,negativo,manual,v2
+1395,La guia tuvo un resultado negativo,negativo,manual,v2
+1396,La guia llego en mal estado,negativo,manual,v2
+1397,La guia se gestiono incorrectamente,negativo,manual,v2
+1398,La guia fue complicada y poco practica,negativo,manual,v2
+1399,La guia entrego informacion insuficiente,negativo,manual,v2
+1400,La guia mostro un desempeno inestable,negativo,manual,v2
+1401,La solicitud fue lento y confuso,negativo,manual,v2
+1402,La solicitud no resolvio el problema,negativo,manual,v2
+1403,La solicitud presento fallas constantes,negativo,manual,v2
+1404,La solicitud resulto insatisfactorio,negativo,manual,v2
+1405,La solicitud tuvo demasiados errores,negativo,manual,v2
+1406,La solicitud no cumplio lo esperado,negativo,manual,v2
+1407,La solicitud se interrumpio sin aviso,negativo,manual,v2
+1408,La solicitud fue dificil de completar,negativo,manual,v2
+1409,La solicitud genero mucha confusion,negativo,manual,v2
+1410,La solicitud tuvo baja calidad,negativo,manual,v2
+1411,La solicitud fue incompleta y tardia,negativo,manual,v2
+1412,La solicitud no ayudo a resolver la duda,negativo,manual,v2
+1413,La solicitud se desarrollo con demoras,negativo,manual,v2
+1414,La solicitud dejo una mala impresion,negativo,manual,v2
+1415,La solicitud fue poco confiable durante el uso,negativo,manual,v2
+1416,La solicitud respondio de forma deficiente,negativo,manual,v2
+1417,La solicitud empeoro la experiencia general,negativo,manual,v2
+1418,La solicitud fue fria y poco clara,negativo,manual,v2
+1419,La solicitud impidio avanzar correctamente,negativo,manual,v2
+1420,La solicitud tuvo un resultado negativo,negativo,manual,v2
+1421,La solicitud llego en mal estado,negativo,manual,v2
+1422,La solicitud se gestiono incorrectamente,negativo,manual,v2
+1423,La solicitud fue complicada y poco practica,negativo,manual,v2
+1424,La solicitud entrego informacion insuficiente,negativo,manual,v2
+1425,La solicitud mostro un desempeno inestable,negativo,manual,v2
+1426,El reporte fue lento y confuso,negativo,manual,v2
+1427,El reporte no resolvio el problema,negativo,manual,v2
+1428,El reporte presento fallas constantes,negativo,manual,v2
+1429,El reporte resulto insatisfactorio,negativo,manual,v2
+1430,El reporte tuvo demasiados errores,negativo,manual,v2
+1431,El reporte no cumplio lo esperado,negativo,manual,v2
+1432,El reporte se interrumpio sin aviso,negativo,manual,v2
+1433,El reporte fue dificil de completar,negativo,manual,v2
+1434,El reporte genero mucha confusion,negativo,manual,v2
+1435,El reporte tuvo baja calidad,negativo,manual,v2
+1436,El reporte fue incompleta y tardia,negativo,manual,v2
+1437,El reporte no ayudo a resolver la duda,negativo,manual,v2
+1438,El reporte se desarrollo con demoras,negativo,manual,v2
+1439,El reporte dejo una mala impresion,negativo,manual,v2
+1440,El reporte fue poco confiable durante el uso,negativo,manual,v2
+1441,El reporte respondio de forma deficiente,negativo,manual,v2
+1442,El reporte empeoro la experiencia general,negativo,manual,v2
+1443,El reporte fue fria y poco clara,negativo,manual,v2
+1444,El reporte impidio avanzar correctamente,negativo,manual,v2
+1445,El reporte tuvo un resultado negativo,negativo,manual,v2
+1446,El reporte llego en mal estado,negativo,manual,v2
+1447,El reporte se gestiono incorrectamente,negativo,manual,v2
+1448,El reporte fue complicada y poco practica,negativo,manual,v2
+1449,El reporte entrego informacion insuficiente,negativo,manual,v2
+1450,El reporte mostro un desempeno inestable,negativo,manual,v2
+1451,La orientacion fue lento y confuso,negativo,manual,v2
+1452,La orientacion no resolvio el problema,negativo,manual,v2
+1453,La orientacion presento fallas constantes,negativo,manual,v2
+1454,La orientacion resulto insatisfactorio,negativo,manual,v2
+1455,La orientacion tuvo demasiados errores,negativo,manual,v2
+1456,La orientacion no cumplio lo esperado,negativo,manual,v2
+1457,La orientacion se interrumpio sin aviso,negativo,manual,v2
+1458,La orientacion fue dificil de completar,negativo,manual,v2
+1459,La orientacion genero mucha confusion,negativo,manual,v2
+1460,La orientacion tuvo baja calidad,negativo,manual,v2
+1461,La orientacion fue incompleta y tardia,negativo,manual,v2
+1462,La orientacion no ayudo a resolver la duda,negativo,manual,v2
+1463,La orientacion se desarrollo con demoras,negativo,manual,v2
+1464,La orientacion dejo una mala impresion,negativo,manual,v2
+1465,La orientacion fue poco confiable durante el uso,negativo,manual,v2
+1466,La orientacion respondio de forma deficiente,negativo,manual,v2
+1467,La orientacion empeoro la experiencia general,negativo,manual,v2
+1468,La orientacion fue fria y poco clara,negativo,manual,v2
+1469,La orientacion impidio avanzar correctamente,negativo,manual,v2
+1470,La orientacion tuvo un resultado negativo,negativo,manual,v2
+1471,La orientacion llego en mal estado,negativo,manual,v2
+1472,La orientacion se gestiono incorrectamente,negativo,manual,v2
+1473,La orientacion fue complicada y poco practica,negativo,manual,v2
+1474,La orientacion entrego informacion insuficiente,negativo,manual,v2
+1475,La orientacion mostro un desempeno inestable,negativo,manual,v2
+1476,La gestion fue lento y confuso,negativo,manual,v2
+1477,La gestion no resolvio el problema,negativo,manual,v2
+1478,La gestion presento fallas constantes,negativo,manual,v2
+1479,La gestion resulto insatisfactorio,negativo,manual,v2
+1480,La gestion tuvo demasiados errores,negativo,manual,v2
+1481,La gestion no cumplio lo esperado,negativo,manual,v2
+1482,La gestion se interrumpio sin aviso,negativo,manual,v2
+1483,La gestion fue dificil de completar,negativo,manual,v2
+1484,La gestion genero mucha confusion,negativo,manual,v2
+1485,La gestion tuvo baja calidad,negativo,manual,v2
+1486,La gestion fue incompleta y tardia,negativo,manual,v2
+1487,La gestion no ayudo a resolver la duda,negativo,manual,v2
+1488,La gestion se desarrollo con demoras,negativo,manual,v2
+1489,La gestion dejo una mala impresion,negativo,manual,v2
+1490,La gestion fue poco confiable durante el uso,negativo,manual,v2
+1491,La gestion respondio de forma deficiente,negativo,manual,v2
+1492,La gestion empeoro la experiencia general,negativo,manual,v2
+1493,La gestion fue fria y poco clara,negativo,manual,v2
+1494,La gestion impidio avanzar correctamente,negativo,manual,v2
+1495,La gestion tuvo un resultado negativo,negativo,manual,v2
+1496,La gestion llego en mal estado,negativo,manual,v2
+1497,La gestion se gestiono incorrectamente,negativo,manual,v2
+1498,La gestion fue complicada y poco practica,negativo,manual,v2
+1499,La gestion entrego informacion insuficiente,negativo,manual,v2
+1500,La gestion mostro un desempeno inestable,negativo,manual,v2

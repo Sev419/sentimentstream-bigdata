@@ -1,0 +1,151 @@
+id,texto,sentimiento,fuente,version
+1,"Me sorprendio que todo saliera bien al primer intento",positivo,validacion_externa,v2_external
+2,"La respuesta no fue larga pero si bastante clara",positivo,validacion_externa,v2_external
+3,"Aunque dude al inicio el proceso termino funcionando",positivo,validacion_externa,v2_external
+4,"El pedido tardo un poco pero llego completo",positivo,validacion_externa,v2_external
+5,"La explicacion me ayudo a continuar sin pedir mas soporte",positivo,validacion_externa,v2_external
+6,"El sistema se sintio mas estable que antes",positivo,validacion_externa,v2_external
+7,"La compra fue tranquila y sin pasos confusos",positivo,validacion_externa,v2_external
+8,"El servicio resolvio lo importante en poco tiempo",positivo,validacion_externa,v2_external
+9,"No esperaba mucho pero el resultado fue bueno",positivo,validacion_externa,v2_external
+10,"La herramienta hizo la tarea mas simple",positivo,validacion_externa,v2_external
+11,"El mensaje de confirmacion fue claro y suficiente",positivo,validacion_externa,v2_external
+12,"La entrega llego completa y bien presentada",positivo,validacion_externa,v2_external
+13,"La atencion fue cercana sin ser insistente",positivo,validacion_externa,v2_external
+14,"El cambio solicitado quedo bien aplicado",positivo,validacion_externa,v2_external
+15,"La plataforma respondio rapido durante la revision",positivo,validacion_externa,v2_external
+16,"El producto cumplio con lo que necesitaba",positivo,validacion_externa,v2_external
+17,"Fue facil encontrar la informacion principal",positivo,validacion_externa,v2_external
+18,"La solucion fue sencilla pero efectiva",positivo,validacion_externa,v2_external
+19,"El seguimiento me parecio oportuno",positivo,validacion_externa,v2_external
+20,"La experiencia fue mejor de lo que esperaba",positivo,validacion_externa,v2_external
+21,"El soporte aclaro la duda sin vueltas",positivo,validacion_externa,v2_external
+22,"El flujo se entendio rapido despues de leer la guia",positivo,validacion_externa,v2_external
+23,"La informacion llego organizada y facil de revisar",positivo,validacion_externa,v2_external
+24,"El servicio fue consistente durante todo el proceso",positivo,validacion_externa,v2_external
+25,"La respuesta fue breve pero resolvio el caso",positivo,validacion_externa,v2_external
+26,"El producto funciono bien en la prueba inicial",positivo,validacion_externa,v2_external
+27,"La entrega estuvo dentro del tiempo esperado",positivo,validacion_externa,v2_external
+28,"La plataforma permitio completar la solicitud sin fallos",positivo,validacion_externa,v2_external
+29,"La asesoria fue util para tomar una decision",positivo,validacion_externa,v2_external
+30,"El proceso quedo claro al segundo paso",positivo,validacion_externa,v2_external
+31,"La gestion fue ordenada y sin sorpresas",positivo,validacion_externa,v2_external
+32,"El reporte mostro justo lo que necesitaba",positivo,validacion_externa,v2_external
+33,"La herramienta respondio bien incluso con varios intentos",positivo,validacion_externa,v2_external
+34,"El pedido llego cuidado y sin elementos faltantes",positivo,validacion_externa,v2_external
+35,"La comunicacion fue adecuada durante la espera",positivo,validacion_externa,v2_external
+36,"El tramite fue mas rapido de lo previsto",positivo,validacion_externa,v2_external
+37,"La informacion fue suficiente para cerrar la solicitud",positivo,validacion_externa,v2_external
+38,"El sistema guardo todo correctamente",positivo,validacion_externa,v2_external
+39,"La experiencia resulto comoda y clara",positivo,validacion_externa,v2_external
+40,"La respuesta incluyo una orientacion practica",positivo,validacion_externa,v2_external
+41,"El servicio dejo una impresion favorable",positivo,validacion_externa,v2_external
+42,"El producto se comporto de forma estable",positivo,validacion_externa,v2_external
+43,"La guia explico el camino sin complicarlo",positivo,validacion_externa,v2_external
+44,"La solicitud avanzo con normalidad y buen soporte",positivo,validacion_externa,v2_external
+45,"El resultado final fue correcto y util",positivo,validacion_externa,v2_external
+46,"La atencion respondio con buen tono",positivo,validacion_externa,v2_external
+47,"El panel facilito revisar el estado",positivo,validacion_externa,v2_external
+48,"La compra se sintio segura hasta el final",positivo,validacion_externa,v2_external
+49,"El servicio cumplio sin necesidad de insistir",positivo,validacion_externa,v2_external
+50,"La solucion llego a tiempo y funciono",positivo,validacion_externa,v2_external
+51,"El pedido aparece registrado en el sistema",neutral,validacion_externa,v2_external
+52,"La solicitud quedo pendiente de revision",neutral,validacion_externa,v2_external
+53,"El formulario muestra los datos ingresados",neutral,validacion_externa,v2_external
+54,"La consulta fue enviada para analisis",neutral,validacion_externa,v2_external
+55,"El reporte contiene informacion general",neutral,validacion_externa,v2_external
+56,"La entrega figura con estado en ruta",neutral,validacion_externa,v2_external
+57,"El documento esta disponible en la plataforma",neutral,validacion_externa,v2_external
+58,"La orden se mantiene abierta",neutral,validacion_externa,v2_external
+59,"El sistema genero una notificacion",neutral,validacion_externa,v2_external
+60,"La factura aparece como emitida",neutral,validacion_externa,v2_external
+61,"La respuesta indica que el caso sigue activo",neutral,validacion_externa,v2_external
+62,"El producto tiene una descripcion breve",neutral,validacion_externa,v2_external
+63,"La revision fue asignada a un equipo",neutral,validacion_externa,v2_external
+64,"El mensaje quedo guardado en historial",neutral,validacion_externa,v2_external
+65,"El tramite continua en proceso",neutral,validacion_externa,v2_external
+66,"La pantalla muestra el estado actual",neutral,validacion_externa,v2_external
+67,"El archivo fue cargado correctamente",neutral,validacion_externa,v2_external
+68,"La consulta tiene prioridad normal",neutral,validacion_externa,v2_external
+69,"El registro incluye fecha y categoria",neutral,validacion_externa,v2_external
+70,"La entrega tiene seguimiento activo",neutral,validacion_externa,v2_external
+71,"El sistema muestra varias opciones",neutral,validacion_externa,v2_external
+72,"La solicitud fue recibida hoy",neutral,validacion_externa,v2_external
+73,"El producto aparece en inventario",neutral,validacion_externa,v2_external
+74,"La respuesta esta pendiente de confirmacion",neutral,validacion_externa,v2_external
+75,"El reporte fue generado por el sistema",neutral,validacion_externa,v2_external
+76,"La informacion se mantiene igual",neutral,validacion_externa,v2_external
+77,"El tramite fue registrado sin observaciones",neutral,validacion_externa,v2_external
+78,"La consulta esta disponible para revision",neutral,validacion_externa,v2_external
+79,"El panel muestra actividad reciente",neutral,validacion_externa,v2_external
+80,"La orden permanece en cola",neutral,validacion_externa,v2_external
+81,"El documento contiene datos generales",neutral,validacion_externa,v2_external
+82,"La solicitud tiene respuesta parcial",neutral,validacion_externa,v2_external
+83,"El sistema conserva el registro",neutral,validacion_externa,v2_external
+84,"La entrega esta programada para revision",neutral,validacion_externa,v2_external
+85,"El producto tiene dos alternativas",neutral,validacion_externa,v2_external
+86,"La consulta quedo sin asignar",neutral,validacion_externa,v2_external
+87,"El archivo esta listo para descarga",neutral,validacion_externa,v2_external
+88,"La respuesta fue registrada",neutral,validacion_externa,v2_external
+89,"El estado se muestra como activo",neutral,validacion_externa,v2_external
+90,"La solicitud esta documentada",neutral,validacion_externa,v2_external
+91,"El reporte incluye tres secciones",neutral,validacion_externa,v2_external
+92,"La informacion fue recibida",neutral,validacion_externa,v2_external
+93,"El tramite espera confirmacion",neutral,validacion_externa,v2_external
+94,"La consulta fue guardada",neutral,validacion_externa,v2_external
+95,"El producto se encuentra reservado",neutral,validacion_externa,v2_external
+96,"La entrega fue programada",neutral,validacion_externa,v2_external
+97,"El sistema muestra el detalle",neutral,validacion_externa,v2_external
+98,"La orden sigue activa",neutral,validacion_externa,v2_external
+99,"El panel contiene el resumen",neutral,validacion_externa,v2_external
+100,"La notificacion queda visible",neutral,validacion_externa,v2_external
+101,"El pedido llego tarde y con problemas",negativo,validacion_externa,v2_external
+102,"La respuesta no aclaro nada importante",negativo,validacion_externa,v2_external
+103,"El proceso fue mas confuso de lo necesario",negativo,validacion_externa,v2_external
+104,"La plataforma se cerro mientras avanzaba",negativo,validacion_externa,v2_external
+105,"El soporte tardo y no resolvio el caso",negativo,validacion_externa,v2_external
+106,"El producto fallo durante la primera prueba",negativo,validacion_externa,v2_external
+107,"La informacion recibida no coincidia",negativo,validacion_externa,v2_external
+108,"La entrega llego incompleta",negativo,validacion_externa,v2_external
+109,"El sistema perdio los cambios realizados",negativo,validacion_externa,v2_external
+110,"La compra termino siendo complicada",negativo,validacion_externa,v2_external
+111,"La atencion fue poco clara",negativo,validacion_externa,v2_external
+112,"El reporte no mostro los datos esperados",negativo,validacion_externa,v2_external
+113,"La guia dejo dudas sin resolver",negativo,validacion_externa,v2_external
+114,"El tramite se quedo detenido",negativo,validacion_externa,v2_external
+115,"La respuesta llego demasiado tarde",negativo,validacion_externa,v2_external
+116,"El servicio fue inestable durante la solicitud",negativo,validacion_externa,v2_external
+117,"El producto no cumplio con lo indicado",negativo,validacion_externa,v2_external
+118,"La plataforma no permitio terminar el proceso",negativo,validacion_externa,v2_external
+119,"La orientacion fue insuficiente",negativo,validacion_externa,v2_external
+120,"El pedido fue cancelado sin aviso claro",negativo,validacion_externa,v2_external
+121,"La experiencia dejo una sensacion negativa",negativo,validacion_externa,v2_external
+122,"El sistema mostro errores al guardar",negativo,validacion_externa,v2_external
+123,"La solicitud no avanzo despues de varios intentos",negativo,validacion_externa,v2_external
+124,"La entrega quedo sin seguimiento",negativo,validacion_externa,v2_external
+125,"El soporte respondio con informacion incompleta",negativo,validacion_externa,v2_external
+126,"El proceso tomo mas tiempo del esperado",negativo,validacion_externa,v2_external
+127,"La herramienta fue dificil de usar",negativo,validacion_externa,v2_external
+128,"La compra genero varios inconvenientes",negativo,validacion_externa,v2_external
+129,"El producto llego con fallas visibles",negativo,validacion_externa,v2_external
+130,"La respuesta fue breve pero poco util",negativo,validacion_externa,v2_external
+131,"El servicio no dio confianza",negativo,validacion_externa,v2_external
+132,"La informacion fue contradictoria",negativo,validacion_externa,v2_external
+133,"El tramite tuvo demasiados pasos",negativo,validacion_externa,v2_external
+134,"La plataforma cargo muy lento",negativo,validacion_externa,v2_external
+135,"El pedido no coincidio con la solicitud",negativo,validacion_externa,v2_external
+136,"La guia no explico el problema principal",negativo,validacion_externa,v2_external
+137,"El resultado final fue decepcionante",negativo,validacion_externa,v2_external
+138,"La gestion fue desordenada",negativo,validacion_externa,v2_external
+139,"La atencion dejo el caso abierto",negativo,validacion_externa,v2_external
+140,"El sistema fallo al finalizar",negativo,validacion_externa,v2_external
+141,"El producto tuvo bajo rendimiento",negativo,validacion_externa,v2_external
+142,"La entrega no fue cuidadosa",negativo,validacion_externa,v2_external
+143,"El servicio fue lento desde el inicio",negativo,validacion_externa,v2_external
+144,"La consulta quedo sin resolver",negativo,validacion_externa,v2_external
+145,"La informacion no fue suficiente",negativo,validacion_externa,v2_external
+146,"El proceso termino con error",negativo,validacion_externa,v2_external
+147,"La plataforma no respondia bien",negativo,validacion_externa,v2_external
+148,"El soporte no explico los pasos",negativo,validacion_externa,v2_external
+149,"El pedido tuvo retrasos repetidos",negativo,validacion_externa,v2_external
+150,"La experiencia fue frustrante",negativo,validacion_externa,v2_external

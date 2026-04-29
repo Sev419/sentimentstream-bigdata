@@ -1,0 +1,301 @@
+id,texto,sentimiento,fuente,version
+1,"Me fue bien con la compra, no perfecto pero si cumplio",positivo,realistic_validation,v2_realistic
+2,La entrega demoro un poco y aun asi llego completa,positivo,realistic_validation,v2_realistic
+3,El servicio me saco de la duda rapido,positivo,realistic_validation,v2_realistic
+4,"No estuvo mal, de hecho me resolvio lo que necesitaba",positivo,realistic_validation,v2_realistic
+5,La atencion fue clara y sin tanta vuelta,positivo,realistic_validation,v2_realistic
+6,El producto funciono bien desde que lo probe,positivo,realistic_validation,v2_realistic
+7,Me gusto que avisaran cada cambio del pedido,positivo,realistic_validation,v2_realistic
+8,La pagina cargo bien y pude terminar el tramite,positivo,realistic_validation,v2_realistic
+9,La respuesta fue corta pero suficiente,positivo,realistic_validation,v2_realistic
+10,Al final la experiencia fue bastante buena,positivo,realistic_validation,v2_realistic
+11,El soporte respondio con paciencia,positivo,realistic_validation,v2_realistic
+12,La guia me ayudo mas de lo que esperaba,positivo,realistic_validation,v2_realistic
+13,La compra salio tranquila y sin sustos,positivo,realistic_validation,v2_realistic
+14,"El pedido llego cuidado, eso se agradece",positivo,realistic_validation,v2_realistic
+15,El sistema guardo los datos sin problema,positivo,realistic_validation,v2_realistic
+16,Me parecio facil revisar el estado,positivo,realistic_validation,v2_realistic
+17,La solucion no fue complicada y funciono,positivo,realistic_validation,v2_realistic
+18,El proceso fue mas claro que otras veces,positivo,realistic_validation,v2_realistic
+19,La informacion llego ordenada,positivo,realistic_validation,v2_realistic
+20,La atencion tuvo buen tono y fue util,positivo,realistic_validation,v2_realistic
+21,"No me disgusto el resultado, quedo bien",positivo,realistic_validation,v2_realistic
+22,La entrega estuvo dentro de lo esperado,positivo,realistic_validation,v2_realistic
+23,El producto venia completo y bien presentado,positivo,realistic_validation,v2_realistic
+24,La plataforma se sintio estable,positivo,realistic_validation,v2_realistic
+25,El tramite termino antes de lo que pense,positivo,realistic_validation,v2_realistic
+26,La consulta quedo resuelta sin insistir,positivo,realistic_validation,v2_realistic
+27,El seguimiento fue oportuno,positivo,realistic_validation,v2_realistic
+28,La respuesta aclaro el punto principal,positivo,realistic_validation,v2_realistic
+29,Me sirvio la orientacion que dieron,positivo,realistic_validation,v2_realistic
+30,El servicio fue correcto en general,positivo,realistic_validation,v2_realistic
+31,La herramienta hizo mas facil la tarea,positivo,realistic_validation,v2_realistic
+32,El cambio quedo aplicado como esperaba,positivo,realistic_validation,v2_realistic
+33,La experiencia fue comoda y simple,positivo,realistic_validation,v2_realistic
+34,El pedido fue gestionado con cuidado,positivo,realistic_validation,v2_realistic
+35,El soporte entendio bien el caso,positivo,realistic_validation,v2_realistic
+36,La factura quedo clara y disponible,positivo,realistic_validation,v2_realistic
+37,Pude completar todo sin errores,positivo,realistic_validation,v2_realistic
+38,La revision ayudo a confirmar el dato,positivo,realistic_validation,v2_realistic
+39,El producto cumplio lo basico y algo mas,positivo,realistic_validation,v2_realistic
+40,La comunicacion fue mejor de lo esperado,positivo,realistic_validation,v2_realistic
+41,No tuve inconvenientes importantes,positivo,realistic_validation,v2_realistic
+42,La respuesta llego a tiempo,positivo,realistic_validation,v2_realistic
+43,El panel fue facil de entender,positivo,realistic_validation,v2_realistic
+44,La solicitud avanzo sin tropiezos,positivo,realistic_validation,v2_realistic
+45,"La entrega llego bien, aunque esperaba menos demora",positivo,realistic_validation,v2_realistic
+46,El servicio dio una solucion practica,positivo,realistic_validation,v2_realistic
+47,La plataforma permitio finalizar rapido,positivo,realistic_validation,v2_realistic
+48,Me senti bien atendido durante el proceso,positivo,realistic_validation,v2_realistic
+49,El reporte mostro lo que buscaba,positivo,realistic_validation,v2_realistic
+50,La informacion fue precisa para decidir,positivo,realistic_validation,v2_realistic
+51,La compra se completo de forma segura,positivo,realistic_validation,v2_realistic
+52,El sistema respondio mejor esta vez,positivo,realistic_validation,v2_realistic
+53,El producto se comporto bien,positivo,realistic_validation,v2_realistic
+54,La guia era breve pero clara,positivo,realistic_validation,v2_realistic
+55,El tramite fue directo,positivo,realistic_validation,v2_realistic
+56,La respuesta fue amable y concreta,positivo,realistic_validation,v2_realistic
+57,El pedido llego sin golpes visibles,positivo,realistic_validation,v2_realistic
+58,La atencion resolvio la inquietud,positivo,realistic_validation,v2_realistic
+59,Me gusto el orden del proceso,positivo,realistic_validation,v2_realistic
+60,La experiencia final fue positiva,positivo,realistic_validation,v2_realistic
+61,El servicio mantuvo buena comunicacion,positivo,realistic_validation,v2_realistic
+62,La herramienta respondio incluso con varios intentos,positivo,realistic_validation,v2_realistic
+63,La entrega fue puntual,positivo,realistic_validation,v2_realistic
+64,El soporte explico los pasos con claridad,positivo,realistic_validation,v2_realistic
+65,El resultado me dejo conforme,positivo,realistic_validation,v2_realistic
+66,La pagina fue sencilla de usar,positivo,realistic_validation,v2_realistic
+67,La solicitud quedo resuelta,positivo,realistic_validation,v2_realistic
+68,El producto tenia buena calidad,positivo,realistic_validation,v2_realistic
+69,La confirmacion llego rapido,positivo,realistic_validation,v2_realistic
+70,La gestion fue seria y ordenada,positivo,realistic_validation,v2_realistic
+71,El servicio cumplio sin hacerme esperar mucho,positivo,realistic_validation,v2_realistic
+72,La compra fue mas facil de lo previsto,positivo,realistic_validation,v2_realistic
+73,El sistema no se trabo durante el uso,positivo,realistic_validation,v2_realistic
+74,La respuesta fue util para continuar,positivo,realistic_validation,v2_realistic
+75,El pedido estaba completo,positivo,realistic_validation,v2_realistic
+76,La asesoria fue clara,positivo,realistic_validation,v2_realistic
+77,El proceso tuvo buena continuidad,positivo,realistic_validation,v2_realistic
+78,La informacion se entendio bien,positivo,realistic_validation,v2_realistic
+79,La plataforma se mantuvo disponible,positivo,realistic_validation,v2_realistic
+80,La entrega fue correcta,positivo,realistic_validation,v2_realistic
+81,El producto cumplio con la descripcion,positivo,realistic_validation,v2_realistic
+82,La atencion fue rapida y respetuosa,positivo,realistic_validation,v2_realistic
+83,Me gusto que todo quedara registrado,positivo,realistic_validation,v2_realistic
+84,La experiencia no tuvo mayores problemas,positivo,realistic_validation,v2_realistic
+85,El soporte fue efectivo,positivo,realistic_validation,v2_realistic
+86,La respuesta resolvio el bloqueo,positivo,realistic_validation,v2_realistic
+87,El tramite no fue pesado,positivo,realistic_validation,v2_realistic
+88,El servicio fue confiable,positivo,realistic_validation,v2_realistic
+89,La compra termino bien,positivo,realistic_validation,v2_realistic
+90,La guia dejo claro que hacer,positivo,realistic_validation,v2_realistic
+91,La solicitud fue atendida con rapidez,positivo,realistic_validation,v2_realistic
+92,El producto funciono de forma estable,positivo,realistic_validation,v2_realistic
+93,La informacion fue completa,positivo,realistic_validation,v2_realistic
+94,El sistema confirmo correctamente,positivo,realistic_validation,v2_realistic
+95,La experiencia fue mejor que antes,positivo,realistic_validation,v2_realistic
+96,El seguimiento ayudo bastante,positivo,realistic_validation,v2_realistic
+97,La entrega llego como se habia indicado,positivo,realistic_validation,v2_realistic
+98,El resultado fue satisfactorio,positivo,realistic_validation,v2_realistic
+99,La herramienta fue practica,positivo,realistic_validation,v2_realistic
+100,El servicio cerro bien el caso,positivo,realistic_validation,v2_realistic
+101,El pedido aparece en seguimiento,neutral,realistic_validation,v2_realistic
+102,La solicitud quedo registrada,neutral,realistic_validation,v2_realistic
+103,El sistema muestra el estado actual,neutral,realistic_validation,v2_realistic
+104,La factura esta disponible para consulta,neutral,realistic_validation,v2_realistic
+105,El documento fue cargado,neutral,realistic_validation,v2_realistic
+106,La consulta sigue abierta,neutral,realistic_validation,v2_realistic
+107,El reporte tiene informacion general,neutral,realistic_validation,v2_realistic
+108,La entrega figura programada,neutral,realistic_validation,v2_realistic
+109,La orden permanece activa,neutral,realistic_validation,v2_realistic
+110,El mensaje quedo guardado,neutral,realistic_validation,v2_realistic
+111,La respuesta indica que continua en revision,neutral,realistic_validation,v2_realistic
+112,El producto aparece con descripcion breve,neutral,realistic_validation,v2_realistic
+113,El tramite esta en proceso,neutral,realistic_validation,v2_realistic
+114,La pantalla muestra los datos ingresados,neutral,realistic_validation,v2_realistic
+115,El archivo quedo listo para descarga,neutral,realistic_validation,v2_realistic
+116,La consulta tiene prioridad normal,neutral,realistic_validation,v2_realistic
+117,El registro incluye fecha y categoria,neutral,realistic_validation,v2_realistic
+118,La entrega tiene seguimiento activo,neutral,realistic_validation,v2_realistic
+119,El sistema genero una notificacion,neutral,realistic_validation,v2_realistic
+120,La solicitud fue recibida hoy,neutral,realistic_validation,v2_realistic
+121,El producto figura en inventario,neutral,realistic_validation,v2_realistic
+122,La respuesta espera confirmacion,neutral,realistic_validation,v2_realistic
+123,El reporte fue generado,neutral,realistic_validation,v2_realistic
+124,La informacion se mantiene sin cambios,neutral,realistic_validation,v2_realistic
+125,El tramite quedo documentado,neutral,realistic_validation,v2_realistic
+126,La consulta esta disponible para revision,neutral,realistic_validation,v2_realistic
+127,El panel muestra actividad reciente,neutral,realistic_validation,v2_realistic
+128,La orden quedo en cola,neutral,realistic_validation,v2_realistic
+129,El documento contiene datos generales,neutral,realistic_validation,v2_realistic
+130,La solicitud tiene respuesta parcial,neutral,realistic_validation,v2_realistic
+131,El sistema conserva el registro,neutral,realistic_validation,v2_realistic
+132,La entrega fue programada para la semana,neutral,realistic_validation,v2_realistic
+133,El producto tiene dos alternativas,neutral,realistic_validation,v2_realistic
+134,La consulta quedo sin asignar,neutral,realistic_validation,v2_realistic
+135,La respuesta fue registrada,neutral,realistic_validation,v2_realistic
+136,El estado se muestra activo,neutral,realistic_validation,v2_realistic
+137,La solicitud esta documentada,neutral,realistic_validation,v2_realistic
+138,El reporte incluye varias secciones,neutral,realistic_validation,v2_realistic
+139,La informacion fue recibida,neutral,realistic_validation,v2_realistic
+140,El tramite espera confirmacion,neutral,realistic_validation,v2_realistic
+141,La consulta fue guardada,neutral,realistic_validation,v2_realistic
+142,El producto esta reservado,neutral,realistic_validation,v2_realistic
+143,El sistema muestra el detalle,neutral,realistic_validation,v2_realistic
+144,La orden sigue activa,neutral,realistic_validation,v2_realistic
+145,El panel contiene el resumen,neutral,realistic_validation,v2_realistic
+146,La notificacion queda visible,neutral,realistic_validation,v2_realistic
+147,El formulario conserva los campos,neutral,realistic_validation,v2_realistic
+148,La fecha aparece en el registro,neutral,realistic_validation,v2_realistic
+149,El caso queda para revision,neutral,realistic_validation,v2_realistic
+150,La entrega esta en ruta,neutral,realistic_validation,v2_realistic
+151,El pedido fue marcado como recibido,neutral,realistic_validation,v2_realistic
+152,La solicitud tiene estado pendiente,neutral,realistic_validation,v2_realistic
+153,El sistema permite ver el historial,neutral,realistic_validation,v2_realistic
+154,La factura se encuentra emitida,neutral,realistic_validation,v2_realistic
+155,El documento no tiene comentarios adicionales,neutral,realistic_validation,v2_realistic
+156,La consulta fue clasificada,neutral,realistic_validation,v2_realistic
+157,El reporte se actualizo hoy,neutral,realistic_validation,v2_realistic
+158,La orden tiene un identificador interno,neutral,realistic_validation,v2_realistic
+159,La plataforma muestra opciones disponibles,neutral,realistic_validation,v2_realistic
+160,El archivo contiene datos basicos,neutral,realistic_validation,v2_realistic
+161,La revision esta asignada,neutral,realistic_validation,v2_realistic
+162,El producto sigue listado,neutral,realistic_validation,v2_realistic
+163,La respuesta esta en espera,neutral,realistic_validation,v2_realistic
+164,El tramite conserva el mismo estado,neutral,realistic_validation,v2_realistic
+165,La solicitud fue enviada al area correspondiente,neutral,realistic_validation,v2_realistic
+166,El sistema recibio la informacion,neutral,realistic_validation,v2_realistic
+167,La entrega aparece sin novedad,neutral,realistic_validation,v2_realistic
+168,El registro esta completo,neutral,realistic_validation,v2_realistic
+169,La consulta quedo en historial,neutral,realistic_validation,v2_realistic
+170,El panel muestra el avance,neutral,realistic_validation,v2_realistic
+171,La orden fue creada,neutral,realistic_validation,v2_realistic
+172,El formulario fue enviado,neutral,realistic_validation,v2_realistic
+173,La informacion aparece organizada,neutral,realistic_validation,v2_realistic
+174,El reporte se puede abrir,neutral,realistic_validation,v2_realistic
+175,La fecha fue actualizada,neutral,realistic_validation,v2_realistic
+176,El producto tiene garantia vigente,neutral,realistic_validation,v2_realistic
+177,La solicitud esta en cola,neutral,realistic_validation,v2_realistic
+178,El mensaje esta disponible,neutral,realistic_validation,v2_realistic
+179,La entrega tiene fecha estimada,neutral,realistic_validation,v2_realistic
+180,El sistema muestra una alerta informativa,neutral,realistic_validation,v2_realistic
+181,La respuesta contiene instrucciones,neutral,realistic_validation,v2_realistic
+182,El documento fue revisado,neutral,realistic_validation,v2_realistic
+183,La consulta permanece activa,neutral,realistic_validation,v2_realistic
+184,El pedido fue actualizado,neutral,realistic_validation,v2_realistic
+185,La plataforma muestra el resumen,neutral,realistic_validation,v2_realistic
+186,El tramite fue creado,neutral,realistic_validation,v2_realistic
+187,La informacion quedo registrada,neutral,realistic_validation,v2_realistic
+188,El producto aparece como disponible,neutral,realistic_validation,v2_realistic
+189,La revision continua,neutral,realistic_validation,v2_realistic
+190,El estado no ha cambiado,neutral,realistic_validation,v2_realistic
+191,La solicitud quedo para seguimiento,neutral,realistic_validation,v2_realistic
+192,El archivo se mantiene almacenado,neutral,realistic_validation,v2_realistic
+193,La orden esta en revision,neutral,realistic_validation,v2_realistic
+194,El reporte contiene fecha y estado,neutral,realistic_validation,v2_realistic
+195,La notificacion fue enviada,neutral,realistic_validation,v2_realistic
+196,El sistema muestra el resultado,neutral,realistic_validation,v2_realistic
+197,La entrega fue asignada,neutral,realistic_validation,v2_realistic
+198,El caso sigue abierto,neutral,realistic_validation,v2_realistic
+199,La consulta fue recibida,neutral,realistic_validation,v2_realistic
+200,El panel conserva los datos,neutral,realistic_validation,v2_realistic
+201,El pedido llego tarde y con detalles pendientes,negativo,realistic_validation,v2_realistic
+202,La respuesta no aclaro lo importante,negativo,realistic_validation,v2_realistic
+203,El proceso fue confuso desde el inicio,negativo,realistic_validation,v2_realistic
+204,La plataforma se cerro mientras avanzaba,negativo,realistic_validation,v2_realistic
+205,El soporte tardo y no resolvio el caso,negativo,realistic_validation,v2_realistic
+206,El producto fallo en la primera prueba,negativo,realistic_validation,v2_realistic
+207,La informacion no coincidia con lo pedido,negativo,realistic_validation,v2_realistic
+208,La entrega llego incompleta,negativo,realistic_validation,v2_realistic
+209,El sistema perdio los cambios,negativo,realistic_validation,v2_realistic
+210,La compra termino siendo complicada,negativo,realistic_validation,v2_realistic
+211,La atencion fue poco clara,negativo,realistic_validation,v2_realistic
+212,El reporte no mostro los datos esperados,negativo,realistic_validation,v2_realistic
+213,La guia dejo dudas sin resolver,negativo,realistic_validation,v2_realistic
+214,El tramite se quedo detenido,negativo,realistic_validation,v2_realistic
+215,La respuesta llego demasiado tarde,negativo,realistic_validation,v2_realistic
+216,El servicio fue inestable durante la solicitud,negativo,realistic_validation,v2_realistic
+217,El producto no cumplio con lo indicado,negativo,realistic_validation,v2_realistic
+218,La plataforma no permitio terminar,negativo,realistic_validation,v2_realistic
+219,La orientacion fue insuficiente,negativo,realistic_validation,v2_realistic
+220,El pedido fue cancelado sin aviso claro,negativo,realistic_validation,v2_realistic
+221,La experiencia dejo una sensacion negativa,negativo,realistic_validation,v2_realistic
+222,El sistema mostro errores al guardar,negativo,realistic_validation,v2_realistic
+223,La solicitud no avanzo despues de varios intentos,negativo,realistic_validation,v2_realistic
+224,La entrega quedo sin seguimiento,negativo,realistic_validation,v2_realistic
+225,El soporte respondio con informacion incompleta,negativo,realistic_validation,v2_realistic
+226,El proceso tomo mas tiempo del esperado,negativo,realistic_validation,v2_realistic
+227,La herramienta fue dificil de usar,negativo,realistic_validation,v2_realistic
+228,La compra genero varios inconvenientes,negativo,realistic_validation,v2_realistic
+229,El producto llego con fallas visibles,negativo,realistic_validation,v2_realistic
+230,La respuesta fue breve pero poco util,negativo,realistic_validation,v2_realistic
+231,El servicio no dio confianza,negativo,realistic_validation,v2_realistic
+232,La informacion fue contradictoria,negativo,realistic_validation,v2_realistic
+233,El tramite tuvo demasiados pasos,negativo,realistic_validation,v2_realistic
+234,La plataforma cargo muy lento,negativo,realistic_validation,v2_realistic
+235,El pedido no coincidio con la solicitud,negativo,realistic_validation,v2_realistic
+236,La guia no explico el problema principal,negativo,realistic_validation,v2_realistic
+237,El resultado final fue decepcionante,negativo,realistic_validation,v2_realistic
+238,La gestion fue desordenada,negativo,realistic_validation,v2_realistic
+239,La atencion dejo el caso abierto,negativo,realistic_validation,v2_realistic
+240,El sistema fallo al finalizar,negativo,realistic_validation,v2_realistic
+241,El producto tuvo bajo rendimiento,negativo,realistic_validation,v2_realistic
+242,La entrega no fue cuidadosa,negativo,realistic_validation,v2_realistic
+243,El servicio fue lento desde el inicio,negativo,realistic_validation,v2_realistic
+244,La consulta quedo sin resolver,negativo,realistic_validation,v2_realistic
+245,La informacion no fue suficiente,negativo,realistic_validation,v2_realistic
+246,El proceso termino con error,negativo,realistic_validation,v2_realistic
+247,La plataforma no respondia bien,negativo,realistic_validation,v2_realistic
+248,El soporte no explico los pasos,negativo,realistic_validation,v2_realistic
+249,El pedido tuvo retrasos repetidos,negativo,realistic_validation,v2_realistic
+250,La experiencia fue frustrante,negativo,realistic_validation,v2_realistic
+251,No me gusto la forma en que cerraron el caso,negativo,realistic_validation,v2_realistic
+252,El servicio prometia mas de lo que entrego,negativo,realistic_validation,v2_realistic
+253,La espera fue larga y sin actualizaciones,negativo,realistic_validation,v2_realistic
+254,El producto no parecia en buen estado,negativo,realistic_validation,v2_realistic
+255,La solucion no funciono cuando la probe,negativo,realistic_validation,v2_realistic
+256,El sistema se trabo varias veces,negativo,realistic_validation,v2_realistic
+257,La respuesta no resolvio la duda,negativo,realistic_validation,v2_realistic
+258,El tramite fue pesado y poco claro,negativo,realistic_validation,v2_realistic
+259,La entrega llego con errores,negativo,realistic_validation,v2_realistic
+260,La comunicacion fue deficiente,negativo,realistic_validation,v2_realistic
+261,El soporte fue lento para responder,negativo,realistic_validation,v2_realistic
+262,La compra no cumplio mis expectativas,negativo,realistic_validation,v2_realistic
+263,El producto se sintio inestable,negativo,realistic_validation,v2_realistic
+264,La plataforma mostro mensajes confusos,negativo,realistic_validation,v2_realistic
+265,El proceso me hizo repetir pasos,negativo,realistic_validation,v2_realistic
+266,La atencion no dio una salida concreta,negativo,realistic_validation,v2_realistic
+267,El reporte estaba incompleto,negativo,realistic_validation,v2_realistic
+268,La guia fue dificil de seguir,negativo,realistic_validation,v2_realistic
+269,La solicitud quedo bloqueada,negativo,realistic_validation,v2_realistic
+270,El pedido no tuvo seguimiento claro,negativo,realistic_validation,v2_realistic
+271,La informacion llego tarde,negativo,realistic_validation,v2_realistic
+272,El sistema no confirmo los cambios,negativo,realistic_validation,v2_realistic
+273,La entrega tuvo una mala gestion,negativo,realistic_validation,v2_realistic
+274,El producto no respondio bien,negativo,realistic_validation,v2_realistic
+275,La consulta quedo en el aire,negativo,realistic_validation,v2_realistic
+276,El servicio genero mas dudas,negativo,realistic_validation,v2_realistic
+277,La experiencia fue incomoda,negativo,realistic_validation,v2_realistic
+278,La respuesta no fue suficiente,negativo,realistic_validation,v2_realistic
+279,El tramite se volvio agotador,negativo,realistic_validation,v2_realistic
+280,La plataforma impidio continuar,negativo,realistic_validation,v2_realistic
+281,El soporte no entendio el problema,negativo,realistic_validation,v2_realistic
+282,El pedido llego con faltantes,negativo,realistic_validation,v2_realistic
+283,La informacion estaba desactualizada,negativo,realistic_validation,v2_realistic
+284,El sistema no cargo correctamente,negativo,realistic_validation,v2_realistic
+285,La compra se sintio insegura,negativo,realistic_validation,v2_realistic
+286,El producto no cumplio lo basico,negativo,realistic_validation,v2_realistic
+287,La atencion fue distante,negativo,realistic_validation,v2_realistic
+288,El proceso fue demasiado lento,negativo,realistic_validation,v2_realistic
+289,La entrega fue poco cuidadosa,negativo,realistic_validation,v2_realistic
+290,La solicitud fue rechazada sin explicacion,negativo,realistic_validation,v2_realistic
+291,El servicio fallo cuando lo necesitaba,negativo,realistic_validation,v2_realistic
+292,La herramienta no ayudo a resolver la tarea,negativo,realistic_validation,v2_realistic
+293,El reporte genero confusion,negativo,realistic_validation,v2_realistic
+294,La respuesta fue tardia e incompleta,negativo,realistic_validation,v2_realistic
+295,El sistema no permitio finalizar,negativo,realistic_validation,v2_realistic
+296,La experiencia quedo por debajo de lo esperado,negativo,realistic_validation,v2_realistic
+297,El seguimiento fue insuficiente,negativo,realistic_validation,v2_realistic
+298,La entrega no llego como se indico,negativo,realistic_validation,v2_realistic
+299,El resultado no fue satisfactorio,negativo,realistic_validation,v2_realistic
+300,La orientacion no ayudo a cerrar el caso,negativo,realistic_validation,v2_realistic

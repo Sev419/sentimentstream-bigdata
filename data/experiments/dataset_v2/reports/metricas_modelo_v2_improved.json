@@ -1,0 +1,125 @@
+{
+  "generated_at_utc": "2026-04-27T05:24:27.096976+00:00",
+  "input_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_labeled_300.csv",
+  "total_registros": 300,
+  "train_registros": 240,
+  "test_registros": 60,
+  "estratificacion": true,
+  "features": {
+    "preprocesamiento": [
+      "lowercase",
+      "normalizacion_acentos",
+      "eliminacion_puntuacion",
+      "stopwords_espanol"
+    ],
+    "tfidf": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 2000,
+      "sublinear_tf": true
+    }
+  },
+  "baseline_experimental": {
+    "descripcion": "train_model_v2_experimental.py",
+    "f1_ponderado": 0.622983,
+    "accuracy": 0.616667
+  },
+  "modelos": {
+    "naive_bayes": {
+      "accuracy": 0.55,
+      "precision_ponderada": 0.564478,
+      "recall_ponderado": 0.55,
+      "f1_ponderado": 0.556099,
+      "matriz_confusion": [
+        [
+          7,
+          1,
+          12
+        ],
+        [
+          4,
+          16,
+          0
+        ],
+        [
+          9,
+          1,
+          10
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    },
+    "logistic_regression": {
+      "accuracy": 0.483333,
+      "precision_ponderada": 0.491729,
+      "recall_ponderado": 0.483333,
+      "f1_ponderado": 0.487305,
+      "matriz_confusion": [
+        [
+          6,
+          2,
+          12
+        ],
+        [
+          5,
+          15,
+          0
+        ],
+        [
+          10,
+          2,
+          8
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    },
+    "linear_svm": {
+      "accuracy": 0.5,
+      "precision_ponderada": 0.503133,
+      "recall_ponderado": 0.5,
+      "f1_ponderado": 0.501407,
+      "matriz_confusion": [
+        [
+          6,
+          4,
+          10
+        ],
+        [
+          5,
+          15,
+          0
+        ],
+        [
+          10,
+          1,
+          9
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    }
+  },
+  "mejor_modelo": "naive_bayes",
+  "comparacion": {
+    "f1_baseline": 0.622983,
+    "f1_mejor_improved": 0.556099,
+    "delta_f1": -0.066884
+  },
+  "archivos_generados": {
+    "metricas_json": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\metricas_modelo_v2_improved.json",
+    "reporte_md": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\reports\\reporte_modelo_v2_improved.md"
+  }
+}

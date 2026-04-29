@@ -1,0 +1,71 @@
+{
+  "generated_at_utc": "2026-04-27T06:00:50.983899+00:00",
+  "input_csv": "C:\\Users\\User\\Desktop\\Big DAta\\sentimentstream\\data\\experiments\\dataset_v2\\labeled\\dataset_sentimientos_v2_augmented_1800.csv",
+  "total_registros": 1800,
+  "train_registros": 1440,
+  "test_registros": 360,
+  "distribucion_total": {
+    "negativo": 600,
+    "neutral": 600,
+    "positivo": 600
+  },
+  "modelos": {
+    "logistic_regression": {
+      "accuracy": 1.0,
+      "precision_ponderada": 1.0,
+      "recall_ponderado": 1.0,
+      "f1_ponderado": 1.0,
+      "matriz_confusion": [
+        [
+          120,
+          0,
+          0
+        ],
+        [
+          0,
+          120,
+          0
+        ],
+        [
+          0,
+          0,
+          120
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    },
+    "naive_bayes": {
+      "accuracy": 0.980556,
+      "precision_ponderada": 0.981202,
+      "recall_ponderado": 0.980556,
+      "f1_ponderado": 0.980428,
+      "matriz_confusion": [
+        [
+          120,
+          0,
+          0
+        ],
+        [
+          0,
+          120,
+          0
+        ],
+        [
+          2,
+          5,
+          113
+        ]
+      ],
+      "labels_matriz_confusion": [
+        "negativo",
+        "neutral",
+        "positivo"
+      ]
+    }
+  },
+  "mejor_modelo": "logistic_regression"
+}
