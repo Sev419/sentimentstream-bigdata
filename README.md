@@ -1,3 +1,6 @@
+Integrantes
+# Sebastian Urrego Argaez  
+# Andres Camilo Hincapie vargas
 # SentimentStream - Pipeline Big Data Para Analisis De Sentimientos
 
 ## 1. Descripcion Del Proyecto
